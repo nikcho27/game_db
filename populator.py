@@ -1,8 +1,8 @@
 import sqlite3
 from datetime import datetime
 
-database_path = "C:\\Users\\Detvanpa\\OneDrive - Faurecia\\LIMA-Transfer\\DB project\\game.db"
-generated_data_path = "C:\\Users\\Detvanpa\\OneDrive - Faurecia\\LIMA-Transfer\\DB project\\mystic_quest-main\\mystic_quest-main\\generated_entities.txt"
+database_path = "C:\\Users\\Detvanpa\\OneDrive - Faurecia\\LIMA-Transfer\\GAMEdb\\game_db\\game.db"
+generated_data_path = "C:\\Users\\Detvanpa\\OneDrive - Faurecia\\LIMA-Transfer\\GAMEdb\\game_db\\mystic_quest-main\\generated_entities.txt"
 
 # Connect to SQLite database
 conn = sqlite3.connect(database_path)
