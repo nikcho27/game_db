@@ -1,0 +1,9556 @@
+--- vendor ---
+
+"vendor_id"=720
+"npc_type"="Shopkeepers"
+"first_name"="Faenar"
+"last_name"="Goldenleaf"
+"location"=605.21
+
+
+--- event ---
+
+"event_id"=136
+"event_name"="Fall of the Shadow Titan"
+"event_time"=233
+
+
+--- npc ---
+
+"npc_id"=324
+"npc_type"="Quest-givers"
+"first_name"="Zandalar"
+"last_name"="Seaspray"
+"location"=383.05
+
+
+--- enemy ---
+
+"enemy_id"=271
+"enemy_name"="Crystal Gargoyle"
+"enemy_type"="Giant"
+"hitpoints"=2
+"warcry"="uqxolweo"
+
+
+--- guild ---
+
+"guild_id"=327
+"name"="The Righteous"
+"description"="Knowledge"
+"leader"="Valdrick"
+"members"=214
+"founded_year"=707
+
+
+--- enemy ---
+
+"enemy_id"=61
+"enemy_name"="Ghostly Archer"
+"enemy_type"="Construct"
+"hitpoints"=770
+"warcry"="priegqoq"
+
+
+--- item ---
+
+"item_id"=13
+"item_name"="Quicksilver Bullets"
+"item_type"="Potion"
+
+
+--- vendor ---
+
+"vendor_id"=559
+"npc_type"="Shopkeepers"
+"first_name"="Elanor"
+"last_name"="Starflame"
+"location"=944.32
+
+
+--- event ---
+
+"event_id"=221
+"event_name"="Lost Horizon's Discovery"
+"event_time"=537
+
+
+--- guild ---
+
+"guild_id"=84
+"name"="Knights of Valor"
+"description"="Crafting"
+"leader"="Tyrndar"
+"members"=230
+"founded_year"=359
+
+
+--- npc ---
+
+"npc_id"=461
+"npc_type"="Quest-givers"
+"first_name"="Thera"
+"last_name"="Shadowflame"
+"location"=171.55
+
+
+--- vendor ---
+
+"vendor_id"=613
+"npc_type"="Quest-givers"
+"first_name"="Thaelen"
+"last_name"="Goldenleaf"
+"location"=198.28
+
+
+--- item ---
+
+"item_id"=163
+"item_name"="Boots of the Shadow Dancer"
+"item_type"="Staff"
+
+
+--- item ---
+
+"item_id"=335
+"item_name"="Staff of the Archmage"
+"item_type"="Amulet"
+
+
+--- vendor ---
+
+"vendor_id"=700
+"npc_type"="Lore_Masters"
+"first_name"="Qelthar"
+"last_name"="Moonfire"
+"location"=522.22
+
+
+--- character ---
+
+"character_id"=55
+"first_name"="Endora"
+"last_name"="Dreadclaw"
+"race"="Orc"
+"class"="Mage"
+"guild"="Guardians of Light"
+"last_login"="2022-02-02T00:53:43"
+
+
+--- question ---
+
+"question_id"=55
+"content"="Time you enjoy wasting on this game was not wasted time."
+"choice_options"=618
+"emotion"=874
+
+
+--- guild ---
+
+"guild_id"=343
+"name"="Silver Lances"
+"description"="Crafting"
+"leader"="Elira"
+"members"=731
+"founded_year"=45
+
+
+--- item ---
+
+"item_id"=204
+"item_name"="Chronomancer's Sandglass"
+"item_type"="Amulet"
+
+
+--- enemy ---
+
+"enemy_id"=20
+"enemy_name"="Black Widow"
+"enemy_type"="Humanoid"
+"hitpoints"=841
+"warcry"="drilsasp"
+
+
+--- item ---
+
+"item_id"=310
+"item_name"="Armbands of Resilience"
+"item_type"="Staff"
+
+
+--- event ---
+
+"event_id"=94
+"event_name"="The Fall of Skyspire"
+"event_time"=626
+
+
+--- team ---
+
+"team_id"=47
+"team_name"="Dusk_Rebels"
+"kingdom"="Elphora"
+"n_members"=256
+
+
+--- enemy ---
+
+"enemy_id"=26
+"enemy_name"="Corrupted Angel"
+"enemy_type"="Undead"
+"hitpoints"=480
+"warcry"="dfetfisl"
+
+
+--- enemy ---
+
+"enemy_id"=196
+"enemy_name"="Shadow Stalker"
+"enemy_type"="Humanoid"
+"hitpoints"=414
+"warcry"="abrefbo"
+
+
+--- guild ---
+
+"guild_id"=140
+"name"="Mercenaries of Fortune"
+"description"="Exploration"
+"leader"="Elidora"
+"members"=195
+"founded_year"=852
+
+
+--- vendor ---
+
+"vendor_id"=502
+"npc_type"="Skill_Trainers"
+"first_name"="Lunarion"
+"last_name"="Wildfire"
+"location"=704.33
+
+
+--- question ---
+
+"question_id"=190
+"content"="He who fights with monsters should be careful lest he thereby become a monster. And if you grind too long, the grind also grinds you."
+"choice_options"=951
+"emotion"=345
+
+
+--- question ---
+
+"question_id"=273
+"content"="Welcome, welcome! Do you come often? No, really, how often?"
+"choice_options"=983
+"emotion"=454
+
+
+--- vendor ---
+
+"vendor_id"=635
+"npc_type"="Quest-givers"
+"first_name"="Nymriel"
+"last_name"="Darkfall"
+"location"=943.07
+
+
+--- character ---
+
+"character_id"=50
+"first_name"="Xyralis"
+"last_name"="Deeproot"
+"race"="Naga"
+"class"="Healer"
+"guild"="Frostbite Clan"
+"last_login"="2021-11-15T04:43:38"
+
+
+--- team ---
+
+"team_id"=15
+"team_name"="Indigo_Invaders"
+"kingdom"="Orynthia"
+"n_members"=297
+
+
+--- item ---
+
+"item_id"=269
+"item_name"="Ring of the Sages"
+"item_type"="Potion"
+
+
+--- guild ---
+
+"guild_id"=363
+"name"="Archmage Assembly"
+"description"="Exploration"
+"leader"="Jadefang"
+"members"=504
+"founded_year"=818
+
+
+--- event ---
+
+"event_id"=169
+"event_name"="Serpent's Ascension"
+"event_time"=10
+
+
+--- team ---
+
+"team_id"=110
+"team_name"="MysticHeralds"
+"kingdom"="Cimmeria"
+"n_members"=805
+
+
+--- enemy ---
+
+"enemy_id"=127
+"enemy_name"="Twilight Satyr"
+"enemy_type"="Dragon"
+"hitpoints"=944
+"warcry"="stubque"
+
+
+--- item ---
+
+"item_id"=105
+"item_name"="Potion of Eternal Vigor"
+"item_type"="Amulet"
+
+
+--- event ---
+
+"event_id"=98
+"event_name"="Vault of the Fallen Stars"
+"event_time"=630
+
+
+--- guild ---
+
+"guild_id"=38
+"name"="Dusk to Dawn"
+"description"="Spying"
+"leader"="Xirelle"
+"members"=13
+"founded_year"=505
+
+
+--- event ---
+
+"event_id"=44
+"event_name"="Fall of the Shadow Titan"
+"event_time"=772
+
+
+--- team ---
+
+"team_id"=127
+"team_name"="Elemental_Force"
+"kingdom"="Orynthia"
+"n_members"=19
+
+
+--- event ---
+
+"event_id"=232
+"event_name"="Darkness in Highfell"
+"event_time"=212
+
+
+--- vendor ---
+
+"vendor_id"=651
+"npc_type"="Skill_Trainers"
+"first_name"="Faenar"
+"last_name"="Flamestrike"
+"location"=807.86
+
+
+--- team ---
+
+"team_id"=55
+"team_name"="Shadow_Assassins"
+"kingdom"="Valoria"
+"n_members"=433
+
+
+--- enemy ---
+
+"enemy_id"=149
+"enemy_name"="Time-Weaver"
+"enemy_type"="Beast"
+"hitpoints"=557
+"warcry"="udcaesmu"
+
+
+--- item ---
+
+"item_id"=128
+"item_name"="Boots of Swiftness"
+"item_type"="Bow"
+
+
+--- vendor ---
+
+"vendor_id"=699
+"npc_type"="Shopkeepers"
+"first_name"="Serafelle"
+"last_name"="Dragonfang"
+"location"=429.87
+
+
+--- character ---
+
+"character_id"=111
+"first_name"="Tyrndar"
+"last_name"="Silvershadow"
+"race"="Naga"
+"class"="Rogue"
+"guild"="Dragon Slayers"
+"last_login"="2022-02-03T03:19:21"
+
+
+--- question ---
+
+"question_id"=269
+"content"="Man is the cruelest animal. Especially in PvP."
+"choice_options"=778
+"emotion"=544
+
+
+--- item ---
+
+"item_id"=283
+"item_name"="Vial of Healing Winds"
+"item_type"="Staff"
+
+
+--- question ---
+
+"question_id"=278
+"content"="We make a special deal for you, only today, only now: Buy one health potion, get one free!"
+"choice_options"=543
+"emotion"=871
+
+
+--- enemy ---
+
+"enemy_id"=194
+"enemy_name"="Earthquake Worm"
+"enemy_type"="Dragon"
+"hitpoints"=250
+"warcry"="bluszesme"
+
+
+--- character ---
+
+"character_id"=26
+"first_name"="Zephyra"
+"last_name"="Thundersong"
+"race"="Elf"
+"class"="Summoner"
+"guild"="Emerald Enchanters"
+"last_login"="2022-10-12T16:42:50"
+
+
+--- guild ---
+
+"guild_id"=18
+"name"="Heavenly Healers"
+"description"="Healing"
+"leader"="Zaela"
+"members"=215
+"founded_year"=118
+
+
+--- enemy ---
+
+"enemy_id"=9
+"enemy_name"="Cyclops Brute"
+"enemy_type"="Construct"
+"hitpoints"=659
+"warcry"="iotradro"
+
+
+--- enemy ---
+
+"enemy_id"=90
+"enemy_name"="Enraged Cyclops"
+"enemy_type"="Beast"
+"hitpoints"=491
+"warcry"="aubriswec"
+
+
+--- item ---
+
+"item_id"=53
+"item_name"="Staff of Tranquility"
+"item_type"="Shield"
+
+
+--- question ---
+
+"question_id"=62
+"content"="Howdy, partner. Ready to saddle up for another bounty?"
+"choice_options"=879
+"emotion"=112
+
+
+--- enemy ---
+
+"enemy_id"=29
+"enemy_name"="Alpha Wolf"
+"enemy_type"="Beast"
+"hitpoints"=432
+"warcry"="smoab"
+
+
+--- event ---
+
+"event_id"=29
+"event_name"="Chronicle of the Sealed Gods"
+"event_time"=969
+
+
+--- enemy ---
+
+"enemy_id"=108
+"enemy_name"="Cursed Samurai"
+"enemy_type"="Humanoid"
+"hitpoints"=859
+"warcry"="iofluk"
+
+
+--- question ---
+
+"question_id"=119
+"content"="Fear not, hero! Take this sword, it's dangerous to go alone! Also, it's 50% off today."
+"choice_options"=328
+"emotion"=115
+
+
+--- npc ---
+
+"npc_id"=335
+"npc_type"="Shopkeepers"
+"first_name"="Faenar"
+"last_name"="Shadowflame"
+"location"=269.12
+
+
+--- question ---
+
+"question_id"=158
+"content"="Verily, you've conquered the Mountain of Despair! Here's 50 gold coins."
+"choice_options"=857
+"emotion"=823
+
+
+--- vendor ---
+
+"vendor_id"=546
+"npc_type"="Skill_Trainers"
+"first_name"="Gilean"
+"last_name"="Goldenleaf"
+"location"=151.25
+
+
+--- team ---
+
+"team_id"=82
+"team_name"="FrostGuardians"
+"kingdom"="Elphora"
+"n_members"=549
+
+
+--- guild ---
+
+"guild_id"=362
+"name"="Nature's Whisper"
+"description"="Spying"
+"leader"="Zephyra"
+"members"=374
+"founded_year"=298
+
+
+--- question ---
+
+"question_id"=246
+"content"="What is better? To be born good, or to overcome your evil nature through great effort?"
+"choice_options"=304
+"emotion"=805
+
+
+--- guild ---
+
+"guild_id"=244
+"name"="Spirit Guardians"
+"description"="Spying"
+"leader"="Zyraziel"
+"members"=731
+"founded_year"=595
+
+
+--- enemy ---
+
+"enemy_id"=13
+"enemy_name"="Fire Imp"
+"enemy_type"="Demon"
+"hitpoints"=832
+"warcry"="fqiti"
+
+
+--- guild ---
+
+"guild_id"=250
+"name"="Crypt Crawlers"
+"description"="Knowledge"
+"leader"="Azalor"
+"members"=518
+"founded_year"=402
+
+
+--- character ---
+
+"character_id"=90
+"first_name"="Endora"
+"last_name"="Stormstrike"
+"race"="Elf"
+"class"="Summoner"
+"guild"="Archmage Assembly"
+"last_login"="2022-04-11T07:36:43"
+
+
+--- event ---
+
+"event_id"=2
+"event_name"="Timeless Enigma"
+"event_time"=411
+
+
+--- character ---
+
+"character_id"=83
+"first_name"="Aethor"
+"last_name"="Oakheart"
+"race"="Elf"
+"class"="Healer"
+"guild"="Artisans of Alchemy"
+"last_login"="2022-11-25T08:57:02"
+
+
+--- event ---
+
+"event_id"=72
+"event_name"="Slaying of the Ice Queen"
+"event_time"=293
+
+
+--- question ---
+
+"question_id"=243
+"content"="Between the idea and the reality, between the potion and the effect, falls the lag."
+"choice_options"=571
+"emotion"=765
+
+
+--- item ---
+
+"item_id"=8
+"item_name"="Girdle of Strength"
+"item_type"="Amulet"
+
+
+--- event ---
+
+"event_id"=22
+"event_name"="Spectral Masquerade"
+"event_time"=415
+
+
+--- event ---
+
+"event_id"=32
+"event_name"="Escape from Shadow Hold"
+"event_time"=326
+
+
+--- event ---
+
+"event_id"=161
+"event_name"="Odyssey of the Stormcaller"
+"event_time"=915
+
+
+--- question ---
+
+"question_id"=85
+"content"="The princess is in another castle... but she left her Snapchat, so it's not a total loss."
+"choice_options"=235
+"emotion"=138
+
+
+--- event ---
+
+"event_id"=105
+"event_name"="Dance of the Moonshadow"
+"event_time"=74
+
+
+--- guild ---
+
+"guild_id"=52
+"name"="The Righteous"
+"description"="Questing"
+"leader"="Thera"
+"members"=191
+"founded_year"=478
+
+
+--- question ---
+
+"question_id"=47
+"content"="Mastering others is strength; mastering yourself is true power."
+"choice_options"=206
+"emotion"=926
+
+
+--- item ---
+
+"item_id"=278
+"item_name"="Boots of the Shadow Dancer"
+"item_type"="Sword"
+
+
+--- enemy ---
+
+"enemy_id"=80
+"enemy_name"="Demonic Harbinger"
+"enemy_type"="Undead"
+"hitpoints"=68
+"warcry"="stuekb"
+
+
+--- vendor ---
+
+"vendor_id"=682
+"npc_type"="Shopkeepers"
+"first_name"="Nymriel"
+"last_name"="Stoneshield"
+"location"=499.25
+
+
+--- guild ---
+
+"guild_id"=106
+"name"="Crypt Crawlers"
+"description"="Mage Training"
+"leader"="Xyphera"
+"members"=337
+"founded_year"=275
+
+
+--- question ---
+
+"question_id"=299
+"content"="Before you proceed, hero, please read our terms of service."
+"choice_options"=660
+"emotion"=847
+
+
+--- guild ---
+
+"guild_id"=137
+"name"="Thieves of Time"
+"description"="Questing"
+"leader"="Gorgrim"
+"members"=196
+"founded_year"=920
+
+
+--- guild ---
+
+"guild_id"=125
+"name"="Desert Nomads"
+"description"="Spying"
+"leader"="Orik"
+"members"=383
+"founded_year"=838
+
+
+--- team ---
+
+"team_id"=43
+"team_name"="Frost_Wolves"
+"kingdom"="Orynthia"
+"n_members"=541
+
+
+--- enemy ---
+
+"enemy_id"=253
+"enemy_name"="Plague Rat"
+"enemy_type"="Demon"
+"hitpoints"=576
+"warcry"="qlepra"
+
+
+--- character ---
+
+"character_id"=30
+"first_name"="Zaela"
+"last_name"="Ironsong"
+"race"="Human"
+"class"="Archer"
+"guild"="Heavenly Healers"
+"last_login"="2021-02-05T11:39:54"
+
+
+--- vendor ---
+
+"vendor_id"=620
+"npc_type"="Lore_Masters"
+"first_name"="Veyla"
+"last_name"="Stormbringer"
+"location"=340.65
+
+
+--- guild ---
+
+"guild_id"=267
+"name"="Wisdom Weavers"
+"description"="Questing"
+"leader"="Thundara"
+"members"=984
+"founded_year"=448
+
+
+--- enemy ---
+
+"enemy_id"=254
+"enemy_name"="Warrior Orc"
+"enemy_type"="Humanoid"
+"hitpoints"=874
+"warcry"="braatri"
+
+
+--- guild ---
+
+"guild_id"=345
+"name"="Elixir Masters"
+"description"="Mage Training"
+"leader"="Loralei"
+"members"=71
+"founded_year"=268
+
+
+--- character ---
+
+"character_id"=4
+"first_name"="Aerendir"
+"last_name"="Deeproot"
+"race"="Elf"
+"class"="Rogue"
+"guild"="Nature's Whisper"
+"last_login"="2021-04-14T09:55:47"
+
+
+--- npc ---
+
+"npc_id"=483
+"npc_type"="Skill_Trainers"
+"first_name"="Xaradra"
+"last_name"="Ravenclaw"
+"location"=815.02
+
+
+--- question ---
+
+"question_id"=14
+"content"="A dragon terrorizes the lands. Oh, you've heard that one before?"
+"choice_options"=769
+"emotion"=968
+
+
+--- vendor ---
+
+"vendor_id"=696
+"npc_type"="Shopkeepers"
+"first_name"="Thaelen"
+"last_name"="Leafwhisper"
+"location"=772.35
+
+
+--- guild ---
+
+"guild_id"=301
+"name"="Guardians of Light"
+"description"="Mage Training"
+"leader"="Aerendir"
+"members"=510
+"founded_year"=793
+
+
+--- enemy ---
+
+"enemy_id"=145
+"enemy_name"="Clockwork Guardian"
+"enemy_type"="Undead"
+"hitpoints"=609
+"warcry"="odrewyo"
+
+
+--- character ---
+
+"character_id"=29
+"first_name"="Thundara"
+"last_name"="Ironbane"
+"race"="Dwarf"
+"class"="Summoner"
+"guild"="Dusk to Dawn"
+"last_login"="2021-12-28T02:33:35"
+
+
+--- enemy ---
+
+"enemy_id"=220
+"enemy_name"="Corrupted Angel"
+"enemy_type"="Magical"
+"hitpoints"=391
+"warcry"="oofaeylo"
+
+
+--- item ---
+
+"item_id"=229
+"item_name"="Crown of the Lost King"
+"item_type"="Ring"
+
+
+--- enemy ---
+
+"enemy_id"=215
+"enemy_name"="Cave Spider"
+"enemy_type"="Demon"
+"hitpoints"=353
+"warcry"="icbegqosp"
+
+
+--- event ---
+
+"event_id"=157
+"event_name"="Festival of Golden Leaves"
+"event_time"=785
+
+
+--- vendor ---
+
+"vendor_id"=638
+"npc_type"="Shopkeepers"
+"first_name"="Xirelle"
+"last_name"="Shadowflame"
+"location"=917.92
+
+
+--- npc ---
+
+"npc_id"=327
+"npc_type"="Shopkeepers"
+"first_name"="Raelis"
+"last_name"="Frostclaw"
+"location"=557.8
+
+
+--- team ---
+
+"team_id"=10
+"team_name"="Unseen_Rogues"
+"kingdom"="Orynthia"
+"n_members"=546
+
+
+--- item ---
+
+"item_id"=206
+"item_name"="Boots of Swiftness"
+"item_type"="Bow"
+
+
+--- character ---
+
+"character_id"=48
+"first_name"="Lythor"
+"last_name"="Silvershadow"
+"race"="Human"
+"class"="Summoner"
+"guild"="Gold Brokers"
+"last_login"="2023-01-02T02:32:51"
+
+
+--- enemy ---
+
+"enemy_id"=55
+"enemy_name"="Lunar Moth"
+"enemy_type"="Undead"
+"hitpoints"=169
+"warcry"="ioslefrao"
+
+
+--- guild ---
+
+"guild_id"=67
+"name"="Prophets of Doom"
+"description"="Healing"
+"leader"="Xyra"
+"members"=152
+"founded_year"=902
+
+
+--- guild ---
+
+"guild_id"=259
+"name"="Shadow Society"
+"description"="Spying"
+"leader"="Toraell"
+"members"=915
+"founded_year"=323
+
+
+--- event ---
+
+"event_id"=173
+"event_name"="Cursed Souls' Nightfall"
+"event_time"=430
+
+
+--- question ---
+
+"question_id"=96
+"content"="To be or not to be, that is the quest."
+"choice_options"=376
+"emotion"=510
+
+
+--- guild ---
+
+"guild_id"=170
+"name"="Emerald Enchanters"
+"description"="Crafting"
+"leader"="Valyndra"
+"members"=414
+"founded_year"=250
+
+
+--- question ---
+
+"question_id"=137
+"content"="Fortune favors the bold. But XP favors the grinder."
+"choice_options"=203
+"emotion"=403
+
+
+--- enemy ---
+
+"enemy_id"=128
+"enemy_name"="Bloodthirsty Minotaur"
+"enemy_type"="Undead"
+"hitpoints"=281
+"warcry"="cledruble"
+
+
+--- guild ---
+
+"guild_id"=226
+"name"="Mind Over Matter"
+"description"="Exploration"
+"leader"="Zephyrix"
+"members"=569
+"founded_year"=773
+
+
+--- npc ---
+
+"npc_id"=341
+"npc_type"="Quest-givers"
+"first_name"="Saphyra"
+"last_name"="Stoneforge"
+"location"=84.41
+
+
+--- guild ---
+
+"guild_id"=171
+"name"="Storm Riders"
+"description"="Crafting"
+"leader"="Veylan"
+"members"=488
+"founded_year"=639
+
+
+--- guild ---
+
+"guild_id"=303
+"name"="Storm Riders"
+"description"="Questing"
+"leader"="Veylan"
+"members"=11
+"founded_year"=84
+
+
+--- event ---
+
+"event_id"=135
+"event_name"="Festival of the Eternal Spring"
+"event_time"=998
+
+
+--- guild ---
+
+"guild_id"=253
+"name"="Dragon Slayers"
+"description"="Mage Training"
+"leader"="Jadefang"
+"members"=44
+"founded_year"=101
+
+
+--- item ---
+
+"item_id"=145
+"item_name"="Ring of the Moon"
+"item_type"="Ring"
+
+
+--- item ---
+
+"item_id"=130
+"item_name"="Ring of the Fallen"
+"item_type"="Sword"
+
+
+--- vendor ---
+
+"vendor_id"=507
+"npc_type"="Quest-givers"
+"first_name"="Oromis"
+"last_name"="Silverbow"
+"location"=650.74
+
+
+--- event ---
+
+"event_id"=24
+"event_name"="Carnival of the Forgotten"
+"event_time"=931
+
+
+--- character ---
+
+"character_id"=119
+"first_name"="Ulfrik"
+"last_name"="Fellseeker"
+"race"="Undead"
+"class"="Rogue"
+"guild"="Artisans of Alchemy"
+"last_login"="2022-12-05T03:33:30"
+
+
+--- enemy ---
+
+"enemy_id"=170
+"enemy_name"="Fallen Archangel"
+"enemy_type"="Undead"
+"hitpoints"=420
+"warcry"="udra"
+
+
+--- team ---
+
+"team_id"=68
+"team_name"="Warden_of_Will"
+"kingdom"="Elphora"
+"n_members"=998
+
+
+--- npc ---
+
+"npc_id"=466
+"npc_type"="Lore_Masters"
+"first_name"="Lythra"
+"last_name"="Dragonfang"
+"location"=435.42
+
+
+--- question ---
+
+"question_id"=98
+"content"="Good to see you, hero! Or should I say... cash cow?"
+"choice_options"=603
+"emotion"=398
+
+
+--- question ---
+
+"question_id"=174
+"content"="In this world, it's grind or be grinded!"
+"choice_options"=591
+"emotion"=230
+
+
+--- npc ---
+
+"npc_id"=410
+"npc_type"="Shopkeepers"
+"first_name"="Lythor"
+"last_name"="Fellseeker"
+"location"=411.97
+
+
+--- vendor ---
+
+"vendor_id"=572
+"npc_type"="Shopkeepers"
+"first_name"="Thorgal"
+"last_name"="Firemantle"
+"location"=60.74
+
+
+--- character ---
+
+"character_id"=53
+"first_name"="Orifel"
+"last_name"="Glowspark"
+"race"="Dwarf"
+"class"="Mage"
+"guild"="Heroes of Harmony"
+"last_login"="2022-06-30T21:33:09"
+
+
+--- guild ---
+
+"guild_id"=2
+"name"="The Undying"
+"description"="Trading"
+"leader"="Thera"
+"members"=753
+"founded_year"=929
+
+
+--- guild ---
+
+"guild_id"=270
+"name"="Wizards of the Coast"
+"description"="Trading"
+"leader"="Xirelle"
+"members"=333
+"founded_year"=917
+
+
+--- question ---
+
+"question_id"=87
+"content"="To defeat your enemies, you must know them, train hard, and also buy some premium gems."
+"choice_options"=344
+"emotion"=487
+
+
+--- guild ---
+
+"guild_id"=118
+"name"="The Righteous"
+"description"="Exploration"
+"leader"="Toraell"
+"members"=975
+"founded_year"=301
+
+
+--- guild ---
+
+"guild_id"=47
+"name"="The Silent Footsteps"
+"description"="Spying"
+"leader"="Thundara"
+"members"=686
+"founded_year"=604
+
+
+--- character ---
+
+"character_id"=12
+"first_name"="Zandalar"
+"last_name"="Leafwhisper"
+"race"="Naga"
+"class"="Archer"
+"guild"="Wisdom Weavers"
+"last_login"="2022-03-19T03:59:31"
+
+
+--- event ---
+
+"event_id"=38
+"event_name"="Blood Moon Rising"
+"event_time"=822
+
+
+--- question ---
+
+"question_id"=64
+"content"="Hey, listen! You should really stock up on potions before the next fight."
+"choice_options"=451
+"emotion"=595
+
+
+--- event ---
+
+"event_id"=62
+"event_name"="Warsong's End"
+"event_time"=185
+
+
+--- question ---
+
+"question_id"=199
+"content"="Enemies ahead? I can take 'em!"
+"choice_options"=312
+"emotion"=560
+
+
+--- question ---
+
+"question_id"=152
+"content"="Adventurer, your future is whatever you grind it to be."
+"choice_options"=968
+"emotion"=120
+
+
+--- character ---
+
+"character_id"=96
+"first_name"="Morwyn"
+"last_name"="Windstrider"
+"race"="Human"
+"class"="Mage"
+"guild"="Crypt Crawlers"
+"last_login"="2022-04-12T17:53:17"
+
+
+--- question ---
+
+"question_id"=259
+"content"="Why do today what you can put off for tomorrow? Actually, the Dragon won't slay itself."
+"choice_options"=356
+"emotion"=616
+
+
+--- item ---
+
+"item_id"=68
+"item_name"="Helm of the Silver Knight"
+"item_type"="Shield"
+
+
+--- enemy ---
+
+"enemy_id"=282
+"enemy_name"="Demonic Harbinger"
+"enemy_type"="Giant"
+"hitpoints"=264
+"warcry"="nwaplab"
+
+
+--- enemy ---
+
+"enemy_id"=119
+"enemy_name"="Unholy Death Knight"
+"enemy_type"="Elemental"
+"hitpoints"=383
+"warcry"="ayqo"
+
+
+--- guild ---
+
+"guild_id"=20
+"name"="Moonlit Mystics"
+"description"="Questing"
+"leader"="Oromis"
+"members"=197
+"founded_year"=316
+
+
+--- question ---
+
+"question_id"=15
+"content"="Fear not, hero! Take this sword, it's dangerous to go alone! Also, it's 50% off today."
+"choice_options"=36
+"emotion"=889
+
+
+--- item ---
+
+"item_id"=333
+"item_name"="Earthshaker Hammer"
+"item_type"="Potion"
+
+
+--- npc ---
+
+"npc_id"=287
+"npc_type"="Lore_Masters"
+"first_name"="Raelthorn"
+"last_name"="Shadowflame"
+"location"=79.22
+
+
+--- item ---
+
+"item_id"=45
+"item_name"="Dagger of the Trickster"
+"item_type"="Staff"
+
+
+--- question ---
+
+"question_id"=169
+"content"="There is always some madness in leveling up. But there is also always some reason in madness."
+"choice_options"=474
+"emotion"=41
+
+
+--- event ---
+
+"event_id"=180
+"event_name"="Temple of the Wicked Oracle"
+"event_time"=820
+
+
+--- npc ---
+
+"npc_id"=417
+"npc_type"="Skill_Trainers"
+"first_name"="Aeriana"
+"last_name"="Dragonfang"
+"location"=253.35
+
+
+--- item ---
+
+"item_id"=139
+"item_name"="Bow of the Eternal Forest"
+"item_type"="Potion"
+
+
+--- item ---
+
+"item_id"=71
+"item_name"="Maul of the Frost Giant"
+"item_type"="Potion"
+
+
+--- enemy ---
+
+"enemy_id"=82
+"enemy_name"="Black Widow"
+"enemy_type"="Beast"
+"hitpoints"=386
+"warcry"="otrobrugra"
+
+
+--- guild ---
+
+"guild_id"=130
+"name"="Ocean's Children"
+"description"="Trading"
+"leader"="Veyla"
+"members"=336
+"founded_year"=482
+
+
+--- guild ---
+
+"guild_id"=135
+"name"="Spirit Guardians"
+"description"="PvP"
+"leader"="Solandria"
+"members"=691
+"founded_year"=263
+
+
+--- event ---
+
+"event_id"=188
+"event_name"="Escape from Shadow Hold"
+"event_time"=290
+
+
+--- enemy ---
+
+"enemy_id"=19
+"enemy_name"="Swamp Leviathan"
+"enemy_type"="Beast"
+"hitpoints"=13
+"warcry"="hacreiplo"
+
+
+--- team ---
+
+"team_id"=23
+"team_name"="Grim_Reapers"
+"kingdom"="Valoria"
+"n_members"=145
+
+
+--- event ---
+
+"event_id"=34
+"event_name"="Battle of the Whispering Woods"
+"event_time"=534
+
+
+--- guild ---
+
+"guild_id"=225
+"name"="Heralds of Hope"
+"description"="Trading"
+"leader"="Illinor"
+"members"=433
+"founded_year"=636
+
+
+--- guild ---
+
+"guild_id"=239
+"name"="Seekers of Truth"
+"description"="Trading"
+"leader"="Shaelis"
+"members"=839
+"founded_year"=366
+
+
+--- vendor ---
+
+"vendor_id"=596
+"npc_type"="Quest-givers"
+"first_name"="Xyralis"
+"last_name"="Deeproot"
+"location"=988.96
+
+
+--- enemy ---
+
+"enemy_id"=226
+"enemy_name"="Time-Weaver"
+"enemy_type"="Undead"
+"hitpoints"=165
+"warcry"="eko"
+
+
+--- vendor ---
+
+"vendor_id"=706
+"npc_type"="Quest-givers"
+"first_name"="Faenar"
+"last_name"="Dreadclaw"
+"location"=603.83
+
+
+--- character ---
+
+"character_id"=78
+"first_name"="Daelis"
+"last_name"="Grimspine"
+"race"="Undead"
+"class"="Archer"
+"guild"="Crypt Crawlers"
+"last_login"="2022-12-27T09:29:34"
+
+
+--- guild ---
+
+"guild_id"=330
+"name"="Sun Warriors"
+"description"="PvP"
+"leader"="Keldra"
+"members"=298
+"founded_year"=856
+
+
+--- vendor ---
+
+"vendor_id"=549
+"npc_type"="Skill_Trainers"
+"first_name"="Drakan"
+"last_name"="Skullcrusher"
+"location"=410.13
+
+
+--- question ---
+
+"question_id"=265
+"content"="He who fights with monsters should be careful lest he thereby become a monster. And if you grind too long, the grind also grinds you."
+"choice_options"=569
+"emotion"=175
+
+
+--- team ---
+
+"team_id"=66
+"team_name"="Golden_Lions"
+"kingdom"="Orynthia"
+"n_members"=920
+
+
+--- item ---
+
+"item_id"=256
+"item_name"="Heartstone Amulet"
+"item_type"="Sword"
+
+
+--- question ---
+
+"question_id"=295
+"content"="The unexamined quest is not worth grinding."
+"choice_options"=696
+"emotion"=665
+
+
+--- vendor ---
+
+"vendor_id"=560
+"npc_type"="Skill_Trainers"
+"first_name"="Zaela"
+"last_name"="Steelstrike"
+"location"=594.53
+
+
+--- event ---
+
+"event_id"=49
+"event_name"="Riddle of the Ancient Sphinx"
+"event_time"=493
+
+
+--- npc ---
+
+"npc_id"=350
+"npc_type"="Quest-givers"
+"first_name"="Valeria"
+"last_name"="Shadowflame"
+"location"=379.67
+
+
+--- enemy ---
+
+"enemy_id"=263
+"enemy_name"="Frostbite Scorpion"
+"enemy_type"="Undead"
+"hitpoints"=980
+"warcry"="swico"
+
+
+--- enemy ---
+
+"enemy_id"=42
+"enemy_name"="Spiked Behemoth"
+"enemy_type"="Swarm"
+"hitpoints"=355
+"warcry"="druu"
+
+
+--- event ---
+
+"event_id"=225
+"event_name"="Rage of the Warbeast"
+"event_time"=97
+
+
+--- enemy ---
+
+"enemy_id"=64
+"enemy_name"="Crystal Gargoyle"
+"enemy_type"="Elemental"
+"hitpoints"=238
+"warcry"="kbawxob"
+
+
+--- item ---
+
+"item_id"=186
+"item_name"="Enchanted Waterskin"
+"item_type"="Ring"
+
+
+--- character ---
+
+"character_id"=74
+"first_name"="Zephyra"
+"last_name"="Firetalon"
+"race"="Human"
+"class"="Summoner"
+"guild"="Heart of Courage"
+"last_login"="2023-05-05T08:32:39"
+
+
+--- item ---
+
+"item_id"=92
+"item_name"="Champion's Greatsword"
+"item_type"="Dagger"
+
+
+--- vendor ---
+
+"vendor_id"=591
+"npc_type"="Skill_Trainers"
+"first_name"="Faelthorn"
+"last_name"="Swiftblade"
+"location"=520.43
+
+
+--- enemy ---
+
+"enemy_id"=150
+"enemy_name"="Bloodthirsty Mermaid"
+"enemy_type"="Undead"
+"hitpoints"=381
+"warcry"="slouquc"
+
+
+--- enemy ---
+
+"enemy_id"=7
+"enemy_name"="Lunar Moth"
+"enemy_type"="Flora"
+"hitpoints"=696
+"warcry"="slau"
+
+
+--- event ---
+
+"event_id"=7
+"event_name"="Blood Moon Rising"
+"event_time"=44
+
+
+--- guild ---
+
+"guild_id"=246
+"name"="Mercenaries of Fortune"
+"description"="Questing"
+"leader"="Xirelle"
+"members"=615
+"founded_year"=947
+
+
+--- guild ---
+
+"guild_id"=49
+"name"="Abyss Watchers"
+"description"="PvP"
+"leader"="Thaelis"
+"members"=277
+"founded_year"=61
+
+
+--- question ---
+
+"question_id"=141
+"content"="When it's us vs. them, always bet on us. Unless they're higher level."
+"choice_options"=846
+"emotion"=204
+
+
+--- guild ---
+
+"guild_id"=78
+"name"="Sun Warriors"
+"description"="Crafting"
+"leader"="Illinor"
+"members"=429
+"founded_year"=121
+
+
+--- enemy ---
+
+"enemy_id"=16
+"enemy_name"="Bloodthirsty Mermaid"
+"enemy_type"="Demon"
+"hitpoints"=337
+"warcry"="aagro"
+
+
+--- npc ---
+
+"npc_id"=399
+"npc_type"="Lore_Masters"
+"first_name"="Toraell"
+"last_name"="Darkveil"
+"location"=585.91
+
+
+--- enemy ---
+
+"enemy_id"=159
+"enemy_name"="Wandering Yeti"
+"enemy_type"="Humanoid"
+"hitpoints"=901
+"warcry"="droud"
+
+
+--- item ---
+
+"item_id"=257
+"item_name"="Serpent's Fang Saber"
+"item_type"="Staff"
+
+
+--- enemy ---
+
+"enemy_id"=162
+"enemy_name"="Twisted Dryad"
+"enemy_type"="Elemental"
+"hitpoints"=107
+"warcry"="bloodfu"
+
+
+--- vendor ---
+
+"vendor_id"=674
+"npc_type"="Shopkeepers"
+"first_name"="Zandalar"
+"last_name"="Silvermoon"
+"location"=911.14
+
+
+--- guild ---
+
+"guild_id"=310
+"name"="Nature's Whisper"
+"description"="Trading"
+"leader"="Aeriana"
+"members"=294
+"founded_year"=91
+
+
+--- guild ---
+
+"guild_id"=37
+"name"="Thieves of Time"
+"description"="Exploration"
+"leader"="Endora"
+"members"=739
+"founded_year"=205
+
+
+--- npc ---
+
+"npc_id"=374
+"npc_type"="Quest-givers"
+"first_name"="Goromir"
+"last_name"="Dawnstrike"
+"location"=485.87
+
+
+--- enemy ---
+
+"enemy_id"=284
+"enemy_name"="Phantom Assassin"
+"enemy_type"="Beast"
+"hitpoints"=205
+"warcry"="goabbi"
+
+
+--- item ---
+
+"item_id"=182
+"item_name"="Amulet of the Stars"
+"item_type"="Shield"
+
+
+--- enemy ---
+
+"enemy_id"=186
+"enemy_name"="Electric Eel"
+"enemy_type"="Magical"
+"hitpoints"=680
+"warcry"="clenzahyi"
+
+
+--- character ---
+
+"character_id"=71
+"first_name"="Zephyrix"
+"last_name"="Ashmantle"
+"race"="Naga"
+"class"="Mage"
+"guild"="Defenders of Destiny"
+"last_login"="2022-09-30T12:39:25"
+
+
+--- question ---
+
+"question_id"=43
+"content"="The unexamined quest is not worth grinding."
+"choice_options"=369
+"emotion"=206
+
+
+--- vendor ---
+
+"vendor_id"=622
+"npc_type"="Shopkeepers"
+"first_name"="Faenar"
+"last_name"="Stonewall"
+"location"=134.36
+
+
+--- vendor ---
+
+"vendor_id"=563
+"npc_type"="Shopkeepers"
+"first_name"="Xyphera"
+"last_name"="Fellseeker"
+"location"=23.61
+
+
+--- event ---
+
+"event_id"=236
+"event_name"="Titan's Demise"
+"event_time"=211
+
+
+--- item ---
+
+"item_id"=32
+"item_name"="Blade of the Fallen"
+"item_type"="Staff"
+
+
+--- question ---
+
+"question_id"=226
+"content"="It is not the strength of the body that counts, but the strength of the spirit."
+"choice_options"=457
+"emotion"=730
+
+
+--- guild ---
+
+"guild_id"=352
+"name"="Heroes of Harmony"
+"description"="Healing"
+"leader"="Toraell"
+"members"=940
+"founded_year"=659
+
+
+--- item ---
+
+"item_id"=67
+"item_name"="Helm of Insight"
+"item_type"="Bow"
+
+
+--- character ---
+
+"character_id"=129
+"first_name"="Belthorn"
+"last_name"="Wildfire"
+"race"="Human"
+"class"="Healer"
+"guild"="Moonlit Mystics"
+"last_login"="2023-07-29T05:51:13"
+
+
+--- guild ---
+
+"guild_id"=93
+"name"="Artisans of Alchemy"
+"description"="Spying"
+"leader"="Aralyn"
+"members"=718
+"founded_year"=52
+
+
+--- npc ---
+
+"npc_id"=340
+"npc_type"="Shopkeepers"
+"first_name"="Shaelis"
+"last_name"="Firetalon"
+"location"=796.8
+
+
+--- item ---
+
+"item_id"=266
+"item_name"="Ring of the Fallen Queen"
+"item_type"="Shield"
+
+
+--- item ---
+
+"item_id"=31
+"item_name"="Boots of the Shadow Dancer"
+"item_type"="Bow"
+
+
+--- item ---
+
+"item_id"=1
+"item_name"="Scepter of the Forsaken"
+"item_type"="Shield"
+
+
+--- item ---
+
+"item_id"=148
+"item_name"="Warhammer of the Earthshaker"
+"item_type"="Dagger"
+
+
+--- vendor ---
+
+"vendor_id"=717
+"npc_type"="Quest-givers"
+"first_name"="Gorgrim"
+"last_name"="Thunderclap"
+"location"=19.13
+
+
+--- item ---
+
+"item_id"=26
+"item_name"="Lockpick of Fates"
+"item_type"="Dagger"
+
+
+--- question ---
+
+"question_id"=126
+"content"="Y'arrr, what be ye doin' in these parts? Ah, treasure hunting, I see. Well, X marks the spot... or was it Y?"
+"choice_options"=887
+"emotion"=65
+
+
+--- npc ---
+
+"npc_id"=455
+"npc_type"="Lore_Masters"
+"first_name"="Xyphera"
+"last_name"="Dreadclaw"
+"location"=257.23
+
+
+--- question ---
+
+"question_id"=166
+"content"="One does not simply walk into the End Zone."
+"choice_options"=398
+"emotion"=93
+
+
+--- item ---
+
+"item_id"=10
+"item_name"="Wand of Time"
+"item_type"="Ring"
+
+
+--- event ---
+
+"event_id"=152
+"event_name"="Dance of the Moonshadow"
+"event_time"=107
+
+
+--- guild ---
+
+"guild_id"=174
+"name"="Ocean's Children"
+"description"="Questing"
+"leader"="Valeria"
+"members"=343
+"founded_year"=793
+
+
+--- guild ---
+
+"guild_id"=148
+"name"="Spirit Guardians"
+"description"="Knowledge"
+"leader"="Faenar"
+"members"=278
+"founded_year"=68
+
+
+--- event ---
+
+"event_id"=13
+"event_name"="Fireheart's Revenge"
+"event_time"=685
+
+
+--- guild ---
+
+"guild_id"=245
+"name"="Sun Warriors"
+"description"="PvP"
+"leader"="Laelor"
+"members"=27
+"founded_year"=660
+
+
+--- guild ---
+
+"guild_id"=348
+"name"="Heart of Courage"
+"description"="Exploration"
+"leader"="Grundor"
+"members"=511
+"founded_year"=595
+
+
+--- event ---
+
+"event_id"=103
+"event_name"="The Harvest of Souls"
+"event_time"=565
+
+
+--- item ---
+
+"item_id"=254
+"item_name"="Demon's Blood Elixir"
+"item_type"="Shield"
+
+
+--- enemy ---
+
+"enemy_id"=2
+"enemy_name"="Crystal Gargoyle"
+"enemy_type"="Magical"
+"hitpoints"=165
+"warcry"="cpinc"
+
+
+--- event ---
+
+"event_id"=40
+"event_name"="Trials of the Ghost King"
+"event_time"=561
+
+
+--- vendor ---
+
+"vendor_id"=575
+"npc_type"="Skill_Trainers"
+"first_name"="Xyra"
+"last_name"="Whitewolf"
+"location"=940.95
+
+
+--- character ---
+
+"character_id"=102
+"first_name"="Raelan"
+"last_name"="Cragjaw"
+"race"="Dwarf"
+"class"="Archer"
+"guild"="The Undying"
+"last_login"="2021-08-11T08:42:57"
+
+
+--- vendor ---
+
+"vendor_id"=602
+"npc_type"="Shopkeepers"
+"first_name"="Thorgal"
+"last_name"="Ashenveil"
+"location"=197.92
+
+
+--- enemy ---
+
+"enemy_id"=35
+"enemy_name"="Armored Basilisk"
+"enemy_type"="Beast"
+"hitpoints"=641
+"warcry"="rwiplu"
+
+
+--- question ---
+
+"question_id"=83
+"content"="Never look a gift dragon in the mouth. Actually, never look any dragon in the mouth."
+"choice_options"=519
+"emotion"=282
+
+
+--- event ---
+
+"event_id"=216
+"event_name"="Challenge of the Seven Seals"
+"event_time"=748
+
+
+--- enemy ---
+
+"enemy_id"=261
+"enemy_name"="Mystic Djinn"
+"enemy_type"="Magical"
+"hitpoints"=303
+"warcry"="afrablif"
+
+
+--- guild ---
+
+"guild_id"=211
+"name"="The Righteous"
+"description"="Crafting"
+"leader"="Qelthar"
+"members"=519
+"founded_year"=387
+
+
+--- vendor ---
+
+"vendor_id"=520
+"npc_type"="Quest-givers"
+"first_name"="Toraell"
+"last_name"="Darkfall"
+"location"=49.65
+
+
+--- npc ---
+
+"npc_id"=442
+"npc_type"="Lore_Masters"
+"first_name"="Tyrndar"
+"last_name"="Starshield"
+"location"=156.64
+
+
+--- item ---
+
+"item_id"=121
+"item_name"="Boots of Celestial Steps"
+"item_type"="Dagger"
+
+
+--- enemy ---
+
+"enemy_id"=206
+"enemy_name"="Mystic Djinn"
+"enemy_type"="Construct"
+"hitpoints"=74
+"warcry"="kno"
+
+
+--- question ---
+
+"question_id"=280
+"content"="The night is dark and full of side quests."
+"choice_options"=741
+"emotion"=709
+
+
+--- vendor ---
+
+"vendor_id"=640
+"npc_type"="Lore_Masters"
+"first_name"="Jadefang"
+"last_name"="Darkfall"
+"location"=180.87
+
+
+--- event ---
+
+"event_id"=100
+"event_name"="Wrath of the Earthmother"
+"event_time"=383
+
+
+--- item ---
+
+"item_id"=183
+"item_name"="Aegis of the Sun"
+"item_type"="Sword"
+
+
+--- question ---
+
+"question_id"=117
+"content"="You shall not pass, unless you solve my riddle!"
+"choice_options"=932
+"emotion"=470
+
+
+--- event ---
+
+"event_id"=102
+"event_name"="Chaos in the Windy Crag"
+"event_time"=34
+
+
+--- guild ---
+
+"guild_id"=60
+"name"="Dusk to Dawn"
+"description"="Healing"
+"leader"="Loralei"
+"members"=21
+"founded_year"=116
+
+
+--- enemy ---
+
+"enemy_id"=47
+"enemy_name"="Spiked Behemoth"
+"enemy_type"="Elemental"
+"hitpoints"=610
+"warcry"="gloawicr"
+
+
+--- question ---
+
+"question_id"=266
+"content"="I'm sooo over the Fire Kingdom. It's just too mainstream now."
+"choice_options"=17
+"emotion"=661
+
+
+--- item ---
+
+"item_id"=247
+"item_name"="Boots of the Shadow Dancer"
+"item_type"="Dagger"
+
+
+--- vendor ---
+
+"vendor_id"=541
+"npc_type"="Lore_Masters"
+"first_name"="Raelis"
+"last_name"="Shadowflame"
+"location"=704.54
+
+
+--- enemy ---
+
+"enemy_id"=238
+"enemy_name"="Unholy Death Knight"
+"enemy_type"="Magical"
+"hitpoints"=158
+"warcry"="swefroodrel"
+
+
+--- guild ---
+
+"guild_id"=173
+"name"="Artisans of Alchemy"
+"description"="Trading"
+"leader"="Valeria"
+"members"=325
+"founded_year"=832
+
+
+--- vendor ---
+
+"vendor_id"=684
+"npc_type"="Skill_Trainers"
+"first_name"="Nymriel"
+"last_name"="Sunspire"
+"location"=428.62
+
+
+--- vendor ---
+
+"vendor_id"=675
+"npc_type"="Shopkeepers"
+"first_name"="Zandalar"
+"last_name"="Flamestrike"
+"location"=746.08
+
+
+--- enemy ---
+
+"enemy_id"=223
+"enemy_name"="Infernal Incubus"
+"enemy_type"="Undead"
+"hitpoints"=631
+"warcry"="ifluescap"
+
+
+--- item ---
+
+"item_id"=286
+"item_name"="Serpent's Fang Saber"
+"item_type"="Amulet"
+
+
+--- guild ---
+
+"guild_id"=208
+"name"="Shadow Society"
+"description"="Crafting"
+"leader"="Seraphix"
+"members"=632
+"founded_year"=194
+
+
+--- item ---
+
+"item_id"=16
+"item_name"="Orb of Chaos"
+"item_type"="Shield"
+
+
+--- guild ---
+
+"guild_id"=9
+"name"="Emerald Enchanters"
+"description"="PvP"
+"leader"="Orifel"
+"members"=48
+"founded_year"=479
+
+
+--- team ---
+
+"team_id"=6
+"team_name"="Blade_Riders"
+"kingdom"="Orynthia"
+"n_members"=755
+
+
+--- enemy ---
+
+"enemy_id"=155
+"enemy_name"="Shadow Wraith"
+"enemy_type"="Humanoid"
+"hitpoints"=463
+"warcry"="steswoatro"
+
+
+--- npc ---
+
+"npc_id"=403
+"npc_type"="Lore_Masters"
+"first_name"="Laelor"
+"last_name"="Nightbane"
+"location"=524.26
+
+
+--- character ---
+
+"character_id"=70
+"first_name"="Aryndis"
+"last_name"="Thundersong"
+"race"="Orc"
+"class"="Rogue"
+"guild"="Heavenly Healers"
+"last_login"="2023-08-18T18:25:13"
+
+
+--- vendor ---
+
+"vendor_id"=653
+"npc_type"="Shopkeepers"
+"first_name"="Thaelis"
+"last_name"="Silvershadow"
+"location"=846.94
+
+
+--- vendor ---
+
+"vendor_id"=547
+"npc_type"="Shopkeepers"
+"first_name"="Daelis"
+"last_name"="Mistmantle"
+"location"=319.37
+
+
+--- npc ---
+
+"npc_id"=348
+"npc_type"="Lore_Masters"
+"first_name"="Lunarion"
+"last_name"="Oakheart"
+"location"=453.53
+
+
+--- npc ---
+
+"npc_id"=488
+"npc_type"="Lore_Masters"
+"first_name"="Runorin"
+"last_name"="Frostweaver"
+"location"=238.4
+
+
+--- event ---
+
+"event_id"=199
+"event_name"="The Dragon's Awakening"
+"event_time"=795
+
+
+--- question ---
+
+"question_id"=146
+"content"="He who fights with monsters should be careful lest he thereby become a monster. And if you grind too long, the grind also grinds you."
+"choice_options"=587
+"emotion"=338
+
+
+--- guild ---
+
+"guild_id"=199
+"name"="Gold Brokers"
+"description"="Exploration"
+"leader"="Belthorn"
+"members"=515
+"founded_year"=987
+
+
+--- guild ---
+
+"guild_id"=342
+"name"="Abyss Watchers"
+"description"="Trading"
+"leader"="Aerendir"
+"members"=239
+"founded_year"=799
+
+
+--- guild ---
+
+"guild_id"=321
+"name"="Elixir Masters"
+"description"="Mage Training"
+"leader"="Toraell"
+"members"=477
+"founded_year"=207
+
+
+--- item ---
+
+"item_id"=57
+"item_name"="Cloak of Shadows"
+"item_type"="Sword"
+
+
+--- enemy ---
+
+"enemy_id"=88
+"enemy_name"="Fallen Archangel"
+"enemy_type"="Undead"
+"hitpoints"=621
+"warcry"="qqu"
+
+
+--- item ---
+
+"item_id"=337
+"item_name"="Scroll of the Phoenix"
+"item_type"="Staff"
+
+
+--- guild ---
+
+"guild_id"=185
+"name"="Shadow Society"
+"description"="Spying"
+"leader"="Lyrielle"
+"members"=276
+"founded_year"=749
+
+
+--- team ---
+
+"team_id"=119
+"team_name"="Amber_Wizards"
+"kingdom"="Valoria"
+"n_members"=222
+
+
+--- character ---
+
+"character_id"=124
+"first_name"="Lunarion"
+"last_name"="Starshield"
+"race"="Naga"
+"class"="Healer"
+"guild"="Storm Riders"
+"last_login"="2023-01-09T15:28:33"
+
+
+--- enemy ---
+
+"enemy_id"=148
+"enemy_name"="Dire Bat"
+"enemy_type"="Giant"
+"hitpoints"=584
+"warcry"="muu"
+
+
+--- enemy ---
+
+"enemy_id"=41
+"enemy_name"="Chaos Demon"
+"enemy_type"="Beast"
+"hitpoints"=103
+"warcry"="soswa"
+
+
+--- vendor ---
+
+"vendor_id"=633
+"npc_type"="Shopkeepers"
+"first_name"="Illinor"
+"last_name"="Ragefang"
+"location"=4.09
+
+
+--- item ---
+
+"item_id"=215
+"item_name"="Amulet of the Fallen Queen"
+"item_type"="Bow"
+
+
+--- guild ---
+
+"guild_id"=280
+"name"="Gold Brokers"
+"description"="Healing"
+"leader"="Elira"
+"members"=263
+"founded_year"=240
+
+
+--- item ---
+
+"item_id"=307
+"item_name"="Thunderstrike Axe"
+"item_type"="Amulet"
+
+
+--- event ---
+
+"event_id"=176
+"event_name"="Storm of the Dead"
+"event_time"=965
+
+
+--- enemy ---
+
+"enemy_id"=134
+"enemy_name"="Banshee Queen"
+"enemy_type"="Undead"
+"hitpoints"=119
+"warcry"="qovfucla"
+
+
+--- event ---
+
+"event_id"=115
+"event_name"="Quest for the Lost Relics"
+"event_time"=952
+
+
+--- guild ---
+
+"guild_id"=167
+"name"="Silver Lances"
+"description"="Crafting"
+"leader"="Azalor"
+"members"=93
+"founded_year"=866
+
+
+--- enemy ---
+
+"enemy_id"=269
+"enemy_name"="Thunderhawk"
+"enemy_type"="Undead"
+"hitpoints"=702
+"warcry"="spahva"
+
+
+--- question ---
+
+"question_id"=282
+"content"="Y'arrr, what be ye doin' in these parts? Ah, treasure hunting, I see. Well, X marks the spot... or was it Y?"
+"choice_options"=686
+"emotion"=22
+
+
+--- enemy ---
+
+"enemy_id"=71
+"enemy_name"="Scourge Wight"
+"enemy_type"="Undead"
+"hitpoints"=733
+"warcry"="uswoq"
+
+
+--- vendor ---
+
+"vendor_id"=693
+"npc_type"="Skill_Trainers"
+"first_name"="Aeriana"
+"last_name"="Bearclaw"
+"location"=828.72
+
+
+--- guild ---
+
+"guild_id"=152
+"name"="Desert Nomads"
+"description"="Healing"
+"leader"="Caelthor"
+"members"=242
+"founded_year"=892
+
+
+--- event ---
+
+"event_id"=5
+"event_name"="Revolution of the Iron Fist"
+"event_time"=486
+
+
+--- question ---
+
+"question_id"=9
+"content"="You have been granted the Sword of Eternal Power! But first, would you like to take a survey?"
+"choice_options"=253
+"emotion"=33
+
+
+--- npc ---
+
+"npc_id"=321
+"npc_type"="Quest-givers"
+"first_name"="Thaelis"
+"last_name"="Dreadclaw"
+"location"=847.42
+
+
+--- question ---
+
+"question_id"=22
+"content"="Whoa! You just hit level 20? That's sooo aesthetic! #LevelUpGoals"
+"choice_options"=627
+"emotion"=485
+
+
+--- event ---
+
+"event_id"=196
+"event_name"="Temple of the Wicked Oracle"
+"event_time"=71
+
+
+--- team ---
+
+"team_id"=39
+"team_name"="Grim_Reapers"
+"kingdom"="Valoria"
+"n_members"=271
+
+
+--- event ---
+
+"event_id"=201
+"event_name"="The Gathering Storm"
+"event_time"=441
+
+
+--- item ---
+
+"item_id"=24
+"item_name"="Dagger of Betrayal"
+"item_type"="Ring"
+
+
+--- event ---
+
+"event_id"=182
+"event_name"="Crusade of the Sun Chalice"
+"event_time"=50
+
+
+--- event ---
+
+"event_id"=70
+"event_name"="The Reckoning of Lighthaven"
+"event_time"=838
+
+
+--- guild ---
+
+"guild_id"=341
+"name"="Heroes of Harmony"
+"description"="Mage Training"
+"leader"="Nymriel"
+"members"=859
+"founded_year"=289
+
+
+--- question ---
+
+"question_id"=209
+"content"="Today's forecast: Cloudy with a chance of dragon attacks."
+"choice_options"=542
+"emotion"=60
+
+
+--- guild ---
+
+"guild_id"=17
+"name"="Mind Over Matter"
+"description"="Trading"
+"leader"="Naelor"
+"members"=104
+"founded_year"=129
+
+
+--- team ---
+
+"team_id"=125
+"team_name"="Warden_of_Will"
+"kingdom"="Valoria"
+"n_members"=325
+
+
+--- event ---
+
+"event_id"=117
+"event_name"="The Gathering Storm"
+"event_time"=877
+
+
+--- vendor ---
+
+"vendor_id"=687
+"npc_type"="Lore_Masters"
+"first_name"="Faenar"
+"last_name"="Windwhisper"
+"location"=35.97
+
+
+--- item ---
+
+"item_id"=318
+"item_name"="Earthshaker Hammer"
+"item_type"="Bow"
+
+
+--- enemy ---
+
+"enemy_id"=200
+"enemy_name"="Griffon King"
+"enemy_type"="Undead"
+"hitpoints"=698
+"warcry"="snedj"
+
+
+--- enemy ---
+
+"enemy_id"=141
+"enemy_name"="Infernal Incubus"
+"enemy_type"="Beast"
+"hitpoints"=70
+"warcry"="gloojvui"
+
+
+--- question ---
+
+"question_id"=291
+"content"="You must collect the seven artifacts of power! And maybe some milk on your way back?"
+"choice_options"=198
+"emotion"=776
+
+
+--- guild ---
+
+"guild_id"=120
+"name"="Wizards of the Coast"
+"description"="Exploration"
+"leader"="Valthor"
+"members"=597
+"founded_year"=780
+
+
+--- character ---
+
+"character_id"=127
+"first_name"="Grundor"
+"last_name"="Nightshade"
+"race"="Naga"
+"class"="Mage"
+"guild"="Spirit Guardians"
+"last_login"="2021-11-07T07:44:51"
+
+
+--- question ---
+
+"question_id"=251
+"content"="There is always some madness in leveling up. But there is also always some reason in madness."
+"choice_options"=404
+"emotion"=530
+
+
+--- item ---
+
+"item_id"=104
+"item_name"="Goblin-made Flail"
+"item_type"="Potion"
+
+
+--- npc ---
+
+"npc_id"=369
+"npc_type"="Lore_Masters"
+"first_name"="Selendis"
+"last_name"="Moonfire"
+"location"=977.41
+
+
+--- item ---
+
+"item_id"=135
+"item_name"="Pauldrons of the Bear"
+"item_type"="Dagger"
+
+
+--- item ---
+
+"item_id"=234
+"item_name"="Lockpick of Fates"
+"item_type"="Shield"
+
+
+--- npc ---
+
+"npc_id"=368
+"npc_type"="Quest-givers"
+"first_name"="Keldra"
+"last_name"="Bloodfang"
+"location"=392.37
+
+
+--- vendor ---
+
+"vendor_id"=551
+"npc_type"="Skill_Trainers"
+"first_name"="Valeria"
+"last_name"="Ravenclaw"
+"location"=371.06
+
+
+--- question ---
+
+"question_id"=124
+"content"="Welcome to the Guild of Forgotten Souls! Now, what's your damage?"
+"choice_options"=809
+"emotion"=130
+
+
+--- enemy ---
+
+"enemy_id"=276
+"enemy_name"="Death Reaper"
+"enemy_type"="Undead"
+"hitpoints"=721
+"warcry"="truzi"
+
+
+--- npc ---
+
+"npc_id"=291
+"npc_type"="Skill_Trainers"
+"first_name"="Valyndra"
+"last_name"="Windstrider"
+"location"=305.32
+
+
+--- question ---
+
+"question_id"=45
+"content"="The night is dark and full of side quests."
+"choice_options"=71
+"emotion"=55
+
+
+--- item ---
+
+"item_id"=95
+"item_name"="Warhammer of the Earthshaker"
+"item_type"="Potion"
+
+
+--- npc ---
+
+"npc_id"=478
+"npc_type"="Lore_Masters"
+"first_name"="Keldra"
+"last_name"="Silvershadow"
+"location"=512.77
+
+
+--- item ---
+
+"item_id"=294
+"item_name"="Runic Vestments"
+"item_type"="Bow"
+
+
+--- enemy ---
+
+"enemy_id"=177
+"enemy_name"="Shadow Stalker"
+"enemy_type"="Swarm"
+"hitpoints"=759
+"warcry"="qekjotru"
+
+
+--- item ---
+
+"item_id"=189
+"item_name"="Boots of the Shadow Dancer"
+"item_type"="Staff"
+
+
+--- event ---
+
+"event_id"=184
+"event_name"="Rage of the Warbeast"
+"event_time"=186
+
+
+--- guild ---
+
+"guild_id"=275
+"name"="Frostbite Clan"
+"description"="PvP"
+"leader"="Valthor"
+"members"=334
+"founded_year"=398
+
+
+--- team ---
+
+"team_id"=40
+"team_name"="Luminous_Sorcerers"
+"kingdom"="Cimmeria"
+"n_members"=638
+
+
+--- vendor ---
+
+"vendor_id"=597
+"npc_type"="Shopkeepers"
+"first_name"="Orik"
+"last_name"="Duskheart"
+"location"=191.82
+
+
+--- guild ---
+
+"guild_id"=241
+"name"="Prophets of Doom"
+"description"="PvP"
+"leader"="Aerendir"
+"members"=167
+"founded_year"=895
+
+
+--- event ---
+
+"event_id"=171
+"event_name"="Lost Horizon's Discovery"
+"event_time"=647
+
+
+--- enemy ---
+
+"enemy_id"=285
+"enemy_name"="Spectral Warden"
+"enemy_type"="Dragon"
+"hitpoints"=718
+"warcry"="skei"
+
+
+--- item ---
+
+"item_id"=76
+"item_name"="Rune-etched Crossbow"
+"item_type"="Staff"
+
+
+--- guild ---
+
+"guild_id"=70
+"name"="Moonlit Mystics"
+"description"="Questing"
+"leader"="Zyralor"
+"members"=955
+"founded_year"=614
+
+
+--- item ---
+
+"item_id"=327
+"item_name"="Elixir of the Moon"
+"item_type"="Bow"
+
+
+--- question ---
+
+"question_id"=215
+"content"="You wish to defeat the Demon Lord? First, you must conquer the deadliest foe: server lag."
+"choice_options"=925
+"emotion"=257
+
+
+--- npc ---
+
+"npc_id"=491
+"npc_type"="Skill_Trainers"
+"first_name"="Qelthar"
+"last_name"="Duskheart"
+"location"=546.05
+
+
+--- event ---
+
+"event_id"=206
+"event_name"="The Cataclysm of Ironspire"
+"event_time"=428
+
+
+--- guild ---
+
+"guild_id"=193
+"name"="Guardians of Light"
+"description"="Exploration"
+"leader"="Thorgrim"
+"members"=795
+"founded_year"=869
+
+
+--- vendor ---
+
+"vendor_id"=566
+"npc_type"="Shopkeepers"
+"first_name"="Elira"
+"last_name"="Fellseeker"
+"location"=503.27
+
+
+--- item ---
+
+"item_id"=198
+"item_name"="Gloves of the Sun God"
+"item_type"="Amulet"
+
+
+--- vendor ---
+
+"vendor_id"=649
+"npc_type"="Skill_Trainers"
+"first_name"="Thundara"
+"last_name"="Steelstrike"
+"location"=854.93
+
+
+--- question ---
+
+"question_id"=59
+"content"="In your quest, you must consult the Oracle of Delphi...or Dave, the guy who knows stuff."
+"choice_options"=868
+"emotion"=264
+
+
+--- guild ---
+
+"guild_id"=318
+"name"="Abyss Watchers"
+"description"="Trading"
+"leader"="Thorgath"
+"members"=330
+"founded_year"=990
+
+
+--- question ---
+
+"question_id"=11
+"content"="It's dangerous to go alone! Take this loot drop."
+"choice_options"=682
+"emotion"=513
+
+
+--- question ---
+
+"question_id"=108
+"content"="The unexamined quest is not worth grinding."
+"choice_options"=190
+"emotion"=118
+
+
+--- item ---
+
+"item_id"=218
+"item_name"="Ring of the Fallen"
+"item_type"="Sword"
+
+
+--- event ---
+
+"event_id"=122
+"event_name"="Quest for the Eternal Flame"
+"event_time"=906
+
+
+--- character ---
+
+"character_id"=88
+"first_name"="Thaldor"
+"last_name"="Deathbringer"
+"race"="Undead"
+"class"="Summoner"
+"guild"="Mind Over Matter"
+"last_login"="2021-11-09T08:49:52"
+
+
+--- vendor ---
+
+"vendor_id"=535
+"npc_type"="Skill_Trainers"
+"first_name"="Valdrick"
+"last_name"="Firethorn"
+"location"=707.19
+
+
+--- guild ---
+
+"guild_id"=168
+"name"="Heroes of Harmony"
+"description"="Knowledge"
+"leader"="Illinor"
+"members"=13
+"founded_year"=647
+
+
+--- guild ---
+
+"guild_id"=157
+"name"="Prophets of Doom"
+"description"="Healing"
+"leader"="Serafelle"
+"members"=582
+"founded_year"=369
+
+
+--- question ---
+
+"question_id"=228
+"content"="I'm sooo over the Fire Kingdom. It's just too mainstream now."
+"choice_options"=524
+"emotion"=819
+
+
+--- event ---
+
+"event_id"=147
+"event_name"="The Celestial Convergence"
+"event_time"=894
+
+
+--- team ---
+
+"team_id"=85
+"team_name"="Quasar_Knights"
+"kingdom"="Elphora"
+"n_members"=533
+
+
+--- enemy ---
+
+"enemy_id"=117
+"enemy_name"="Spiked Behemoth"
+"enemy_type"="Humanoid"
+"hitpoints"=403
+"warcry"="obrii"
+
+
+--- character ---
+
+"character_id"=99
+"first_name"="Orik"
+"last_name"="Firemantle"
+"race"="Human"
+"class"="Rogue"
+"guild"="Nature's Whisper"
+"last_login"="2021-02-14T08:06:14"
+
+
+--- question ---
+
+"question_id"=195
+"content"="In three words I can sum up what I've learned about life in the realm: It goes on."
+"choice_options"=952
+"emotion"=564
+
+
+--- item ---
+
+"item_id"=313
+"item_name"="Ring of the Fallen Queen"
+"item_type"="Shield"
+
+
+--- question ---
+
+"question_id"=221
+"content"="To conquer oneself is a greater victory than to conquer thousands in a battle."
+"choice_options"=574
+"emotion"=821
+
+
+--- vendor ---
+
+"vendor_id"=509
+"npc_type"="Lore_Masters"
+"first_name"="Kyrion"
+"last_name"="Skyfury"
+"location"=470.51
+
+
+--- guild ---
+
+"guild_id"=143
+"name"="The Silent Footsteps"
+"description"="Trading"
+"leader"="Goromir"
+"members"=615
+"founded_year"=211
+
+
+--- team ---
+
+"team_id"=3
+"team_name"="Venom_Serpents"
+"kingdom"="Elphora"
+"n_members"=450
+
+
+--- event ---
+
+"event_id"=52
+"event_name"="Blood Moon Rising"
+"event_time"=480
+
+
+--- team ---
+
+"team_id"=52
+"team_name"="WarriorAngels"
+"kingdom"="Elphora"
+"n_members"=755
+
+
+--- team ---
+
+"team_id"=64
+"team_name"="Mystic_Phoenix"
+"kingdom"="Cimmeria"
+"n_members"=792
+
+
+--- item ---
+
+"item_id"=231
+"item_name"="Stoneforged Mace"
+"item_type"="Bow"
+
+
+--- vendor ---
+
+"vendor_id"=680
+"npc_type"="Skill_Trainers"
+"first_name"="Seraphix"
+"last_name"="Bearclaw"
+"location"=942.89
+
+
+--- item ---
+
+"item_id"=118
+"item_name"="Armbands of Resilience"
+"item_type"="Shield"
+
+
+--- guild ---
+
+"guild_id"=94
+"name"="Hands of Fate"
+"description"="PvP"
+"leader"="Sarthon"
+"members"=699
+"founded_year"=916
+
+
+--- question ---
+
+"question_id"=101
+"content"="To defeat your enemies, you must know them, train hard, and also buy some premium gems."
+"choice_options"=403
+"emotion"=202
+
+
+--- question ---
+
+"question_id"=270
+"content"="I feel the need\u00e2\u20ac\u201dthe need for speed (potions)!"
+"choice_options"=81
+"emotion"=86
+
+
+--- npc ---
+
+"npc_id"=416
+"npc_type"="Lore_Masters"
+"first_name"="Valdrick"
+"last_name"="Shadowheart"
+"location"=55.39
+
+
+--- guild ---
+
+"guild_id"=139
+"name"="Wizards of the Coast"
+"description"="Crafting"
+"leader"="Xyralis"
+"members"=447
+"founded_year"=794
+
+
+--- enemy ---
+
+"enemy_id"=174
+"enemy_name"="Spectral Warden"
+"enemy_type"="Beast"
+"hitpoints"=336
+"warcry"="oskecmuh"
+
+
+--- guild ---
+
+"guild_id"=34
+"name"="Moonlit Mystics"
+"description"="Knowledge"
+"leader"="Elandria"
+"members"=871
+"founded_year"=787
+
+
+--- item ---
+
+"item_id"=237
+"item_name"="Scepter of the Forsaken"
+"item_type"="Amulet"
+
+
+--- guild ---
+
+"guild_id"=57
+"name"="Nature's Whisper"
+"description"="Crafting"
+"leader"="Elanor"
+"members"=77
+"founded_year"=622
+
+
+--- guild ---
+
+"guild_id"=222
+"name"="Starborn Seekers"
+"description"="Healing"
+"leader"="Ulfrik"
+"members"=13
+"founded_year"=569
+
+
+--- item ---
+
+"item_id"=290
+"item_name"="Cursed Bone Necklace"
+"item_type"="Sword"
+
+
+--- npc ---
+
+"npc_id"=383
+"npc_type"="Shopkeepers"
+"first_name"="Raelis"
+"last_name"="Shadowheart"
+"location"=587.28
+
+
+--- event ---
+
+"event_id"=108
+"event_name"="Assault on the Abyss"
+"event_time"=440
+
+
+--- enemy ---
+
+"enemy_id"=67
+"enemy_name"="Cave Spider"
+"enemy_type"="Construct"
+"hitpoints"=512
+"warcry"="lmi"
+
+
+--- event ---
+
+"event_id"=126
+"event_name"="Challenge of the Seven Seals"
+"event_time"=872
+
+
+--- enemy ---
+
+"enemy_id"=259
+"enemy_name"="Banshee Queen"
+"enemy_type"="Beast"
+"hitpoints"=709
+"warcry"="iiflobfay"
+
+
+--- question ---
+
+"question_id"=105
+"content"="I think you're in the wrong game, but hey, as long as you're having fun!"
+"choice_options"=710
+"emotion"=651
+
+
+--- item ---
+
+"item_id"=177
+"item_name"="Greaves of the Vanguard"
+"item_type"="Ring"
+
+
+--- question ---
+
+"question_id"=250
+"content"="Verily, you've conquered the Mountain of Despair! Here's 50 gold coins."
+"choice_options"=234
+"emotion"=376
+
+
+--- question ---
+
+"question_id"=52
+"content"="Our kingdom is in peril! But first, let's take a selfie."
+"choice_options"=106
+"emotion"=281
+
+
+--- vendor ---
+
+"vendor_id"=656
+"npc_type"="Skill_Trainers"
+"first_name"="Xyralis"
+"last_name"="Earthstrider"
+"location"=434.39
+
+
+--- question ---
+
+"question_id"=81
+"content"="So you're an adventurer? Isn't that just kick-you-in-the-crotch, spit-on-your-neck fantastic?"
+"choice_options"=544
+"emotion"=749
+
+
+--- team ---
+
+"team_id"=16
+"team_name"="Mystic_Phoenix"
+"kingdom"="Cimmeria"
+"n_members"=453
+
+
+--- npc ---
+
+"npc_id"=391
+"npc_type"="Quest-givers"
+"first_name"="Caelthor"
+"last_name"="Wolfsong"
+"location"=618.55
+
+
+--- npc ---
+
+"npc_id"=342
+"npc_type"="Skill_Trainers"
+"first_name"="Tyrndar"
+"last_name"="Goldenleaf"
+"location"=763.01
+
+
+--- event ---
+
+"event_id"=234
+"event_name"="Dawn of the Void"
+"event_time"=634
+
+
+--- guild ---
+
+"guild_id"=337
+"name"="Council of Elders"
+"description"="Exploration"
+"leader"="Elidora"
+"members"=668
+"founded_year"=433
+
+
+--- question ---
+
+"question_id"=41
+"content"="Welcome to the Enchanted Forest, where the trees are 100% organic and the unicorns are gluten-free."
+"choice_options"=882
+"emotion"=754
+
+
+--- team ---
+
+"team_id"=132
+"team_name"="Amber_Wizards"
+"kingdom"="Valoria"
+"n_members"=727
+
+
+--- event ---
+
+"event_id"=57
+"event_name"="Trials of the Ghost King"
+"event_time"=305
+
+
+--- item ---
+
+"item_id"=210
+"item_name"="Robe of the Sage"
+"item_type"="Dagger"
+
+
+--- enemy ---
+
+"enemy_id"=52
+"enemy_name"="Lunar Moth"
+"enemy_type"="Flora"
+"hitpoints"=504
+"warcry"="cuasp"
+
+
+--- enemy ---
+
+"enemy_id"=136
+"enemy_name"="Swamp Leviathan"
+"enemy_type"="Beast"
+"hitpoints"=943
+"warcry"="oxjepl"
+
+
+--- vendor ---
+
+"vendor_id"=714
+"npc_type"="Shopkeepers"
+"first_name"="Thorgal"
+"last_name"="Swiftwind"
+"location"=888.06
+
+
+--- item ---
+
+"item_id"=251
+"item_name"="Armbands of Resilience"
+"item_type"="Staff"
+
+
+--- question ---
+
+"question_id"=142
+"content"="May the RNG gods forever be in your favor."
+"choice_options"=409
+"emotion"=9
+
+
+--- npc ---
+
+"npc_id"=364
+"npc_type"="Skill_Trainers"
+"first_name"="Saphyra"
+"last_name"="Deathbringer"
+"location"=969.73
+
+
+--- guild ---
+
+"guild_id"=76
+"name"="Heart of Courage"
+"description"="Exploration"
+"leader"="Elanor"
+"members"=438
+"founded_year"=97
+
+
+--- guild ---
+
+"guild_id"=220
+"name"="Heroes of Harmony"
+"description"="Questing"
+"leader"="Caelthor"
+"members"=457
+"founded_year"=757
+
+
+--- enemy ---
+
+"enemy_id"=234
+"enemy_name"="Voracious Goblin"
+"enemy_type"="Undead"
+"hitpoints"=119
+"warcry"="iskiugra"
+
+
+--- event ---
+
+"event_id"=73
+"event_name"="Chaos in the Windy Crag"
+"event_time"=401
+
+
+--- enemy ---
+
+"enemy_id"=5
+"enemy_name"="Death Reaper"
+"enemy_type"="Magical"
+"hitpoints"=542
+"warcry"="esteofra"
+
+
+--- item ---
+
+"item_id"=207
+"item_name"="Dragon's Breath Bow"
+"item_type"="Ring"
+
+
+--- npc ---
+
+"npc_id"=320
+"npc_type"="Quest-givers"
+"first_name"="Thera"
+"last_name"="Earthward"
+"location"=937.63
+
+
+--- guild ---
+
+"guild_id"=284
+"name"="Nature's Whisper"
+"description"="PvP"
+"leader"="Lythor"
+"members"=599
+"founded_year"=104
+
+
+--- character ---
+
+"character_id"=49
+"first_name"="Laelor"
+"last_name"="Windstrider"
+"race"="Undead"
+"class"="Healer"
+"guild"="Gold Brokers"
+"last_login"="2021-05-12T15:30:55"
+
+
+--- question ---
+
+"question_id"=102
+"content"="New to the realm? Swipe up for an exclusive tutorial!"
+"choice_options"=288
+"emotion"=472
+
+
+--- question ---
+
+"question_id"=284
+"content"="If you can't handle me at my worst, you sure as hell don't deserve me at my best stats."
+"choice_options"=307
+"emotion"=461
+
+
+--- guild ---
+
+"guild_id"=294
+"name"="Merchant Princes"
+"description"="Exploration"
+"leader"="Zaela"
+"members"=982
+"founded_year"=471
+
+
+--- item ---
+
+"item_id"=259
+"item_name"="Venomtouch Whip"
+"item_type"="Shield"
+
+
+--- question ---
+
+"question_id"=111
+"content"="Woe be to the adventurer who opens Pandora's Loot Box."
+"choice_options"=512
+"emotion"=606
+
+
+--- event ---
+
+"event_id"=168
+"event_name"="Plague of the Dark Sands"
+"event_time"=353
+
+
+--- enemy ---
+
+"enemy_id"=38
+"enemy_name"="Silverback Gorilla"
+"enemy_type"="Flora"
+"hitpoints"=593
+"warcry"="xficqu"
+
+
+--- guild ---
+
+"guild_id"=264
+"name"="Sun Warriors"
+"description"="Questing"
+"leader"="Xaradra"
+"members"=361
+"founded_year"=670
+
+
+--- character ---
+
+"character_id"=45
+"first_name"="Aethor"
+"last_name"="Frostbane"
+"race"="Elf"
+"class"="Warrior"
+"guild"="Silver Lances"
+"last_login"="2022-07-08T16:36:35"
+
+
+--- character ---
+
+"character_id"=128
+"first_name"="Isolde"
+"last_name"="Frostclaw"
+"race"="Orc"
+"class"="Warrior"
+"guild"="Heart of Courage"
+"last_login"="2021-05-29T07:25:35"
+
+
+--- character ---
+
+"character_id"=32
+"first_name"="Belthorn"
+"last_name"="Nightshade"
+"race"="Dwarf"
+"class"="Rogue"
+"guild"="Artisans of Alchemy"
+"last_login"="2021-08-20T02:16:30"
+
+
+--- item ---
+
+"item_id"=233
+"item_name"="Ring of the Moon"
+"item_type"="Staff"
+
+
+--- guild ---
+
+"guild_id"=217
+"name"="Nature's Whisper"
+"description"="Crafting"
+"leader"="Thorgrim"
+"members"=945
+"founded_year"=984
+
+
+--- vendor ---
+
+"vendor_id"=646
+"npc_type"="Skill_Trainers"
+"first_name"="Laelor"
+"last_name"="Earthshaker"
+"location"=458.71
+
+
+--- item ---
+
+"item_id"=339
+"item_name"="Champion's Greatsword"
+"item_type"="Amulet"
+
+
+--- npc ---
+
+"npc_id"=338
+"npc_type"="Skill_Trainers"
+"first_name"="Thorgrim"
+"last_name"="Darkveil"
+"location"=443.52
+
+
+--- vendor ---
+
+"vendor_id"=534
+"npc_type"="Lore_Masters"
+"first_name"="Shaelis"
+"last_name"="Stoneforge"
+"location"=559.12
+
+
+--- item ---
+
+"item_id"=19
+"item_name"="Crossbow of Fiery Vengeance"
+"item_type"="Staff"
+
+
+--- enemy ---
+
+"enemy_id"=187
+"enemy_name"="Fire Salamander"
+"enemy_type"="Giant"
+"hitpoints"=843
+"warcry"="clinm"
+
+
+--- enemy ---
+
+"enemy_id"=40
+"enemy_name"="Silverback Gorilla"
+"enemy_type"="Humanoid"
+"hitpoints"=979
+"warcry"="ablu"
+
+
+--- question ---
+
+"question_id"=147
+"content"="Enemies ahead? I can take 'em!"
+"choice_options"=239
+"emotion"=900
+
+
+--- vendor ---
+
+"vendor_id"=526
+"npc_type"="Quest-givers"
+"first_name"="Xirelle"
+"last_name"="Dreadbane"
+"location"=761.86
+
+
+--- character ---
+
+"character_id"=16
+"first_name"="Illinor"
+"last_name"="Ironbane"
+"race"="Naga"
+"class"="Rogue"
+"guild"="The Forsaken"
+"last_login"="2023-05-02T20:21:10"
+
+
+--- enemy ---
+
+"enemy_id"=133
+"enemy_name"="Dark Sorcerer"
+"enemy_type"="Humanoid"
+"hitpoints"=401
+"warcry"="aufru"
+
+
+--- vendor ---
+
+"vendor_id"=578
+"npc_type"="Skill_Trainers"
+"first_name"="Grundor"
+"last_name"="Lightbringer"
+"location"=755.46
+
+
+--- guild ---
+
+"guild_id"=159
+"name"="Moonlit Mystics"
+"description"="Mage Training"
+"leader"="Toraell"
+"members"=510
+"founded_year"=465
+
+
+--- guild ---
+
+"guild_id"=109
+"name"="Starborn Seekers"
+"description"="PvP"
+"leader"="Selendis"
+"members"=914
+"founded_year"=52
+
+
+--- event ---
+
+"event_id"=19
+"event_name"="The Fall of Skyspire"
+"event_time"=391
+
+
+--- guild ---
+
+"guild_id"=1
+"name"="Mercenaries of Fortune"
+"description"="Mage Training"
+"leader"="Orifel"
+"members"=112
+"founded_year"=974
+
+
+--- event ---
+
+"event_id"=191
+"event_name"="Vault of the Fallen Stars"
+"event_time"=150
+
+
+--- character ---
+
+"character_id"=7
+"first_name"="Elidora"
+"last_name"="Ashenveil"
+"race"="Human"
+"class"="Healer"
+"guild"="Seekers of Truth"
+"last_login"="2023-05-11T12:30:57"
+
+
+--- item ---
+
+"item_id"=304
+"item_name"="Dagger of the Trickster"
+"item_type"="Ring"
+
+
+--- event ---
+
+"event_id"=68
+"event_name"="Dawn of the Void"
+"event_time"=806
+
+
+--- question ---
+
+"question_id"=75
+"content"="Our kingdom is in peril! But first, let's take a selfie."
+"choice_options"=312
+"emotion"=103
+
+
+--- guild ---
+
+"guild_id"=242
+"name"="Starborn Seekers"
+"description"="Exploration"
+"leader"="Valeria"
+"members"=858
+"founded_year"=376
+
+
+--- guild ---
+
+"guild_id"=112
+"name"="Wisdom Weavers"
+"description"="Mage Training"
+"leader"="Zaela"
+"members"=295
+"founded_year"=247
+
+
+--- enemy ---
+
+"enemy_id"=147
+"enemy_name"="Crimson Rogue"
+"enemy_type"="Flora"
+"hitpoints"=696
+"warcry"="naaweifl"
+
+
+--- guild ---
+
+"guild_id"=187
+"name"="The Forsaken"
+"description"="Knowledge"
+"leader"="Goromir"
+"members"=349
+"founded_year"=455
+
+
+--- item ---
+
+"item_id"=60
+"item_name"="Emerald Heart Ring"
+"item_type"="Shield"
+
+
+--- character ---
+
+"character_id"=33
+"first_name"="Faelthorn"
+"last_name"="Bearclaw"
+"race"="Dwarf"
+"class"="Rogue"
+"guild"="The Silent Footsteps"
+"last_login"="2021-05-10T03:10:45"
+
+
+--- guild ---
+
+"guild_id"=288
+"name"="Wisdom Weavers"
+"description"="Crafting"
+"leader"="Zyralor"
+"members"=286
+"founded_year"=983
+
+
+--- question ---
+
+"question_id"=77
+"content"="Today's forecast: Cloudy with a chance of dragon attacks."
+"choice_options"=955
+"emotion"=690
+
+
+--- event ---
+
+"event_id"=204
+"event_name"="Riddle of the Ancient Sphinx"
+"event_time"=144
+
+
+--- item ---
+
+"item_id"=36
+"item_name"="Quiver of the Wind"
+"item_type"="Sword"
+
+
+--- team ---
+
+"team_id"=91
+"team_name"="Cosmic_Paladins"
+"kingdom"="Orynthia"
+"n_members"=134
+
+
+--- npc ---
+
+"npc_id"=375
+"npc_type"="Lore_Masters"
+"first_name"="Belthorn"
+"last_name"="Stormblade"
+"location"=117.36
+
+
+--- item ---
+
+"item_id"=63
+"item_name"="Chains of the Abyss"
+"item_type"="Staff"
+
+
+--- vendor ---
+
+"vendor_id"=690
+"npc_type"="Quest-givers"
+"first_name"="Ulfrik"
+"last_name"="Mistmantle"
+"location"=867.06
+
+
+--- npc ---
+
+"npc_id"=330
+"npc_type"="Quest-givers"
+"first_name"="Gorgrim"
+"last_name"="Deathbringer"
+"location"=776.53
+
+
+--- enemy ---
+
+"enemy_id"=62
+"enemy_name"="Chimera Matriarch"
+"enemy_type"="Construct"
+"hitpoints"=958
+"warcry"="cravwic"
+
+
+--- guild ---
+
+"guild_id"=340
+"name"="Storm Riders"
+"description"="Knowledge"
+"leader"="Selendis"
+"members"=482
+"founded_year"=638
+
+
+--- event ---
+
+"event_id"=110
+"event_name"="The Scarlet Eclipse"
+"event_time"=413
+
+
+--- guild ---
+
+"guild_id"=54
+"name"="The Silent Footsteps"
+"description"="Healing"
+"leader"="Elira"
+"members"=161
+"founded_year"=732
+
+
+--- npc ---
+
+"npc_id"=431
+"npc_type"="Skill_Trainers"
+"first_name"="Elandria"
+"last_name"="Frostbane"
+"location"=577.92
+
+
+--- npc ---
+
+"npc_id"=295
+"npc_type"="Quest-givers"
+"first_name"="Gilean"
+"last_name"="Shadowflame"
+"location"=341.41
+
+
+--- question ---
+
+"question_id"=180
+"content"="The night is dark and full of side quests."
+"choice_options"=983
+"emotion"=476
+
+
+--- item ---
+
+"item_id"=86
+"item_name"="Amulet of the Stars"
+"item_type"="Sword"
+
+
+--- team ---
+
+"team_id"=60
+"team_name"="Frost_Wolves"
+"kingdom"="Orynthia"
+"n_members"=546
+
+
+--- guild ---
+
+"guild_id"=296
+"name"="Archmage Assembly"
+"description"="Exploration"
+"leader"="Xyra"
+"members"=324
+"founded_year"=561
+
+
+--- character ---
+
+"character_id"=20
+"first_name"="Raelis"
+"last_name"="Silvershadow"
+"race"="Undead"
+"class"="Healer"
+"guild"="Prophets of Doom"
+"last_login"="2023-01-05T13:27:56"
+
+
+--- character ---
+
+"character_id"=100
+"first_name"="Elandria"
+"last_name"="Dreadclaw"
+"race"="Undead"
+"class"="Archer"
+"guild"="Thieves of Time"
+"last_login"="2021-08-14T11:43:27"
+
+
+--- event ---
+
+"event_id"=242
+"event_name"="Haunting of the Crimson Keep"
+"event_time"=985
+
+
+--- team ---
+
+"team_id"=29
+"team_name"="Twilight_Hunters"
+"kingdom"="Valoria"
+"n_members"=435
+
+
+--- team ---
+
+"team_id"=50
+"team_name"="CosmicVoyagers"
+"kingdom"="Elphora"
+"n_members"=396
+
+
+--- item ---
+
+"item_id"=272
+"item_name"="Axe of the Moon Chieftain"
+"item_type"="Amulet"
+
+
+--- vendor ---
+
+"vendor_id"=582
+"npc_type"="Quest-givers"
+"first_name"="Loralei"
+"last_name"="Darkfall"
+"location"=16.9
+
+
+--- enemy ---
+
+"enemy_id"=219
+"enemy_name"="Shadow Wraith"
+"enemy_type"="Undead"
+"hitpoints"=793
+"warcry"="cpe"
+
+
+--- item ---
+
+"item_id"=132
+"item_name"="Windfury Longsword"
+"item_type"="Potion"
+
+
+--- question ---
+
+"question_id"=200
+"content"="Ah, the wind whispers of your coming, brave adventurer! How may Old Gregg assist you today?"
+"choice_options"=85
+"emotion"=524
+
+
+--- team ---
+
+"team_id"=21
+"team_name"="Holy_Shamans"
+"kingdom"="Elphora"
+"n_members"=560
+
+
+--- enemy ---
+
+"enemy_id"=235
+"enemy_name"="Bloodthirsty Minotaur"
+"enemy_type"="Magical"
+"hitpoints"=228
+"warcry"="hsesmua"
+
+
+--- question ---
+
+"question_id"=240
+"content"="The princess is in another castle... but she left her Snapchat, so it's not a total loss."
+"choice_options"=771
+"emotion"=732
+
+
+--- item ---
+
+"item_id"=5
+"item_name"="Amulet of the Fallen"
+"item_type"="Staff"
+
+
+--- vendor ---
+
+"vendor_id"=540
+"npc_type"="Quest-givers"
+"first_name"="Valyndra"
+"last_name"="Ravenclaw"
+"location"=87.34
+
+
+--- item ---
+
+"item_id"=227
+"item_name"="Orb of the Soul Reaver"
+"item_type"="Bow"
+
+
+--- event ---
+
+"event_id"=61
+"event_name"="Titan's Demise"
+"event_time"=10
+
+
+--- team ---
+
+"team_id"=115
+"team_name"="Radiant_Healers"
+"kingdom"="Cimmeria"
+"n_members"=445
+
+
+--- item ---
+
+"item_id"=316
+"item_name"="Ring of the Moon"
+"item_type"="Amulet"
+
+
+--- event ---
+
+"event_id"=63
+"event_name"="Rage of the Warbeast"
+"event_time"=357
+
+
+--- event ---
+
+"event_id"=54
+"event_name"="Cursed Souls' Nightfall"
+"event_time"=345
+
+
+--- enemy ---
+
+"enemy_id"=169
+"enemy_name"="Crystal Gargoyle"
+"enemy_type"="Flora"
+"hitpoints"=774
+"warcry"="projeitru"
+
+
+--- event ---
+
+"event_id"=27
+"event_name"="Trials of the Ghost King"
+"event_time"=833
+
+
+--- event ---
+
+"event_id"=92
+"event_name"="Cursed Souls' Nightfall"
+"event_time"=700
+
+
+--- item ---
+
+"item_id"=322
+"item_name"="Vial of Healing Winds"
+"item_type"="Shield"
+
+
+--- enemy ---
+
+"enemy_id"=221
+"enemy_name"="Forest Spirit"
+"enemy_type"="Construct"
+"hitpoints"=350
+"warcry"="prigliski"
+
+
+--- question ---
+
+"question_id"=3
+"content"="Boss ahead? 'Tis but a scratch!"
+"choice_options"=799
+"emotion"=457
+
+
+--- enemy ---
+
+"enemy_id"=91
+"enemy_name"="Spiked Behemoth"
+"enemy_type"="Beast"
+"hitpoints"=646
+"warcry"="uagrebli"
+
+
+--- item ---
+
+"item_id"=303
+"item_name"="Elixir of the Moon"
+"item_type"="Ring"
+
+
+--- item ---
+
+"item_id"=326
+"item_name"="Potion of Eternal Vigor"
+"item_type"="Potion"
+
+
+--- vendor ---
+
+"vendor_id"=515
+"npc_type"="Shopkeepers"
+"first_name"="Aralyn"
+"last_name"="Earthshaker"
+"location"=850.87
+
+
+--- team ---
+
+"team_id"=114
+"team_name"="Thunderbolts"
+"kingdom"="Elphora"
+"n_members"=424
+
+
+--- item ---
+
+"item_id"=195
+"item_name"="Sword of the Paladin"
+"item_type"="Sword"
+
+
+--- character ---
+
+"character_id"=61
+"first_name"="Qelthar"
+"last_name"="Cragjaw"
+"race"="Undead"
+"class"="Mage"
+"guild"="Abyss Watchers"
+"last_login"="2022-07-12T16:25:57"
+
+
+--- event ---
+
+"event_id"=222
+"event_name"="Escape from Shadow Hold"
+"event_time"=606
+
+
+--- guild ---
+
+"guild_id"=268
+"name"="Wizards of the Coast"
+"description"="Trading"
+"leader"="Zephyrix"
+"members"=747
+"founded_year"=717
+
+
+--- enemy ---
+
+"enemy_id"=167
+"enemy_name"="Dark Sorcerer"
+"enemy_type"="Humanoid"
+"hitpoints"=946
+"warcry"="ieblucre"
+
+
+--- item ---
+
+"item_id"=110
+"item_name"="Frostfire Staff"
+"item_type"="Dagger"
+
+
+--- item ---
+
+"item_id"=40
+"item_name"="Boots of the Pathfinder"
+"item_type"="Amulet"
+
+
+--- enemy ---
+
+"enemy_id"=112
+"enemy_name"="Cursed Samurai"
+"enemy_type"="Magical"
+"hitpoints"=608
+"warcry"="aglasc"
+
+
+--- event ---
+
+"event_id"=134
+"event_name"="The Gathering Storm"
+"event_time"=848
+
+
+--- npc ---
+
+"npc_id"=497
+"npc_type"="Skill_Trainers"
+"first_name"="Goromir"
+"last_name"="Ashmantle"
+"location"=607.15
+
+
+--- npc ---
+
+"npc_id"=329
+"npc_type"="Skill_Trainers"
+"first_name"="Endora"
+"last_name"="Wildfire"
+"location"=860.52
+
+
+--- question ---
+
+"question_id"=20
+"content"="In this world, it's grind or be grinded!"
+"choice_options"=167
+"emotion"=610
+
+
+--- vendor ---
+
+"vendor_id"=707
+"npc_type"="Quest-givers"
+"first_name"="Runorin"
+"last_name"="Ironthorn"
+"location"=478.26
+
+
+--- event ---
+
+"event_id"=164
+"event_name"="Curse of the Phantom Queen"
+"event_time"=67
+
+
+--- item ---
+
+"item_id"=103
+"item_name"="Boots of Celestial Steps"
+"item_type"="Staff"
+
+
+--- character ---
+
+"character_id"=39
+"first_name"="Oromis"
+"last_name"="Firemantle"
+"race"="Orc"
+"class"="Summoner"
+"guild"="Defenders of Destiny"
+"last_login"="2022-03-23T09:57:55"
+
+
+--- item ---
+
+"item_id"=305
+"item_name"="Ring of the Fallen Queen"
+"item_type"="Amulet"
+
+
+--- event ---
+
+"event_id"=226
+"event_name"="The Gatekeeper's Fury"
+"event_time"=281
+
+
+--- item ---
+
+"item_id"=73
+"item_name"="Spectral Chainmail"
+"item_type"="Shield"
+
+
+--- vendor ---
+
+"vendor_id"=677
+"npc_type"="Lore_Masters"
+"first_name"="Faelthorn"
+"last_name"="Sunshield"
+"location"=942.81
+
+
+--- character ---
+
+"character_id"=13
+"first_name"="Serafelle"
+"last_name"="Silvermoon"
+"race"="Elf"
+"class"="Archer"
+"guild"="Mercenaries of Fortune"
+"last_login"="2021-05-07T13:16:56"
+
+
+--- guild ---
+
+"guild_id"=248
+"name"="Guardians of Light"
+"description"="Trading"
+"leader"="Xyralis"
+"members"=725
+"founded_year"=233
+
+
+--- npc ---
+
+"npc_id"=299
+"npc_type"="Skill_Trainers"
+"first_name"="Gorgrim"
+"last_name"="Ironthorn"
+"location"=409.46
+
+
+--- enemy ---
+
+"enemy_id"=110
+"enemy_name"="Crystal Gargoyle"
+"enemy_type"="Demon"
+"hitpoints"=193
+"warcry"="eskavke"
+
+
+--- question ---
+
+"question_id"=66
+"content"="The princess is in another castle... but she left her Snapchat, so it's not a total loss."
+"choice_options"=399
+"emotion"=746
+
+
+--- enemy ---
+
+"enemy_id"=143
+"enemy_name"="Phantom Assassin"
+"enemy_type"="Giant"
+"hitpoints"=166
+"warcry"="kro"
+
+
+--- enemy ---
+
+"enemy_id"=125
+"enemy_name"="Skeletal Mage"
+"enemy_type"="Beast"
+"hitpoints"=165
+"warcry"="scoflucrosti"
+
+
+--- event ---
+
+"event_id"=210
+"event_name"="Spectral Masquerade"
+"event_time"=247
+
+
+--- enemy ---
+
+"enemy_id"=227
+"enemy_name"="Spectral Knight"
+"enemy_type"="Elemental"
+"hitpoints"=570
+"warcry"="pruibl"
+
+
+--- enemy ---
+
+"enemy_id"=212
+"enemy_name"="Sand Elemental"
+"enemy_type"="Undead"
+"hitpoints"=346
+"warcry"="eswaoclobr"
+
+
+--- npc ---
+
+"npc_id"=446
+"npc_type"="Shopkeepers"
+"first_name"="Xyphera"
+"last_name"="Firetalon"
+"location"=622.81
+
+
+--- event ---
+
+"event_id"=96
+"event_name"="The Gathering Storm"
+"event_time"=461
+
+
+--- enemy ---
+
+"enemy_id"=243
+"enemy_name"="Mystic Djinn"
+"enemy_type"="Demon"
+"hitpoints"=623
+"warcry"="snobzelde"
+
+
+--- item ---
+
+"item_id"=55
+"item_name"="Thunderstrike Javelins"
+"item_type"="Potion"
+
+
+--- vendor ---
+
+"vendor_id"=611
+"npc_type"="Shopkeepers"
+"first_name"="Lythra"
+"last_name"="Skyshard"
+"location"=340.28
+
+
+--- question ---
+
+"question_id"=188
+"content"="Ah, you've come this far, only to die at the hands of the King of Shadows! But first, how was your day?"
+"choice_options"=566
+"emotion"=180
+
+
+--- npc ---
+
+"npc_id"=458
+"npc_type"="Skill_Trainers"
+"first_name"="Raelthorn"
+"last_name"="Starshield"
+"location"=350.72
+
+
+--- item ---
+
+"item_id"=33
+"item_name"="Stoneforged Mace"
+"item_type"="Shield"
+
+
+--- item ---
+
+"item_id"=295
+"item_name"="Sacred Feather Talisman"
+"item_type"="Amulet"
+
+
+--- question ---
+
+"question_id"=113
+"content"="Seek the Old Wise Man at the mountain peak. He shall... wait, you're googling a walkthrough, aren't you?"
+"choice_options"=362
+"emotion"=229
+
+
+--- event ---
+
+"event_id"=233
+"event_name"="Cursed Souls' Nightfall"
+"event_time"=803
+
+
+--- item ---
+
+"item_id"=131
+"item_name"="Dragonbone Greataxe"
+"item_type"="Ring"
+
+
+--- guild ---
+
+"guild_id"=297
+"name"="Abyss Watchers"
+"description"="Crafting"
+"leader"="Aethor"
+"members"=356
+"founded_year"=759
+
+
+--- question ---
+
+"question_id"=122
+"content"="You say you're here to save the realm? Didn't you also say that last week?"
+"choice_options"=122
+"emotion"=103
+
+
+--- team ---
+
+"team_id"=11
+"team_name"="Luminous_Sorcerers"
+"kingdom"="Elphora"
+"n_members"=591
+
+
+--- enemy ---
+
+"enemy_id"=153
+"enemy_name"="Astral Naga"
+"enemy_type"="Beast"
+"hitpoints"=818
+"warcry"="rcincenr"
+
+
+--- item ---
+
+"item_id"=200
+"item_name"="Warrior's Battleaxe"
+"item_type"="Staff"
+
+
+--- npc ---
+
+"npc_id"=463
+"npc_type"="Skill_Trainers"
+"first_name"="Gilean"
+"last_name"="Firemantle"
+"location"=642.63
+
+
+--- event ---
+
+"event_id"=214
+"event_name"="Vault of the Fallen Stars"
+"event_time"=856
+
+
+--- character ---
+
+"character_id"=67
+"first_name"="Oberion"
+"last_name"="Ragefang"
+"race"="Elf"
+"class"="Mage"
+"guild"="Council of Elders"
+"last_login"="2021-10-02T06:01:36"
+
+
+--- event ---
+
+"event_id"=120
+"event_name"="The Fall of Skyspire"
+"event_time"=828
+
+
+--- item ---
+
+"item_id"=37
+"item_name"="Emerald Saber of Souls"
+"item_type"="Ring"
+
+
+--- npc ---
+
+"npc_id"=393
+"npc_type"="Shopkeepers"
+"first_name"="Isolde"
+"last_name"="Frostbane"
+"location"=595.83
+
+
+--- guild ---
+
+"guild_id"=263
+"name"="Silver Lances"
+"description"="PvP"
+"leader"="Belthorn"
+"members"=767
+"founded_year"=885
+
+
+--- item ---
+
+"item_id"=179
+"item_name"="Warhammer of the Earthshaker"
+"item_type"="Ring"
+
+
+--- item ---
+
+"item_id"=176
+"item_name"="Gauntlets of the Berserker"
+"item_type"="Dagger"
+
+
+--- guild ---
+
+"guild_id"=308
+"name"="Heralds of Hope"
+"description"="Exploration"
+"leader"="Zephyrix"
+"members"=270
+"founded_year"=171
+
+
+--- character ---
+
+"character_id"=23
+"first_name"="Thaelen"
+"last_name"="Leafwhisper"
+"race"="Naga"
+"class"="Mage"
+"guild"="Archmage Assembly"
+"last_login"="2021-08-21T19:29:04"
+
+
+--- guild ---
+
+"guild_id"=229
+"name"="Mercenaries of Fortune"
+"description"="Spying"
+"leader"="Thaldor"
+"members"=269
+"founded_year"=843
+
+
+--- team ---
+
+"team_id"=18
+"team_name"="Golden_Lions"
+"kingdom"="Valoria"
+"n_members"=552
+
+
+--- npc ---
+
+"npc_id"=441
+"npc_type"="Lore_Masters"
+"first_name"="Laelor"
+"last_name"="Windwhisper"
+"location"=804.45
+
+
+--- question ---
+
+"question_id"=69
+"content"="The night is dark and full of side quests."
+"choice_options"=987
+"emotion"=773
+
+
+--- npc ---
+
+"npc_id"=313
+"npc_type"="Lore_Masters"
+"first_name"="Morwyn"
+"last_name"="Firethorn"
+"location"=420.15
+
+
+--- question ---
+
+"question_id"=60
+"content"="It's-a me! Are you ready to jump into the next adventure?"
+"choice_options"=667
+"emotion"=574
+
+
+--- guild ---
+
+"guild_id"=227
+"name"="Abyss Watchers"
+"description"="Exploration"
+"leader"="Raelis"
+"members"=373
+"founded_year"=714
+
+
+--- character ---
+
+"character_id"=35
+"first_name"="Daelis"
+"last_name"="Ashenveil"
+"race"="Undead"
+"class"="Mage"
+"guild"="Heroes of Harmony"
+"last_login"="2021-03-26T16:18:59"
+
+
+--- guild ---
+
+"guild_id"=277
+"name"="Crypt Crawlers"
+"description"="Healing"
+"leader"="Saphyra"
+"members"=199
+"founded_year"=35
+
+
+--- question ---
+
+"question_id"=225
+"content"="Whoa! You just hit level 20? That's sooo aesthetic! #LevelUpGoals"
+"choice_options"=536
+"emotion"=418
+
+
+--- enemy ---
+
+"enemy_id"=98
+"enemy_name"="Chaos Demon"
+"enemy_type"="Magical"
+"hitpoints"=451
+"warcry"="brapluu"
+
+
+--- item ---
+
+"item_id"=213
+"item_name"="Dragon's Breath Bow"
+"item_type"="Amulet"
+
+
+--- team ---
+
+"team_id"=76
+"team_name"="Sun_Shadows"
+"kingdom"="Elphora"
+"n_members"=442
+
+
+--- question ---
+
+"question_id"=33
+"content"="Enemies ahead? I can take 'em!"
+"choice_options"=429
+"emotion"=458
+
+
+--- item ---
+
+"item_id"=58
+"item_name"="Sacred Feather Talisman"
+"item_type"="Potion"
+
+
+--- guild ---
+
+"guild_id"=164
+"name"="Prophets of Doom"
+"description"="Exploration"
+"leader"="Valeria"
+"members"=801
+"founded_year"=236
+
+
+--- npc ---
+
+"npc_id"=381
+"npc_type"="Shopkeepers"
+"first_name"="Lunarion"
+"last_name"="Thunderhoof"
+"location"=522.08
+
+
+--- enemy ---
+
+"enemy_id"=32
+"enemy_name"="Crimson Rogue"
+"enemy_type"="Construct"
+"hitpoints"=940
+"warcry"="nowiu"
+
+
+--- question ---
+
+"question_id"=57
+"content"="If you can't handle me at my worst, you sure as hell don't deserve me at my best stats."
+"choice_options"=631
+"emotion"=910
+
+
+--- vendor ---
+
+"vendor_id"=642
+"npc_type"="Lore_Masters"
+"first_name"="Elandria"
+"last_name"="Skullcrusher"
+"location"=913.59
+
+
+--- npc ---
+
+"npc_id"=359
+"npc_type"="Skill_Trainers"
+"first_name"="Orifel"
+"last_name"="Shadowflame"
+"location"=670.21
+
+
+--- event ---
+
+"event_id"=36
+"event_name"="War of the Crystal Lake"
+"event_time"=717
+
+
+--- question ---
+
+"question_id"=177
+"content"="Be yourself; everyone else is already grinding."
+"choice_options"=131
+"emotion"=643
+
+
+--- team ---
+
+"team_id"=129
+"team_name"="ValkyrieStorm"
+"kingdom"="Cimmeria"
+"n_members"=734
+
+
+--- team ---
+
+"team_id"=97
+"team_name"="Nebula_Ninjas"
+"kingdom"="Orynthia"
+"n_members"=958
+
+
+--- guild ---
+
+"guild_id"=5
+"name"="Heralds of Hope"
+"description"="PvP"
+"leader"="Ulfrik"
+"members"=566
+"founded_year"=571
+
+
+--- guild ---
+
+"guild_id"=190
+"name"="Spirit Guardians"
+"description"="Trading"
+"leader"="Raelis"
+"members"=136
+"founded_year"=524
+
+
+--- character ---
+
+"character_id"=19
+"first_name"="Veylan"
+"last_name"="Shadowheart"
+"race"="Elf"
+"class"="Mage"
+"guild"="Wisdom Weavers"
+"last_login"="2021-07-24T12:58:28"
+
+
+--- vendor ---
+
+"vendor_id"=658
+"npc_type"="Lore_Masters"
+"first_name"="Kyrion"
+"last_name"="Oakheart"
+"location"=218.74
+
+
+--- npc ---
+
+"npc_id"=397
+"npc_type"="Lore_Masters"
+"first_name"="Selendis"
+"last_name"="Moonshard"
+"location"=418.82
+
+
+--- npc ---
+
+"npc_id"=427
+"npc_type"="Shopkeepers"
+"first_name"="Aerendir"
+"last_name"="Skyfury"
+"location"=434.72
+
+
+--- npc ---
+
+"npc_id"=353
+"npc_type"="Lore_Masters"
+"first_name"="Valthor"
+"last_name"="Firemantle"
+"location"=205.8
+
+
+--- question ---
+
+"question_id"=35
+"content"="To conquer oneself is a greater victory than to conquer thousands in a battle."
+"choice_options"=632
+"emotion"=752
+
+
+--- npc ---
+
+"npc_id"=318
+"npc_type"="Quest-givers"
+"first_name"="Oromis"
+"last_name"="Oakheart"
+"location"=917.08
+
+
+--- event ---
+
+"event_id"=31
+"event_name"="Siege of Thunderpeak"
+"event_time"=382
+
+
+--- character ---
+
+"character_id"=132
+"first_name"="Endora"
+"last_name"="Darkfall"
+"race"="Elf"
+"class"="Healer"
+"guild"="Archmage Assembly"
+"last_login"="2023-08-19T04:04:00"
+
+
+--- question ---
+
+"question_id"=8
+"content"="The end is near! But it's not too late to buy some in-game merchandise."
+"choice_options"=10
+"emotion"=444
+
+
+--- enemy ---
+
+"enemy_id"=56
+"enemy_name"="Plague Rat"
+"enemy_type"="Humanoid"
+"hitpoints"=364
+"warcry"="btiuxd"
+
+
+--- item ---
+
+"item_id"=157
+"item_name"="Staff of the Archmage"
+"item_type"="Sword"
+
+
+--- guild ---
+
+"guild_id"=206
+"name"="Dragon Slayers"
+"description"="Spying"
+"leader"="Raelis"
+"members"=974
+"founded_year"=945
+
+
+--- enemy ---
+
+"enemy_id"=246
+"enemy_name"="Spiked Behemoth"
+"enemy_type"="Humanoid"
+"hitpoints"=40
+"warcry"="auslen"
+
+
+--- question ---
+
+"question_id"=129
+"content"="I'm not great at advice, but can I interest you in a sarcastic comment?"
+"choice_options"=435
+"emotion"=497
+
+
+--- npc ---
+
+"npc_id"=435
+"npc_type"="Lore_Masters"
+"first_name"="Runorin"
+"last_name"="Dawnstrike"
+"location"=800.92
+
+
+--- npc ---
+
+"npc_id"=316
+"npc_type"="Quest-givers"
+"first_name"="Naelor"
+"last_name"="Ironthorn"
+"location"=638.63
+
+
+--- vendor ---
+
+"vendor_id"=599
+"npc_type"="Shopkeepers"
+"first_name"="Drakan"
+"last_name"="Brightdawn"
+"location"=376.79
+
+
+--- item ---
+
+"item_id"=14
+"item_name"="Golden Chalice of Eternity"
+"item_type"="Dagger"
+
+
+--- npc ---
+
+"npc_id"=372
+"npc_type"="Quest-givers"
+"first_name"="Zaela"
+"last_name"="Frostbite"
+"location"=739.43
+
+
+--- enemy ---
+
+"enemy_id"=97
+"enemy_name"="Dire Pegasus"
+"enemy_type"="Magical"
+"hitpoints"=986
+"warcry"="mbax"
+
+
+--- guild ---
+
+"guild_id"=161
+"name"="Gold Brokers"
+"description"="Healing"
+"leader"="Oromis"
+"members"=980
+"founded_year"=694
+
+
+--- enemy ---
+
+"enemy_id"=232
+"enemy_name"="Twisted Dryad"
+"enemy_type"="Giant"
+"hitpoints"=104
+"warcry"="asmi"
+
+
+--- vendor ---
+
+"vendor_id"=571
+"npc_type"="Skill_Trainers"
+"first_name"="Zyralor"
+"last_name"="Fellseeker"
+"location"=828.1
+
+
+--- question ---
+
+"question_id"=30
+"content"="I'm not great at advice, but can I interest you in a sarcastic comment?"
+"choice_options"=836
+"emotion"=917
+
+
+--- character ---
+
+"character_id"=63
+"first_name"="Serafelle"
+"last_name"="Doomhammer"
+"race"="Human"
+"class"="Healer"
+"guild"="Heralds of Hope"
+"last_login"="2023-07-17T05:49:17"
+
+
+--- character ---
+
+"character_id"=114
+"first_name"="Xyralis"
+"last_name"="Iceshard"
+"race"="Elf"
+"class"="Summoner"
+"guild"="Dragon Slayers"
+"last_login"="2022-12-10T20:49:12"
+
+
+--- guild ---
+
+"guild_id"=260
+"name"="Dragon Slayers"
+"description"="PvP"
+"leader"="Faelthorn"
+"members"=291
+"founded_year"=834
+
+
+--- guild ---
+
+"guild_id"=32
+"name"="Gold Brokers"
+"description"="PvP"
+"leader"="Goromir"
+"members"=299
+"founded_year"=498
+
+
+--- npc ---
+
+"npc_id"=356
+"npc_type"="Lore_Masters"
+"first_name"="Thorgal"
+"last_name"="Starshield"
+"location"=125.95
+
+
+--- event ---
+
+"event_id"=156
+"event_name"="The Scarlet Eclipse"
+"event_time"=241
+
+
+--- guild ---
+
+"guild_id"=316
+"name"="Heart of Courage"
+"description"="Questing"
+"leader"="Orik"
+"members"=652
+"founded_year"=435
+
+
+--- npc ---
+
+"npc_id"=302
+"npc_type"="Shopkeepers"
+"first_name"="Thaldor"
+"last_name"="Windwhisper"
+"location"=636.6
+
+
+--- character ---
+
+"character_id"=72
+"first_name"="Aerendir"
+"last_name"="Earthshaker"
+"race"="Orc"
+"class"="Healer"
+"guild"="Mercenaries of Fortune"
+"last_login"="2021-11-14T07:20:33"
+
+
+--- event ---
+
+"event_id"=79
+"event_name"="Odyssey of the Stormcaller"
+"event_time"=864
+
+
+--- guild ---
+
+"guild_id"=304
+"name"="Mercenaries of Fortune"
+"description"="Exploration"
+"leader"="Jadefang"
+"members"=366
+"founded_year"=309
+
+
+--- item ---
+
+"item_id"=268
+"item_name"="Ring of the Fallen King"
+"item_type"="Amulet"
+
+
+--- item ---
+
+"item_id"=89
+"item_name"="Ring of the Fallen"
+"item_type"="Bow"
+
+
+--- team ---
+
+"team_id"=22
+"team_name"="DuskRaiders"
+"kingdom"="Elphora"
+"n_members"=462
+
+
+--- team ---
+
+"team_id"=49
+"team_name"="Sky_Kings"
+"kingdom"="Cimmeria"
+"n_members"=240
+
+
+--- enemy ---
+
+"enemy_id"=86
+"enemy_name"="Lava Golem"
+"enemy_type"="Giant"
+"hitpoints"=17
+"warcry"="swepl"
+
+
+--- team ---
+
+"team_id"=111
+"team_name"="LunarEclipsers"
+"kingdom"="Cimmeria"
+"n_members"=923
+
+
+--- guild ---
+
+"guild_id"=110
+"name"="Dusk to Dawn"
+"description"="Healing"
+"leader"="Lunarion"
+"members"=364
+"founded_year"=769
+
+
+--- vendor ---
+
+"vendor_id"=499
+"npc_type"="Skill_Trainers"
+"first_name"="Selendis"
+"last_name"="Thundersong"
+"location"=419.54
+
+
+--- vendor ---
+
+"vendor_id"=704
+"npc_type"="Skill_Trainers"
+"first_name"="Azalor"
+"last_name"="Starshield"
+"location"=15.59
+
+
+--- event ---
+
+"event_id"=77
+"event_name"="The Fall of Skyspire"
+"event_time"=614
+
+
+--- team ---
+
+"team_id"=79
+"team_name"="Grim_Reapers"
+"kingdom"="Valoria"
+"n_members"=778
+
+
+--- item ---
+
+"item_id"=7
+"item_name"="Gauntlets of the Berserker"
+"item_type"="Bow"
+
+
+--- question ---
+
+"question_id"=275
+"content"="Time you enjoy wasting on this game was not wasted time."
+"choice_options"=571
+"emotion"=816
+
+
+--- item ---
+
+"item_id"=85
+"item_name"="Necklace of the Mermaid"
+"item_type"="Amulet"
+
+
+--- item ---
+
+"item_id"=83
+"item_name"="Blade of the Fallen"
+"item_type"="Shield"
+
+
+--- event ---
+
+"event_id"=239
+"event_name"="Vault of the Fallen Stars"
+"event_time"=608
+
+
+--- guild ---
+
+"guild_id"=305
+"name"="Dusk to Dawn"
+"description"="Knowledge"
+"leader"="Zephyra"
+"members"=922
+"founded_year"=28
+
+
+--- enemy ---
+
+"enemy_id"=39
+"enemy_name"="Searing Efreet"
+"enemy_type"="Undead"
+"hitpoints"=718
+"warcry"="crixkutr"
+
+
+--- team ---
+
+"team_id"=123
+"team_name"="ElementalFury"
+"kingdom"="Elphora"
+"n_members"=147
+
+
+--- guild ---
+
+"guild_id"=255
+"name"="Sun Warriors"
+"description"="Trading"
+"leader"="Elanor"
+"members"=594
+"founded_year"=865
+
+
+--- question ---
+
+"question_id"=149
+"content"="You say you're here to save the realm? Didn't you also say that last week?"
+"choice_options"=687
+"emotion"=473
+
+
+--- item ---
+
+"item_id"=142
+"item_name"="Blood-soaked Bracers"
+"item_type"="Bow"
+
+
+--- item ---
+
+"item_id"=291
+"item_name"="Mystic Lightshield"
+"item_type"="Ring"
+
+
+--- guild ---
+
+"guild_id"=351
+"name"="Nature's Whisper"
+"description"="Crafting"
+"leader"="Thaldor"
+"members"=782
+"founded_year"=72
+
+
+--- item ---
+
+"item_id"=241
+"item_name"="Robes of the Archmage"
+"item_type"="Shield"
+
+
+--- item ---
+
+"item_id"=188
+"item_name"="Spectral Chainmail"
+"item_type"="Dagger"
+
+
+--- guild ---
+
+"guild_id"=350
+"name"="Crypt Crawlers"
+"description"="Trading"
+"leader"="Toraell"
+"members"=454
+"founded_year"=76
+
+
+--- question ---
+
+"question_id"=298
+"content"="The night is dark and full of side quests."
+"choice_options"=676
+"emotion"=88
+
+
+--- enemy ---
+
+"enemy_id"=207
+"enemy_name"="Demonic Harbinger"
+"enemy_type"="Dragon"
+"hitpoints"=226
+"warcry"="nmuibrao"
+
+
+--- team ---
+
+"team_id"=107
+"team_name"="Void_Walkers"
+"kingdom"="Cimmeria"
+"n_members"=32
+
+
+--- guild ---
+
+"guild_id"=73
+"name"="Gold Brokers"
+"description"="PvP"
+"leader"="Aerendir"
+"members"=468
+"founded_year"=88
+
+
+--- item ---
+
+"item_id"=158
+"item_name"="Tome of the Elders"
+"item_type"="Ring"
+
+
+--- vendor ---
+
+"vendor_id"=605
+"npc_type"="Skill_Trainers"
+"first_name"="Saphyra"
+"last_name"="Stormstrike"
+"location"=794.42
+
+
+--- vendor ---
+
+"vendor_id"=556
+"npc_type"="Skill_Trainers"
+"first_name"="Elira"
+"last_name"="Frostweaver"
+"location"=44.89
+
+
+--- item ---
+
+"item_id"=275
+"item_name"="Amulet of the Fallen"
+"item_type"="Shield"
+
+
+--- item ---
+
+"item_id"=298
+"item_name"="Greaves of the Vanguard"
+"item_type"="Sword"
+
+
+--- guild ---
+
+"guild_id"=282
+"name"="Nature's Whisper"
+"description"="Exploration"
+"leader"="Laelor"
+"members"=198
+"founded_year"=327
+
+
+--- team ---
+
+"team_id"=30
+"team_name"="Demon_Hunters"
+"kingdom"="Cimmeria"
+"n_members"=366
+
+
+--- item ---
+
+"item_id"=169
+"item_name"="Boots of Celestial Steps"
+"item_type"="Amulet"
+
+
+--- enemy ---
+
+"enemy_id"=114
+"enemy_name"="Armored Demon"
+"enemy_type"="Beast"
+"hitpoints"=8
+"warcry"="eaflowyac"
+
+
+--- character ---
+
+"character_id"=9
+"first_name"="Orifel"
+"last_name"="Stoneshield"
+"race"="Undead"
+"class"="Rogue"
+"guild"="Heart of Courage"
+"last_login"="2021-08-18T11:18:02"
+
+
+--- item ---
+
+"item_id"=47
+"item_name"="Dragonbone Greataxe"
+"item_type"="Bow"
+
+
+--- item ---
+
+"item_id"=255
+"item_name"="Venomtouch Whip"
+"item_type"="Potion"
+
+
+--- item ---
+
+"item_id"=50
+"item_name"="Maul of the Frost Giant"
+"item_type"="Bow"
+
+
+--- npc ---
+
+"npc_id"=420
+"npc_type"="Skill_Trainers"
+"first_name"="Grundor"
+"last_name"="Doomhammer"
+"location"=307.52
+
+
+--- item ---
+
+"item_id"=72
+"item_name"="Ring of the Sages"
+"item_type"="Bow"
+
+
+--- question ---
+
+"question_id"=21
+"content"="Whoa! You just hit level 20? That's sooo aesthetic! #LevelUpGoals"
+"choice_options"=75
+"emotion"=371
+
+
+--- npc ---
+
+"npc_id"=481
+"npc_type"="Shopkeepers"
+"first_name"="Vyktor"
+"last_name"="Dawnstrike"
+"location"=490.42
+
+
+--- item ---
+
+"item_id"=167
+"item_name"="Ring of the Eternal Flame"
+"item_type"="Sword"
+
+
+--- enemy ---
+
+"enemy_id"=190
+"enemy_name"="Corrupted Alchemist"
+"enemy_type"="Demon"
+"hitpoints"=476
+"warcry"="scor"
+
+
+--- npc ---
+
+"npc_id"=443
+"npc_type"="Skill_Trainers"
+"first_name"="Valyndra"
+"last_name"="Earthshaker"
+"location"=915.73
+
+
+--- question ---
+
+"question_id"=56
+"content"="Behind every avatar is a player with a snack."
+"choice_options"=890
+"emotion"=1
+
+
+--- guild ---
+
+"guild_id"=85
+"name"="Prophets of Doom"
+"description"="Questing"
+"leader"="Valthor"
+"members"=320
+"founded_year"=481
+
+
+--- item ---
+
+"item_id"=98
+"item_name"="Boots of the Shadow Dancer"
+"item_type"="Bow"
+
+
+--- event ---
+
+"event_id"=47
+"event_name"="Spectral Masquerade"
+"event_time"=669
+
+
+--- guild ---
+
+"guild_id"=287
+"name"="Circle of Druids"
+"description"="Questing"
+"leader"="Gilean"
+"members"=264
+"founded_year"=828
+
+
+--- guild ---
+
+"guild_id"=132
+"name"="Heavenly Healers"
+"description"="Healing"
+"leader"="Thaelen"
+"members"=249
+"founded_year"=390
+
+
+--- guild ---
+
+"guild_id"=23
+"name"="Wisdom Weavers"
+"description"="Knowledge"
+"leader"="Orifel"
+"members"=427
+"founded_year"=126
+
+
+--- event ---
+
+"event_id"=153
+"event_name"="The Harvest of Souls"
+"event_time"=494
+
+
+--- question ---
+
+"question_id"=144
+"content"="Ain't no party like a dungeon crawl party 'cause a dungeon crawl party don't stop until everyone's encumbered."
+"choice_options"=800
+"emotion"=564
+
+
+--- event ---
+
+"event_id"=91
+"event_name"="Riddle of the Ancient Sphinx"
+"event_time"=581
+
+
+--- item ---
+
+"item_id"=320
+"item_name"="Thunderstrike Javelins"
+"item_type"="Dagger"
+
+
+--- enemy ---
+
+"enemy_id"=122
+"enemy_name"="Ghostly Archer"
+"enemy_type"="Elemental"
+"hitpoints"=488
+"warcry"="snou"
+
+
+--- event ---
+
+"event_id"=158
+"event_name"="Challenge of the Seven Seals"
+"event_time"=260
+
+
+--- item ---
+
+"item_id"=161
+"item_name"="Crown of the Lost King"
+"item_type"="Staff"
+
+
+--- item ---
+
+"item_id"=107
+"item_name"="Titanium Gauntlet"
+"item_type"="Amulet"
+
+
+--- npc ---
+
+"npc_id"=428
+"npc_type"="Skill_Trainers"
+"first_name"="Raelthorn"
+"last_name"="Ashenveil"
+"location"=55.39
+
+
+--- npc ---
+
+"npc_id"=413
+"npc_type"="Skill_Trainers"
+"first_name"="Sarthon"
+"last_name"="Wolfsong"
+"location"=786.98
+
+
+--- vendor ---
+
+"vendor_id"=568
+"npc_type"="Lore_Masters"
+"first_name"="Jadefang"
+"last_name"="Windstrider"
+"location"=51.37
+
+
+--- guild ---
+
+"guild_id"=176
+"name"="Abyss Watchers"
+"description"="Trading"
+"leader"="Xyphera"
+"members"=538
+"founded_year"=425
+
+
+--- npc ---
+
+"npc_id"=307
+"npc_type"="Shopkeepers"
+"first_name"="Belthorn"
+"last_name"="Ashenveil"
+"location"=445.51
+
+
+--- question ---
+
+"question_id"=110
+"content"="Be yourself; everyone else is already grinding."
+"choice_options"=465
+"emotion"=297
+
+
+--- item ---
+
+"item_id"=22
+"item_name"="Golden Chalice of Eternity"
+"item_type"="Bow"
+
+
+--- item ---
+
+"item_id"=74
+"item_name"="Robe of the Sage"
+"item_type"="Shield"
+
+
+--- vendor ---
+
+"vendor_id"=694
+"npc_type"="Shopkeepers"
+"first_name"="Solandria"
+"last_name"="Silvershadow"
+"location"=466.76
+
+
+--- vendor ---
+
+"vendor_id"=626
+"npc_type"="Lore_Masters"
+"first_name"="Aeriana"
+"last_name"="Shadowgale"
+"location"=336.05
+
+
+--- guild ---
+
+"guild_id"=292
+"name"="Prophets of Doom"
+"description"="Mage Training"
+"leader"="Gorgrim"
+"members"=141
+"founded_year"=422
+
+
+--- team ---
+
+"team_id"=13
+"team_name"="Chaos_Bringers"
+"kingdom"="Elphora"
+"n_members"=714
+
+
+--- team ---
+
+"team_id"=26
+"team_name"="Zen_Monks"
+"kingdom"="Cimmeria"
+"n_members"=774
+
+
+--- enemy ---
+
+"enemy_id"=249
+"enemy_name"="Illusionary Trickster"
+"enemy_type"="Dragon"
+"hitpoints"=977
+"warcry"="meblelbi"
+
+
+--- event ---
+
+"event_id"=123
+"event_name"="Revolution of the Iron Fist"
+"event_time"=22
+
+
+--- vendor ---
+
+"vendor_id"=510
+"npc_type"="Lore_Masters"
+"first_name"="Goromir"
+"last_name"="Ravenclaw"
+"location"=547.86
+
+
+--- team ---
+
+"team_id"=32
+"team_name"="Templar_Order"
+"kingdom"="Cimmeria"
+"n_members"=214
+
+
+--- event ---
+
+"event_id"=124
+"event_name"="The Fall of Skyspire"
+"event_time"=858
+
+
+--- character ---
+
+"character_id"=38
+"first_name"="Illinor"
+"last_name"="Lightbringer"
+"race"="Naga"
+"class"="Summoner"
+"guild"="Gold Brokers"
+"last_login"="2023-07-23T06:49:44"
+
+
+--- guild ---
+
+"guild_id"=324
+"name"="Dusk to Dawn"
+"description"="Healing"
+"leader"="Ulfrik"
+"members"=37
+"founded_year"=256
+
+
+--- event ---
+
+"event_id"=82
+"event_name"="Invasion of the Frost Giants"
+"event_time"=389
+
+
+--- team ---
+
+"team_id"=117
+"team_name"="CosmicVoyagers"
+"kingdom"="Elphora"
+"n_members"=28
+
+
+--- item ---
+
+"item_id"=173
+"item_name"="Boots of Swiftness"
+"item_type"="Dagger"
+
+
+--- guild ---
+
+"guild_id"=128
+"name"="Frostbite Clan"
+"description"="Crafting"
+"leader"="Faelthorn"
+"members"=998
+"founded_year"=712
+
+
+--- guild ---
+
+"guild_id"=96
+"name"="The Wanderers"
+"description"="Mage Training"
+"leader"="Xirelle"
+"members"=683
+"founded_year"=992
+
+
+--- item ---
+
+"item_id"=156
+"item_name"="Spectral Chainmail"
+"item_type"="Bow"
+
+
+--- character ---
+
+"character_id"=91
+"first_name"="Ashara"
+"last_name"="Stormbringer"
+"race"="Human"
+"class"="Rogue"
+"guild"="Heavenly Healers"
+"last_login"="2022-09-16T07:32:51"
+
+
+--- item ---
+
+"item_id"=65
+"item_name"="Mystic Lightshield"
+"item_type"="Dagger"
+
+
+--- vendor ---
+
+"vendor_id"=553
+"npc_type"="Quest-givers"
+"first_name"="Caelthor"
+"last_name"="Windrunner"
+"location"=313.32
+
+
+--- character ---
+
+"character_id"=104
+"first_name"="Lunarion"
+"last_name"="Lightbringer"
+"race"="Elf"
+"class"="Rogue"
+"guild"="Heavenly Healers"
+"last_login"="2023-09-12T06:10:28"
+
+
+--- character ---
+
+"character_id"=121
+"first_name"="Thaelen"
+"last_name"="Stonewall"
+"race"="Undead"
+"class"="Healer"
+"guild"="Seekers of Truth"
+"last_login"="2022-12-13T21:35:02"
+
+
+--- character ---
+
+"character_id"=58
+"first_name"="Shaelis"
+"last_name"="Duskheart"
+"race"="Orc"
+"class"="Summoner"
+"guild"="Storm Riders"
+"last_login"="2022-08-22T16:23:52"
+
+
+--- event ---
+
+"event_id"=237
+"event_name"="The Cataclysm of Ironspire"
+"event_time"=181
+
+
+--- guild ---
+
+"guild_id"=121
+"name"="Council of Elders"
+"description"="Exploration"
+"leader"="Nymriel"
+"members"=234
+"founded_year"=752
+
+
+--- question ---
+
+"question_id"=287
+"content"="Y'arrr, what be ye doin' in these parts? Ah, treasure hunting, I see. Well, X marks the spot... or was it Y?"
+"choice_options"=965
+"emotion"=704
+
+
+--- enemy ---
+
+"enemy_id"=94
+"enemy_name"="Fire Imp"
+"enemy_type"="Demon"
+"hitpoints"=283
+"warcry"="nguugl"
+
+
+--- item ---
+
+"item_id"=124
+"item_name"="Essence of the Wild"
+"item_type"="Amulet"
+
+
+--- guild ---
+
+"guild_id"=313
+"name"="Silver Lances"
+"description"="Healing"
+"leader"="Valeria"
+"members"=970
+"founded_year"=776
+
+
+--- item ---
+
+"item_id"=288
+"item_name"="Shadowflame Dagger"
+"item_type"="Dagger"
+
+
+--- event ---
+
+"event_id"=43
+"event_name"="The Scarlet Eclipse"
+"event_time"=93
+
+
+--- item ---
+
+"item_id"=249
+"item_name"="Bow of the Eternal Forest"
+"item_type"="Amulet"
+
+
+--- npc ---
+
+"npc_id"=437
+"npc_type"="Lore_Masters"
+"first_name"="Delgath"
+"last_name"="Earthshaker"
+"location"=668.25
+
+
+--- question ---
+
+"question_id"=34
+"content"="A horse, a horse, my lootbox for a horse!"
+"choice_options"=806
+"emotion"=221
+
+
+--- character ---
+
+"character_id"=2
+"first_name"="Keldra"
+"last_name"="Firetalon"
+"race"="Human"
+"class"="Healer"
+"guild"="Thieves of Time"
+"last_login"="2022-02-24T18:33:33"
+
+
+--- item ---
+
+"item_id"=138
+"item_name"="Lockpick of Fates"
+"item_type"="Shield"
+
+
+--- enemy ---
+
+"enemy_id"=230
+"enemy_name"="Siren of Despair"
+"enemy_type"="Dragon"
+"hitpoints"=742
+"warcry"="wmoopo"
+
+
+--- npc ---
+
+"npc_id"=290
+"npc_type"="Lore_Masters"
+"first_name"="Thaelen"
+"last_name"="Silvermoon"
+"location"=230.8
+
+
+--- guild ---
+
+"guild_id"=300
+"name"="Dragon Slayers"
+"description"="Exploration"
+"leader"="Runorin"
+"members"=924
+"founded_year"=158
+
+
+--- question ---
+
+"question_id"=92
+"content"="The cake is a lie, but the XP is real!"
+"choice_options"=532
+"emotion"=687
+
+
+--- enemy ---
+
+"enemy_id"=75
+"enemy_name"="Cursed Mummy"
+"enemy_type"="Humanoid"
+"hitpoints"=650
+"warcry"="ujfeiyme"
+
+
+--- npc ---
+
+"npc_id"=312
+"npc_type"="Quest-givers"
+"first_name"="Faenar"
+"last_name"="Nightshade"
+"location"=422.33
+
+
+--- vendor ---
+
+"vendor_id"=645
+"npc_type"="Quest-givers"
+"first_name"="Saphyra"
+"last_name"="Earthward"
+"location"=712.16
+
+
+--- character ---
+
+"character_id"=28
+"first_name"="Nymriel"
+"last_name"="Stoneshield"
+"race"="Naga"
+"class"="Rogue"
+"guild"="Thieves of Time"
+"last_login"="2023-01-22T09:03:12"
+
+
+--- enemy ---
+
+"enemy_id"=23
+"enemy_name"="Corrupted Alchemist"
+"enemy_type"="Humanoid"
+"hitpoints"=52
+"warcry"="prucvistae"
+
+
+--- npc ---
+
+"npc_id"=434
+"npc_type"="Skill_Trainers"
+"first_name"="Runorin"
+"last_name"="Dragonfang"
+"location"=765.47
+
+
+--- guild ---
+
+"guild_id"=58
+"name"="The Silent Footsteps"
+"description"="Spying"
+"leader"="Xyralis"
+"members"=267
+"founded_year"=208
+
+
+--- enemy ---
+
+"enemy_id"=104
+"enemy_name"="Poisonous Plant"
+"enemy_type"="Beast"
+"hitpoints"=492
+"warcry"="steflelzi"
+
+
+--- guild ---
+
+"guild_id"=29
+"name"="Elixir Masters"
+"description"="Knowledge"
+"leader"="Aerendir"
+"members"=256
+"founded_year"=909
+
+
+--- team ---
+
+"team_id"=88
+"team_name"="Solar_Sentinels"
+"kingdom"="Elphora"
+"n_members"=270
+
+
+--- guild ---
+
+"guild_id"=62
+"name"="Elixir Masters"
+"description"="Mage Training"
+"leader"="Toraell"
+"members"=933
+"founded_year"=383
+
+
+--- vendor ---
+
+"vendor_id"=616
+"npc_type"="Shopkeepers"
+"first_name"="Faenar"
+"last_name"="Thunderhoof"
+"location"=882.61
+
+
+--- guild ---
+
+"guild_id"=214
+"name"="Council of Elders"
+"description"="Crafting"
+"leader"="Delgath"
+"members"=379
+"founded_year"=482
+
+
+--- question ---
+
+"question_id"=155
+"content"="Thou shalt not pass... without first enjoying a cup of Gnomebrew Coffee. Perks you right up!"
+"choice_options"=375
+"emotion"=337
+
+
+--- question ---
+
+"question_id"=218
+"content"="Existential dread got you down? Try our new Existential Bread\u00e2\u20ac\u201dfreshly baked in-game!"
+"choice_options"=259
+"emotion"=447
+
+
+--- vendor ---
+
+"vendor_id"=506
+"npc_type"="Skill_Trainers"
+"first_name"="Lythra"
+"last_name"="Stormblade"
+"location"=901.73
+
+
+--- item ---
+
+"item_id"=331
+"item_name"="Grimoire of Lost Souls"
+"item_type"="Staff"
+
+
+--- guild ---
+
+"guild_id"=90
+"name"="Storm Riders"
+"description"="PvP"
+"leader"="Thaelis"
+"members"=607
+"founded_year"=38
+
+
+--- vendor ---
+
+"vendor_id"=705
+"npc_type"="Lore_Masters"
+"first_name"="Thaelen"
+"last_name"="Stormblade"
+"location"=123.19
+
+
+--- question ---
+
+"question_id"=213
+"content"="Our kingdom is in peril! But first, let's take a selfie."
+"choice_options"=12
+"emotion"=890
+
+
+--- guild ---
+
+"guild_id"=160
+"name"="Spirit Guardians"
+"description"="PvP"
+"leader"="Xirelle"
+"members"=342
+"founded_year"=904
+
+
+--- guild ---
+
+"guild_id"=30
+"name"="Mercenaries of Fortune"
+"description"="Exploration"
+"leader"="Gwynara"
+"members"=236
+"founded_year"=564
+
+
+--- item ---
+
+"item_id"=80
+"item_name"="Belt of the Wyrm"
+"item_type"="Ring"
+
+
+--- vendor ---
+
+"vendor_id"=619
+"npc_type"="Quest-givers"
+"first_name"="Xirelle"
+"last_name"="Skullcrusher"
+"location"=819.85
+
+
+--- team ---
+
+"team_id"=44
+"team_name"="SkyPirates"
+"kingdom"="Cimmeria"
+"n_members"=533
+
+
+--- item ---
+
+"item_id"=201
+"item_name"="Lockpick of Fates"
+"item_type"="Bow"
+
+
+--- npc ---
+
+"npc_id"=484
+"npc_type"="Shopkeepers"
+"first_name"="Kyrion"
+"last_name"="Ironbane"
+"location"=213.56
+
+
+--- guild ---
+
+"guild_id"=320
+"name"="Council of Elders"
+"description"="Spying"
+"leader"="Shaelis"
+"members"=819
+"founded_year"=812
+
+
+--- npc ---
+
+"npc_id"=404
+"npc_type"="Lore_Masters"
+"first_name"="Xyra"
+"last_name"="Stonewall"
+"location"=794.87
+
+
+--- enemy ---
+
+"enemy_id"=181
+"enemy_name"="Thunderhawk"
+"enemy_type"="Construct"
+"hitpoints"=17
+"warcry"="uqpeub"
+
+
+--- enemy ---
+
+"enemy_id"=132
+"enemy_name"="Plague Rat"
+"enemy_type"="Humanoid"
+"hitpoints"=970
+"warcry"="stou"
+
+
+--- item ---
+
+"item_id"=238
+"item_name"="Potion of Mana Regeneration"
+"item_type"="Dagger"
+
+
+--- guild ---
+
+"guild_id"=356
+"name"="Mind Over Matter"
+"description"="Crafting"
+"leader"="Belthorn"
+"members"=380
+"founded_year"=879
+
+
+--- npc ---
+
+"npc_id"=362
+"npc_type"="Lore_Masters"
+"first_name"="Caelthor"
+"last_name"="Stonewall"
+"location"=92.82
+
+
+--- question ---
+
+"question_id"=135
+"content"="Seek the Old Wise Man at the mountain peak. He shall... wait, you're googling a walkthrough, aren't you?"
+"choice_options"=221
+"emotion"=160
+
+
+--- team ---
+
+"team_id"=8
+"team_name"="ElementalFury"
+"kingdom"="Cimmeria"
+"n_members"=172
+
+
+--- enemy ---
+
+"enemy_id"=44
+"enemy_name"="Bloodthirsty Minotaur"
+"enemy_type"="Giant"
+"hitpoints"=146
+"warcry"="eiclie"
+
+
+--- guild ---
+
+"guild_id"=195
+"name"="Spirit Guardians"
+"description"="Crafting"
+"leader"="Aralyn"
+"members"=757
+"founded_year"=122
+
+
+--- question ---
+
+"question_id"=172
+"content"="Time you enjoy wasting on this game was not wasted time."
+"choice_options"=589
+"emotion"=523
+
+
+--- vendor ---
+
+"vendor_id"=722
+"npc_type"="Shopkeepers"
+"first_name"="Loralei"
+"last_name"="Stonewall"
+"location"=802.42
+
+
+--- team ---
+
+"team_id"=17
+"team_name"="Violet_Viceroys"
+"kingdom"="Cimmeria"
+"n_members"=788
+
+
+--- vendor ---
+
+"vendor_id"=584
+"npc_type"="Skill_Trainers"
+"first_name"="Daelis"
+"last_name"="Dreadclaw"
+"location"=854.57
+
+
+--- question ---
+
+"question_id"=2
+"content"="Y'know, in another universe, you and I are just polygons and pixels."
+"choice_options"=133
+"emotion"=749
+
+
+--- guild ---
+
+"guild_id"=31
+"name"="The Undying"
+"description"="Questing"
+"leader"="Zandalar"
+"members"=243
+"founded_year"=614
+
+
+--- guild ---
+
+"guild_id"=237
+"name"="Circle of Druids"
+"description"="Mage Training"
+"leader"="Aethor"
+"members"=728
+"founded_year"=846
+
+
+--- character ---
+
+"character_id"=14
+"first_name"="Tyrndar"
+"last_name"="Ironbane"
+"race"="Orc"
+"class"="Healer"
+"guild"="Heroes of Harmony"
+"last_login"="2021-09-10T01:20:48"
+
+
+--- npc ---
+
+"npc_id"=388
+"npc_type"="Shopkeepers"
+"first_name"="Serafelle"
+"last_name"="Ironbane"
+"location"=848.36
+
+
+--- question ---
+
+"question_id"=29
+"content"="I think you're in the wrong game, but hey, as long as you're having fun!"
+"choice_options"=999
+"emotion"=403
+
+
+--- question ---
+
+"question_id"=253
+"content"="Welcome to the Enchanted Forest, where the trees are 100% organic and the unicorns are gluten-free."
+"choice_options"=420
+"emotion"=577
+
+
+--- npc ---
+
+"npc_id"=423
+"npc_type"="Shopkeepers"
+"first_name"="Thaldor"
+"last_name"="Stormbringer"
+"location"=501.39
+
+
+--- npc ---
+
+"npc_id"=465
+"npc_type"="Quest-givers"
+"first_name"="Jadefang"
+"last_name"="Wolfsong"
+"location"=498.39
+
+
+--- enemy ---
+
+"enemy_id"=203
+"enemy_name"="Lava Golem"
+"enemy_type"="Dragon"
+"hitpoints"=27
+"warcry"="troscupneu"
+
+
+--- question ---
+
+"question_id"=297
+"content"="Never look a gift dragon in the mouth. Actually, never look any dragon in the mouth."
+"choice_options"=722
+"emotion"=387
+
+
+--- npc ---
+
+"npc_id"=380
+"npc_type"="Quest-givers"
+"first_name"="Morwyn"
+"last_name"="Fellseeker"
+"location"=367.53
+
+
+--- question ---
+
+"question_id"=120
+"content"="Mages get your staffs, warriors get your swords, and rogues, just... go stand in the corner."
+"choice_options"=334
+"emotion"=786
+
+
+--- vendor ---
+
+"vendor_id"=588
+"npc_type"="Skill_Trainers"
+"first_name"="Aethor"
+"last_name"="Grimspine"
+"location"=829.24
+
+
+--- item ---
+
+"item_id"=191
+"item_name"="Amethyst Soul Amulet"
+"item_type"="Ring"
+
+
+--- vendor ---
+
+"vendor_id"=671
+"npc_type"="Skill_Trainers"
+"first_name"="Gilean"
+"last_name"="Leafwhisper"
+"location"=611.8
+
+
+--- enemy ---
+
+"enemy_id"=202
+"enemy_name"="Armored Centaur"
+"enemy_type"="Construct"
+"hitpoints"=112
+"warcry"="cseasn"
+
+
+--- question ---
+
+"question_id"=292
+"content"="What's up, heroes! Use code 'EPICQUEST' for 10% off your next in-game purchase!"
+"choice_options"=718
+"emotion"=870
+
+
+--- enemy ---
+
+"enemy_id"=101
+"enemy_name"="Wandering Yeti"
+"enemy_type"="Demon"
+"hitpoints"=904
+"warcry"="ebruoplei"
+
+
+--- question ---
+
+"question_id"=256
+"content"="Look in the mirror... that's your only competition in this game."
+"choice_options"=36
+"emotion"=466
+
+
+--- question ---
+
+"question_id"=139
+"content"="Howdy, partner. Ready to saddle up for another bounty?"
+"choice_options"=228
+"emotion"=40
+
+
+--- npc ---
+
+"npc_id"=377
+"npc_type"="Skill_Trainers"
+"first_name"="Xaradra"
+"last_name"="Ironthorn"
+"location"=34.52
+
+
+--- enemy ---
+
+"enemy_id"=173
+"enemy_name"="Warrior Orc"
+"enemy_type"="Undead"
+"hitpoints"=705
+"warcry"="prupliitf"
+
+
+--- npc ---
+
+"npc_id"=400
+"npc_type"="Quest-givers"
+"first_name"="Xaradra"
+"last_name"="Frostbane"
+"location"=263.96
+
+
+--- guild ---
+
+"guild_id"=74
+"name"="Elixir Masters"
+"description"="Trading"
+"leader"="Zephyrix"
+"members"=935
+"founded_year"=268
+
+
+--- enemy ---
+
+"enemy_id"=268
+"enemy_name"="Water Elemental"
+"enemy_type"="Dragon"
+"hitpoints"=656
+"warcry"="adreusmotru"
+
+
+--- question ---
+
+"question_id"=237
+"content"="It is not the strength of the body that counts, but the strength of the spirit."
+"choice_options"=305
+"emotion"=681
+
+
+--- item ---
+
+"item_id"=224
+"item_name"="Earthshaker Hammer"
+"item_type"="Sword"
+
+
+--- question ---
+
+"question_id"=233
+"content"="I think you're in the wrong game, but hey, as long as you're having fun!"
+"choice_options"=81
+"emotion"=954
+
+
+--- npc ---
+
+"npc_id"=378
+"npc_type"="Lore_Masters"
+"first_name"="Valdrick"
+"last_name"="Sunshield"
+"location"=560.82
+
+
+--- guild ---
+
+"guild_id"=331
+"name"="Frostbite Clan"
+"description"="Crafting"
+"leader"="Loralei"
+"members"=426
+"founded_year"=190
+
+
+--- vendor ---
+
+"vendor_id"=608
+"npc_type"="Lore_Masters"
+"first_name"="Raelis"
+"last_name"="Bearclaw"
+"location"=383.15
+
+
+--- event ---
+
+"event_id"=60
+"event_name"="Spectral Masquerade"
+"event_time"=488
+
+
+--- event ---
+
+"event_id"=74
+"event_name"="Challenge of the Seven Seals"
+"event_time"=888
+
+
+--- question ---
+
+"question_id"=231
+"content"="You have been granted the Sword of Eternal Power! But first, would you like to take a survey?"
+"choice_options"=654
+"emotion"=395
+
+
+--- item ---
+
+"item_id"=196
+"item_name"="Bracers of the Hunter"
+"item_type"="Bow"
+
+
+--- guild ---
+
+"guild_id"=99
+"name"="Sun Warriors"
+"description"="Healing"
+"leader"="Keldra"
+"members"=822
+"founded_year"=373
+
+
+--- enemy ---
+
+"enemy_id"=106
+"enemy_name"="Scourge Wight"
+"enemy_type"="Elemental"
+"hitpoints"=443
+"warcry"="slotqebo"
+
+
+--- question ---
+
+"question_id"=182
+"content"="In three words I can sum up what I've learned about life in the realm: It goes on."
+"choice_options"=954
+"emotion"=165
+
+
+--- enemy ---
+
+"enemy_id"=279
+"enemy_name"="Swamp Leviathan"
+"enemy_type"="Demon"
+"hitpoints"=471
+"warcry"="hogr"
+
+
+--- event ---
+
+"event_id"=150
+"event_name"="Feast of the Harvest Moon"
+"event_time"=563
+
+
+--- npc ---
+
+"npc_id"=424
+"npc_type"="Shopkeepers"
+"first_name"="Thaldor"
+"last_name"="Brightscale"
+"location"=245.15
+
+
+--- character ---
+
+"character_id"=86
+"first_name"="Azalor"
+"last_name"="Dawnstrike"
+"race"="Undead"
+"class"="Mage"
+"guild"="Thieves of Time"
+"last_login"="2022-06-03T23:48:18"
+
+
+--- question ---
+
+"question_id"=18
+"content"="Existential dread got you down? Try our new Existential Bread\u00e2\u20ac\u201dfreshly baked in-game!"
+"choice_options"=912
+"emotion"=711
+
+
+--- vendor ---
+
+"vendor_id"=585
+"npc_type"="Shopkeepers"
+"first_name"="Xyralis"
+"last_name"="Ashenveil"
+"location"=83.54
+
+
+--- npc ---
+
+"npc_id"=471
+"npc_type"="Shopkeepers"
+"first_name"="Seraphix"
+"last_name"="Ironbane"
+"location"=730.46
+
+
+--- item ---
+
+"item_id"=244
+"item_name"="Ring of the Sages"
+"item_type"="Staff"
+
+
+--- event ---
+
+"event_id"=3
+"event_name"="The Cataclysm of Ironspire"
+"event_time"=914
+
+
+--- item ---
+
+"item_id"=79
+"item_name"="Greatsword of Heavenly Wrath"
+"item_type"="Ring"
+
+
+--- question ---
+
+"question_id"=53
+"content"="Our kingdom is in peril! But first, let's take a selfie."
+"choice_options"=153
+"emotion"=225
+
+
+--- vendor ---
+
+"vendor_id"=544
+"npc_type"="Quest-givers"
+"first_name"="Jadefang"
+"last_name"="Deathbringer"
+"location"=287.8
+
+
+--- npc ---
+
+"npc_id"=412
+"npc_type"="Shopkeepers"
+"first_name"="Valthor"
+"last_name"="Thunderclap"
+"location"=781.07
+
+
+--- team ---
+
+"team_id"=37
+"team_name"="ElementalFury"
+"kingdom"="Elphora"
+"n_members"=994
+
+
+--- question ---
+
+"question_id"=238
+"content"="A dragon terrorizes the lands. Oh, you've heard that one before?"
+"choice_options"=559
+"emotion"=551
+
+
+--- vendor ---
+
+"vendor_id"=713
+"npc_type"="Skill_Trainers"
+"first_name"="Laelor"
+"last_name"="Fellseeker"
+"location"=596.16
+
+
+--- enemy ---
+
+"enemy_id"=157
+"enemy_name"="Poisonous Plant"
+"enemy_type"="Beast"
+"hitpoints"=195
+"warcry"="spupl"
+
+
+--- team ---
+
+"team_id"=73
+"team_name"="Mystic_Phoenix"
+"kingdom"="Elphora"
+"n_members"=275
+
+
+--- npc ---
+
+"npc_id"=345
+"npc_type"="Lore_Masters"
+"first_name"="Saphyra"
+"last_name"="Warclaw"
+"location"=180.79
+
+
+--- question ---
+
+"question_id"=290
+"content"="In this world, it's grind or be grinded!"
+"choice_options"=68
+"emotion"=465
+
+
+--- npc ---
+
+"npc_id"=310
+"npc_type"="Shopkeepers"
+"first_name"="Jadefang"
+"last_name"="Frostbane"
+"location"=620.73
+
+
+--- guild ---
+
+"guild_id"=102
+"name"="Wisdom Weavers"
+"description"="Spying"
+"leader"="Elanor"
+"members"=173
+"founded_year"=632
+
+
+--- guild ---
+
+"guild_id"=105
+"name"="Heavenly Healers"
+"description"="Questing"
+"leader"="Thaelis"
+"members"=567
+"founded_year"=165
+
+
+--- item ---
+
+"item_id"=280
+"item_name"="Vial of Healing Winds"
+"item_type"="Potion"
+
+
+--- item ---
+
+"item_id"=263
+"item_name"="Blade of the Archmage"
+"item_type"="Staff"
+
+
+--- guild ---
+
+"guild_id"=122
+"name"="The Undying"
+"description"="Questing"
+"leader"="Aryndis"
+"members"=761
+"founded_year"=518
+
+
+--- item ---
+
+"item_id"=170
+"item_name"="Dagger of Betrayal"
+"item_type"="Dagger"
+
+
+--- question ---
+
+"question_id"=185
+"content"="The unexamined quest is not worth grinding."
+"choice_options"=524
+"emotion"=384
+
+
+--- event ---
+
+"event_id"=130
+"event_name"="Wrath of the Earthmother"
+"event_time"=133
+
+
+--- enemy ---
+
+"enemy_id"=199
+"enemy_name"="Banshee Queen"
+"enemy_type"="Humanoid"
+"hitpoints"=138
+"warcry"="tcubpa"
+
+
+--- vendor ---
+
+"vendor_id"=668
+"npc_type"="Shopkeepers"
+"first_name"="Laelor"
+"last_name"="Seaspray"
+"location"=92.41
+
+
+--- event ---
+
+"event_id"=65
+"event_name"="Festival of Golden Leaves"
+"event_time"=249
+
+
+--- vendor ---
+
+"vendor_id"=529
+"npc_type"="Quest-givers"
+"first_name"="Gwynara"
+"last_name"="Wildfire"
+"location"=951.2
+
+
+--- vendor ---
+
+"vendor_id"=679
+"npc_type"="Skill_Trainers"
+"first_name"="Shaelis"
+"last_name"="Moonshard"
+"location"=606.27
+
+
+--- npc ---
+
+"npc_id"=452
+"npc_type"="Skill_Trainers"
+"first_name"="Aralyn"
+"last_name"="Moonshard"
+"location"=32.22
+
+
+--- vendor ---
+
+"vendor_id"=661
+"npc_type"="Lore_Masters"
+"first_name"="Caelthor"
+"last_name"="Moonshard"
+"location"=782.18
+
+
+--- question ---
+
+"question_id"=208
+"content"="Enemies ahead? I can take 'em!"
+"choice_options"=162
+"emotion"=847
+
+
+--- event ---
+
+"event_id"=229
+"event_name"="Darkness in Highfell"
+"event_time"=36
+
+
+--- event ---
+
+"event_id"=212
+"event_name"="Darkness in Highfell"
+"event_time"=84
+
+
+--- guild ---
+
+"guild_id"=197
+"name"="Wisdom Weavers"
+"description"="Spying"
+"leader"="Grundor"
+"members"=837
+"founded_year"=504
+
+
+--- guild ---
+
+"guild_id"=126
+"name"="Starborn Seekers"
+"description"="Healing"
+"leader"="Isolde"
+"members"=815
+"founded_year"=792
+
+
+--- vendor ---
+
+"vendor_id"=538
+"npc_type"="Skill_Trainers"
+"first_name"="Shaelis"
+"last_name"="Shadowheart"
+"location"=281.42
+
+
+--- team ---
+
+"team_id"=101
+"team_name"="Topaz_Templars"
+"kingdom"="Orynthia"
+"n_members"=74
+
+
+--- npc ---
+
+"npc_id"=411
+"npc_type"="Lore_Masters"
+"first_name"="Lythra"
+"last_name"="Stonewall"
+"location"=107.01
+
+
+--- vendor ---
+
+"vendor_id"=513
+"npc_type"="Shopkeepers"
+"first_name"="Zyraziel"
+"last_name"="Dawnstrike"
+"location"=687.54
+
+
+--- vendor ---
+
+"vendor_id"=703
+"npc_type"="Lore_Masters"
+"first_name"="Valthor"
+"last_name"="Skyfury"
+"location"=448.37
+
+
+--- npc ---
+
+"npc_id"=474
+"npc_type"="Quest-givers"
+"first_name"="Elira"
+"last_name"="Dragonfang"
+"location"=816.12
+
+
+--- item ---
+
+"item_id"=194
+"item_name"="Lockpick of Fates"
+"item_type"="Ring"
+
+
+--- guild ---
+
+"guild_id"=235
+"name"="Heavenly Healers"
+"description"="PvP"
+"leader"="Elira"
+"members"=76
+"founded_year"=357
+
+
+--- enemy ---
+
+"enemy_id"=54
+"enemy_name"="Siren of Despair"
+"enemy_type"="Giant"
+"hitpoints"=87
+"warcry"="priskimquy"
+
+
+--- item ---
+
+"item_id"=150
+"item_name"="Staff of Eldritch Power"
+"item_type"="Shield"
+
+
+--- character ---
+
+"character_id"=64
+"first_name"="Keldra"
+"last_name"="Ragefang"
+"race"="Undead"
+"class"="Archer"
+"guild"="Gold Brokers"
+"last_login"="2021-09-01T17:31:59"
+
+
+--- team ---
+
+"team_id"=75
+"team_name"="Void_Walkers"
+"kingdom"="Orynthia"
+"n_members"=153
+
+
+--- question ---
+
+"question_id"=25
+"content"="The orcs have a saying: 'Die with honor, respawn with more loot.'"
+"choice_options"=55
+"emotion"=101
+
+
+--- question ---
+
+"question_id"=90
+"content"="Good to see you, hero! Or should I say... cash cow?"
+"choice_options"=617
+"emotion"=258
+
+
+--- guild ---
+
+"guild_id"=11
+"name"="Seekers of Truth"
+"description"="Knowledge"
+"leader"="Delgath"
+"members"=273
+"founded_year"=794
+
+
+--- guild ---
+
+"guild_id"=360
+"name"="Heavenly Healers"
+"description"="Questing"
+"leader"="Raelis"
+"members"=62
+"founded_year"=870
+
+
+--- enemy ---
+
+"enemy_id"=12
+"enemy_name"="Winged Serpent"
+"enemy_type"="Humanoid"
+"hitpoints"=634
+"warcry"="prewan"
+
+
+--- guild ---
+
+"guild_id"=291
+"name"="Elixir Masters"
+"description"="Mage Training"
+"leader"="Thera"
+"members"=46
+"founded_year"=901
+
+
+--- item ---
+
+"item_id"=125
+"item_name"="Cloak of Shadows"
+"item_type"="Amulet"
+
+
+--- guild ---
+
+"guild_id"=334
+"name"="Council of Elders"
+"description"="Crafting"
+"leader"="Keldra"
+"members"=679
+"founded_year"=840
+
+
+--- character ---
+
+"character_id"=116
+"first_name"="Elira"
+"last_name"="Skyfury"
+"race"="Human"
+"class"="Mage"
+"guild"="Shadow Society"
+"last_login"="2022-02-12T07:20:18"
+
+
+--- guild ---
+
+"guild_id"=290
+"name"="Starborn Seekers"
+"description"="Crafting"
+"leader"="Drakan"
+"members"=979
+"founded_year"=291
+
+
+--- character ---
+
+"character_id"=109
+"first_name"="Zyraziel"
+"last_name"="Steelstrike"
+"race"="Elf"
+"class"="Archer"
+"guild"="The Silent Footsteps"
+"last_login"="2023-06-01T23:05:53"
+
+
+--- event ---
+
+"event_id"=87
+"event_name"="Temple of the Wicked Oracle"
+"event_time"=260
+
+
+--- npc ---
+
+"npc_id"=496
+"npc_type"="Quest-givers"
+"first_name"="Gwynara"
+"last_name"="Runesong"
+"location"=34.32
+
+
+--- vendor ---
+
+"vendor_id"=539
+"npc_type"="Lore_Masters"
+"first_name"="Qelthar"
+"last_name"="Earthstrider"
+"location"=249.5
+
+
+--- vendor ---
+
+"vendor_id"=612
+"npc_type"="Skill_Trainers"
+"first_name"="Xyralis"
+"last_name"="Frostbane"
+"location"=453.5
+
+
+--- guild ---
+
+"guild_id"=182
+"name"="Crypt Crawlers"
+"description"="Questing"
+"leader"="Daelis"
+"members"=811
+"founded_year"=163
+
+
+--- item ---
+
+"item_id"=59
+"item_name"="Wyrm's Breath Wand"
+"item_type"="Bow"
+
+
+--- question ---
+
+"question_id"=71
+"content"="You wish to defeat the Demon Lord? First, you must conquer the deadliest foe: server lag."
+"choice_options"=813
+"emotion"=915
+
+
+--- npc ---
+
+"npc_id"=394
+"npc_type"="Shopkeepers"
+"first_name"="Thorgal"
+"last_name"="Windwhisper"
+"location"=374.08
+
+
+--- guild ---
+
+"guild_id"=8
+"name"="Defenders of Destiny"
+"description"="Spying"
+"leader"="Thaelis"
+"members"=600
+"founded_year"=737
+
+
+--- npc ---
+
+"npc_id"=449
+"npc_type"="Quest-givers"
+"first_name"="Solandria"
+"last_name"="Wolfsong"
+"location"=137.44
+
+
+--- question ---
+
+"question_id"=72
+"content"="We make a special deal for you, only today, only now: Buy one health potion, get one free!"
+"choice_options"=762
+"emotion"=212
+
+
+--- character ---
+
+"character_id"=94
+"first_name"="Gorgrim"
+"last_name"="Swiftwind"
+"race"="Orc"
+"class"="Archer"
+"guild"="Artisans of Alchemy"
+"last_login"="2022-06-22T10:20:20"
+
+
+--- item ---
+
+"item_id"=221
+"item_name"="Earthshaker Hammer"
+"item_type"="Dagger"
+
+
+--- item ---
+
+"item_id"=192
+"item_name"="Gauntlets of the Berserker"
+"item_type"="Dagger"
+
+
+--- item ---
+
+"item_id"=261
+"item_name"="Ring of the Fallen King"
+"item_type"="Staff"
+
+
+--- vendor ---
+
+"vendor_id"=518
+"npc_type"="Quest-givers"
+"first_name"="Runorin"
+"last_name"="Leafwhisper"
+"location"=510.82
+
+
+--- enemy ---
+
+"enemy_id"=72
+"enemy_name"="Bloodthirsty Minotaur"
+"enemy_type"="Humanoid"
+"hitpoints"=492
+"warcry"="flob"
+
+
+--- question ---
+
+"question_id"=150
+"content"="The essence of combat: kill, or be killed."
+"choice_options"=396
+"emotion"=370
+
+
+--- event ---
+
+"event_id"=137
+"event_name"="Invasion of the Frost Giants"
+"event_time"=187
+
+
+--- item ---
+
+"item_id"=246
+"item_name"="Lockpick of Fates"
+"item_type"="Ring"
+
+
+--- event ---
+
+"event_id"=179
+"event_name"="Warsong's End"
+"event_time"=170
+
+
+--- event ---
+
+"event_id"=189
+"event_name"="Oracle's Prophetic Challenge"
+"event_time"=529
+
+
+--- character ---
+
+"character_id"=66
+"first_name"="Sarthon"
+"last_name"="Thundersong"
+"race"="Human"
+"class"="Archer"
+"guild"="The Righteous"
+"last_login"="2022-01-20T03:22:02"
+
+
+--- npc ---
+
+"npc_id"=296
+"npc_type"="Skill_Trainers"
+"first_name"="Isolde"
+"last_name"="Soulforge"
+"location"=905.15
+
+
+--- npc ---
+
+"npc_id"=309
+"npc_type"="Shopkeepers"
+"first_name"="Elidora"
+"last_name"="Whitewolf"
+"location"=172.17
+
+
+--- guild ---
+
+"guild_id"=256
+"name"="The Silent Footsteps"
+"description"="Exploration"
+"leader"="Veyla"
+"members"=139
+"founded_year"=122
+
+
+--- enemy ---
+
+"enemy_id"=65
+"enemy_name"="Electric Eel"
+"enemy_type"="Humanoid"
+"hitpoints"=681
+"warcry"="hutkeuglo"
+
+
+--- guild ---
+
+"guild_id"=14
+"name"="Thieves of Time"
+"description"="Spying"
+"leader"="Caelthor"
+"members"=57
+"founded_year"=863
+
+
+--- question ---
+
+"question_id"=159
+"content"="You say you're here to save the realm? Didn't you also say that last week?"
+"choice_options"=952
+"emotion"=155
+
+
+--- event ---
+
+"event_id"=18
+"event_name"="Crusade of the Sun Chalice"
+"event_time"=799
+
+
+--- item ---
+
+"item_id"=113
+"item_name"="Rune-etched Crossbow"
+"item_type"="Sword"
+
+
+--- guild ---
+
+"guild_id"=43
+"name"="The Undying"
+"description"="Questing"
+"leader"="Ashara"
+"members"=807
+"founded_year"=742
+
+
+--- npc ---
+
+"npc_id"=367
+"npc_type"="Quest-givers"
+"first_name"="Thorgal"
+"last_name"="Darkbane"
+"location"=521.77
+
+
+--- enemy ---
+
+"enemy_id"=274
+"enemy_name"="Frost Giant"
+"enemy_type"="Beast"
+"hitpoints"=158
+"warcry"="auto"
+
+
+--- enemy ---
+
+"enemy_id"=59
+"enemy_name"="Unholy Death Knight"
+"enemy_type"="Humanoid"
+"hitpoints"=393
+"warcry"="vjutum"
+
+
+--- vendor ---
+
+"vendor_id"=545
+"npc_type"="Quest-givers"
+"first_name"="Tyrndar"
+"last_name"="Bearclaw"
+"location"=939.81
+
+
+--- item ---
+
+"item_id"=164
+"item_name"="Stormbringer Blade"
+"item_type"="Shield"
+
+
+--- npc ---
+
+"npc_id"=494
+"npc_type"="Quest-givers"
+"first_name"="Vyktor"
+"last_name"="Shadowgale"
+"location"=143.81
+
+
+--- question ---
+
+"question_id"=134
+"content"="Look in the mirror... that's your only competition in this game."
+"choice_options"=144
+"emotion"=778
+
+
+--- enemy ---
+
+"enemy_id"=179
+"enemy_name"="Death Reaper"
+"enemy_type"="Beast"
+"hitpoints"=369
+"warcry"="urcaprusme"
+
+
+--- question ---
+
+"question_id"=38
+"content"="The cake is a lie, but the XP is real!"
+"choice_options"=451
+"emotion"=251
+
+
+--- question ---
+
+"question_id"=211
+"content"="Fortune favors the bold. But XP favors the grinder."
+"choice_options"=628
+"emotion"=981
+
+
+--- enemy ---
+
+"enemy_id"=123
+"enemy_name"="Dire Pegasus"
+"enemy_type"="Beast"
+"hitpoints"=552
+"warcry"="opreeswoipr"
+
+
+--- enemy ---
+
+"enemy_id"=211
+"enemy_name"="Armored Centaur"
+"enemy_type"="Beast"
+"hitpoints"=215
+"warcry"="yzuprodes"
+
+
+--- item ---
+
+"item_id"=312
+"item_name"="Amulet of the Fallen"
+"item_type"="Potion"
+
+
+--- question ---
+
+"question_id"=133
+"content"="Ugh! Could you BE any slower in finishing this quest?"
+"choice_options"=429
+"emotion"=243
+
+
+--- guild ---
+
+"guild_id"=200
+"name"="Frostbite Clan"
+"description"="Trading"
+"leader"="Elidora"
+"members"=916
+"founded_year"=546
+
+
+--- character ---
+
+"character_id"=98
+"first_name"="Zyralor"
+"last_name"="Windstrider"
+"race"="Naga"
+"class"="Rogue"
+"guild"="Seekers of Truth"
+"last_login"="2021-04-25T11:19:37"
+
+
+--- team ---
+
+"team_id"=104
+"team_name"="Astral_Crusaders"
+"kingdom"="Cimmeria"
+"n_members"=788
+
+
+--- question ---
+
+"question_id"=161
+"content"="Welcome, adventurer, to the Caverns of Eternal Sorrow. Happy hour is from 4 to 6."
+"choice_options"=367
+"emotion"=676
+
+
+--- item ---
+
+"item_id"=323
+"item_name"="Sword of the Paladin"
+"item_type"="Sword"
+
+
+--- item ---
+
+"item_id"=301
+"item_name"="Rod of Wondrous Echoes"
+"item_type"="Potion"
+
+
+--- item ---
+
+"item_id"=153
+"item_name"="Windfury Longsword"
+"item_type"="Ring"
+
+
+--- guild ---
+
+"guild_id"=358
+"name"="Gold Brokers"
+"description"="PvP"
+"leader"="Lunarion"
+"members"=908
+"founded_year"=574
+
+
+--- question ---
+
+"question_id"=116
+"content"="Today's forecast: Cloudy with a chance of dragon attacks."
+"choice_options"=901
+"emotion"=1000
+
+
+--- event ---
+
+"event_id"=193
+"event_name"="Serpent's Ascension"
+"event_time"=271
+
+
+--- enemy ---
+
+"enemy_id"=77
+"enemy_name"="Alpha Wolf"
+"enemy_type"="Humanoid"
+"hitpoints"=750
+"warcry"="hgeh"
+
+
+--- item ---
+
+"item_id"=328
+"item_name"="Essence of the Wild"
+"item_type"="Sword"
+
+
+--- guild ---
+
+"guild_id"=42
+"name"="The Righteous"
+"description"="Mage Training"
+"leader"="Raelis"
+"members"=248
+"founded_year"=813
+
+
+--- event ---
+
+"event_id"=88
+"event_name"="Festival of Golden Leaves"
+"event_time"=336
+
+
+--- item ---
+
+"item_id"=29
+"item_name"="Grimoire of Lost Souls"
+"item_type"="Shield"
+
+
+--- question ---
+
+"question_id"=95
+"content"="Adventurer, your future is whatever you grind it to be."
+"choice_options"=754
+"emotion"=351
+
+
+--- vendor ---
+
+"vendor_id"=594
+"npc_type"="Quest-givers"
+"first_name"="Drakan"
+"last_name"="Moonshard"
+"location"=961.65
+
+
+--- event ---
+
+"event_id"=10
+"event_name"="Festival of Golden Leaves"
+"event_time"=708
+
+
+--- guild ---
+
+"guild_id"=115
+"name"="Desert Nomads"
+"description"="Questing"
+"leader"="Grundor"
+"members"=560
+"founded_year"=216
+
+
+--- enemy ---
+
+"enemy_id"=266
+"enemy_name"="Twilight Satyr"
+"enemy_type"="Humanoid"
+"hitpoints"=617
+"warcry"="aglo"
+
+
+--- character ---
+
+"character_id"=42
+"first_name"="Xyra"
+"last_name"="Dreadbane"
+"race"="Naga"
+"class"="Rogue"
+"guild"="Mercenaries of Fortune"
+"last_login"="2022-08-04T00:48:12"
+
+
+--- enemy ---
+
+"enemy_id"=237
+"enemy_name"="Ancient Wyrm"
+"enemy_type"="Magical"
+"hitpoints"=833
+"warcry"="uplisw"
+
+
+--- enemy ---
+
+"enemy_id"=251
+"enemy_name"="Cursed Samurai"
+"enemy_type"="Humanoid"
+"hitpoints"=954
+"warcry"="phitreu"
+
+
+--- guild ---
+
+"guild_id"=238
+"name"="Silver Lances"
+"description"="Healing"
+"leader"="Lyrielle"
+"members"=871
+"founded_year"=389
+
+
+--- npc ---
+
+"npc_id"=407
+"npc_type"="Skill_Trainers"
+"first_name"="Nymriel"
+"last_name"="Seaspray"
+"location"=295.55
+
+
+--- npc ---
+
+"npc_id"=425
+"npc_type"="Shopkeepers"
+"first_name"="Nymriel"
+"last_name"="Thundersong"
+"location"=664.06
+
+
+--- guild ---
+
+"guild_id"=175
+"name"="Hands of Fate"
+"description"="Spying"
+"leader"="Faelthorn"
+"members"=204
+"founded_year"=253
+
+
+--- event ---
+
+"event_id"=71
+"event_name"="Crusade of the Sun Chalice"
+"event_time"=932
+
+
+--- vendor ---
+
+"vendor_id"=630
+"npc_type"="Shopkeepers"
+"first_name"="Zyralor"
+"last_name"="Runesong"
+"location"=548.55
+
+
+--- vendor ---
+
+"vendor_id"=523
+"npc_type"="Lore_Masters"
+"first_name"="Zephyrix"
+"last_name"="Goldenleaf"
+"location"=971.01
+
+
+--- guild ---
+
+"guild_id"=81
+"name"="The Silent Footsteps"
+"description"="Crafting"
+"leader"="Valdrick"
+"members"=337
+"founded_year"=407
+
+
+--- item ---
+
+"item_id"=21
+"item_name"="Tome of the Elders"
+"item_type"="Ring"
+
+
+--- item ---
+
+"item_id"=42
+"item_name"="Earthshaker Hammer"
+"item_type"="Ring"
+
+
+--- enemy ---
+
+"enemy_id"=197
+"enemy_name"="Death Reaper"
+"enemy_type"="Beast"
+"hitpoints"=493
+"warcry"="brefla"
+
+
+--- question ---
+
+"question_id"=127
+"content"="Verily, you've conquered the Mountain of Despair! Here's 50 gold coins."
+"choice_options"=287
+"emotion"=870
+
+
+--- event ---
+
+"event_id"=112
+"event_name"="Oracle's Prophetic Challenge"
+"event_time"=653
+
+
+--- team ---
+
+"team_id"=102
+"team_name"="BladeMasters"
+"kingdom"="Elphora"
+"n_members"=247
+
+
+--- question ---
+
+"question_id"=262
+"content"="The course of true love never did run smooth. But then again, neither does lag."
+"choice_options"=626
+"emotion"=283
+
+
+--- question ---
+
+"question_id"=164
+"content"="Before you proceed, hero, please read our terms of service."
+"choice_options"=771
+"emotion"=684
+
+
+--- guild ---
+
+"guild_id"=203
+"name"="Heroes of Harmony"
+"description"="Healing"
+"leader"="Faelthorn"
+"members"=319
+"founded_year"=844
+
+
+--- question ---
+
+"question_id"=39
+"content"="Life, which you so nobly serve, comes from destruction, disorder and chaos."
+"choice_options"=507
+"emotion"=317
+
+
+--- enemy ---
+
+"enemy_id"=210
+"enemy_name"="Ancient Wyrm"
+"enemy_type"="Beast"
+"hitpoints"=222
+"warcry"="risletrec"
+
+
+--- enemy ---
+
+"enemy_id"=49
+"enemy_name"="Armored Demon"
+"enemy_type"="Elemental"
+"hitpoints"=731
+"warcry"="sostaxsi"
+
+
+--- team ---
+
+"team_id"=58
+"team_name"="Warden_of_Will"
+"kingdom"="Cimmeria"
+"n_members"=257
+
+
+--- enemy ---
+
+"enemy_id"=146
+"enemy_name"="Lightning Jinn"
+"enemy_type"="Dragon"
+"hitpoints"=285
+"warcry"="sniusm"
+
+
+--- event ---
+
+"event_id"=167
+"event_name"="Blood Moon Rising"
+"event_time"=606
+
+
+--- npc ---
+
+"npc_id"=304
+"npc_type"="Quest-givers"
+"first_name"="Naelor"
+"last_name"="Skullcrusher"
+"location"=660.72
+
+
+--- guild ---
+
+"guild_id"=26
+"name"="Shadow Society"
+"description"="Trading"
+"leader"="Zaela"
+"members"=745
+"founded_year"=597
+
+
+--- npc ---
+
+"npc_id"=445
+"npc_type"="Quest-givers"
+"first_name"="Shaelis"
+"last_name"="Firetalon"
+"location"=549.24
+
+
+--- npc ---
+
+"npc_id"=333
+"npc_type"="Lore_Masters"
+"first_name"="Belthorn"
+"last_name"="Earthstrider"
+"location"=214.12
+
+
+--- enemy ---
+
+"enemy_id"=130
+"enemy_name"="Undead Pirate"
+"enemy_type"="Humanoid"
+"hitpoints"=304
+"warcry"="uxpiske"
+
+
+--- question ---
+
+"question_id"=49
+"content"="May the RNG gods forever be in your favor."
+"choice_options"=946
+"emotion"=251
+
+
+--- npc ---
+
+"npc_id"=293
+"npc_type"="Quest-givers"
+"first_name"="Zyralor"
+"last_name"="Brightdawn"
+"location"=108.83
+
+
+--- question ---
+
+"question_id"=80
+"content"="Do not dwell in the past, do not dream of the future, concentrate the mind on the present game."
+"choice_options"=823
+"emotion"=916
+
+
+--- question ---
+
+"question_id"=279
+"content"="Existence precedes essence. So, what's your next quest, existentialist?"
+"choice_options"=648
+"emotion"=476
+
+
+--- enemy ---
+
+"enemy_id"=69
+"enemy_name"="Armored Basilisk"
+"enemy_type"="Undead"
+"hitpoints"=695
+"warcry"="lki"
+
+
+--- guild ---
+
+"guild_id"=39
+"name"="Defenders of Destiny"
+"description"="Knowledge"
+"leader"="Endora"
+"members"=745
+"founded_year"=346
+
+
+--- event ---
+
+"event_id"=217
+"event_name"="Carnival of the Forgotten"
+"event_time"=902
+
+
+--- item ---
+
+"item_id"=329
+"item_name"="Bracelet of Divine Fates"
+"item_type"="Potion"
+
+
+--- question ---
+
+"question_id"=192
+"content"="You are not prepared... for these discounts! All potions 50% off!"
+"choice_options"=349
+"emotion"=838
+
+
+--- npc ---
+
+"npc_id"=470
+"npc_type"="Lore_Masters"
+"first_name"="Solandria"
+"last_name"="Deeproot"
+"location"=475.59
+
+
+--- event ---
+
+"event_id"=209
+"event_name"="Cursed Souls' Nightfall"
+"event_time"=420
+
+
+--- guild ---
+
+"guild_id"=88
+"name"="Heart of Courage"
+"description"="Trading"
+"leader"="Faelthorn"
+"members"=404
+"founded_year"=544
+
+
+--- guild ---
+
+"guild_id"=328
+"name"="Desert Nomads"
+"description"="Trading"
+"leader"="Thorgal"
+"members"=354
+"founded_year"=122
+
+
+--- guild ---
+
+"guild_id"=146
+"name"="The Forsaken"
+"description"="Crafting"
+"leader"="Daelis"
+"members"=744
+"founded_year"=805
+
+
+--- question ---
+
+"question_id"=5
+"content"="The princess is in another castle... but she left her Snapchat, so it's not a total loss."
+"choice_options"=510
+"emotion"=602
+
+
+--- item ---
+
+"item_id"=308
+"item_name"="Amethyst Soul Amulet"
+"item_type"="Potion"
+
+
+--- item ---
+
+"item_id"=115
+"item_name"="Pauldrons of the Bear"
+"item_type"="Staff"
+
+
+--- guild ---
+
+"guild_id"=92
+"name"="Frostbite Clan"
+"description"="Spying"
+"leader"="Faenar"
+"members"=497
+"founded_year"=845
+
+
+--- item ---
+
+"item_id"=321
+"item_name"="Goblin-made Flail"
+"item_type"="Bow"
+
+
+--- event ---
+
+"event_id"=15
+"event_name"="Odyssey of the Stormcaller"
+"event_time"=173
+
+
+--- enemy ---
+
+"enemy_id"=185
+"enemy_name"="Bloodthirsty Minotaur"
+"enemy_type"="Undead"
+"hitpoints"=40
+"warcry"="aurogru"
+
+
+--- character ---
+
+"character_id"=110
+"first_name"="Thera"
+"last_name"="Stoneforge"
+"race"="Naga"
+"class"="Rogue"
+"guild"="Wisdom Weavers"
+"last_login"="2022-03-11T23:58:13"
+
+
+--- team ---
+
+"team_id"=122
+"team_name"="Eclipse_Archers"
+"kingdom"="Cimmeria"
+"n_members"=875
+
+
+--- question ---
+
+"question_id"=248
+"content"="OMG, you guys! This dungeon is sooo lit! #BestDungeonEver"
+"choice_options"=639
+"emotion"=912
+
+
+--- item ---
+
+"item_id"=162
+"item_name"="Scepter of the Forsaken"
+"item_type"="Bow"
+
+
+--- character ---
+
+"character_id"=106
+"first_name"="Selendis"
+"last_name"="Earthstrider"
+"race"="Dwarf"
+"class"="Warrior"
+"guild"="Merchant Princes"
+"last_login"="2021-12-29T10:26:56"
+
+
+--- vendor ---
+
+"vendor_id"=628
+"npc_type"="Lore_Masters"
+"first_name"="Serafelle"
+"last_name"="Steelstrike"
+"location"=940.39
+
+
+--- question ---
+
+"question_id"=103
+"content"="Today's forecast: Cloudy with a chance of dragon attacks."
+"choice_options"=956
+"emotion"=694
+
+
+--- item ---
+
+"item_id"=165
+"item_name"="Emerald Heart Ring"
+"item_type"="Staff"
+
+
+--- enemy ---
+
+"enemy_id"=240
+"enemy_name"="Harpy Scream"
+"enemy_type"="Humanoid"
+"hitpoints"=101
+"warcry"="gleoplabr"
+
+
+--- enemy ---
+
+"enemy_id"=60
+"enemy_name"="Shadow Stalker"
+"enemy_type"="Humanoid"
+"hitpoints"=110
+"warcry"="uwe"
+
+
+--- team ---
+
+"team_id"=94
+"team_name"="ElementalFury"
+"kingdom"="Cimmeria"
+"n_members"=826
+
+
+--- guild ---
+
+"guild_id"=154
+"name"="The Undying"
+"description"="PvP"
+"leader"="Elanor"
+"members"=684
+"founded_year"=132
+
+
+--- enemy ---
+
+"enemy_id"=209
+"enemy_name"="Shadow Stalker"
+"enemy_type"="Undead"
+"hitpoints"=474
+"warcry"="bropb"
+
+
+--- enemy ---
+
+"enemy_id"=84
+"enemy_name"="Clockwork Guardian"
+"enemy_type"="Undead"
+"hitpoints"=640
+"warcry"="ruublol"
+
+
+--- question ---
+
+"question_id"=222
+"content"="Ah, another wanderer looking to buy some potions. Just don't ask what's in them."
+"choice_options"=72
+"emotion"=602
+
+
+--- team ---
+
+"team_id"=62
+"team_name"="Astral_Crusaders"
+"kingdom"="Orynthia"
+"n_members"=344
+
+
+--- item ---
+
+"item_id"=4
+"item_name"="Serpent's Fang Saber"
+"item_type"="Ring"
+
+
+--- enemy ---
+
+"enemy_id"=184
+"enemy_name"="Poisonous Plant"
+"enemy_type"="Beast"
+"hitpoints"=625
+"warcry"="ldeeswuf"
+
+
+--- npc ---
+
+"npc_id"=468
+"npc_type"="Skill_Trainers"
+"first_name"="Caelthor"
+"last_name"="Swiftblade"
+"location"=800.57
+
+
+--- event ---
+
+"event_id"=127
+"event_name"="Curse of the Phantom Queen"
+"event_time"=526
+
+
+--- vendor ---
+
+"vendor_id"=644
+"npc_type"="Quest-givers"
+"first_name"="Kyrion"
+"last_name"="Moonfire"
+"location"=205.43
+
+
+--- character ---
+
+"character_id"=80
+"first_name"="Naelor"
+"last_name"="Iceshard"
+"race"="Orc"
+"class"="Archer"
+"guild"="Emerald Enchanters"
+"last_login"="2022-06-07T01:15:29"
+
+
+--- enemy ---
+
+"enemy_id"=139
+"enemy_name"="Spectral Warden"
+"enemy_type"="Magical"
+"hitpoints"=803
+"warcry"="yaprusabro"
+
+
+--- guild ---
+
+"guild_id"=272
+"name"="Circle of Druids"
+"description"="Trading"
+"leader"="Thera"
+"members"=777
+"founded_year"=128
+
+
+--- question ---
+
+"question_id"=205
+"content"="You either die a hero or live long enough to become an NPC."
+"choice_options"=797
+"emotion"=762
+
+
+--- item ---
+
+"item_id"=273
+"item_name"="Amulet of the Wind Whisperer"
+"item_type"="Dagger"
+
+
+--- event ---
+
+"event_id"=195
+"event_name"="The Scarlet Eclipse"
+"event_time"=807
+
+
+--- item ---
+
+"item_id"=49
+"item_name"="Blade of the Fallen"
+"item_type"="Sword"
+
+
+--- enemy ---
+
+"enemy_id"=257
+"enemy_name"="Winged Serpent"
+"enemy_type"="Flora"
+"hitpoints"=176
+"warcry"="eubsa"
+
+
+--- guild ---
+
+"guild_id"=366
+"name"="Silver Lances"
+"description"="Exploration"
+"leader"="Nymriel"
+"members"=232
+"founded_year"=33
+
+
+--- npc ---
+
+"npc_id"=440
+"npc_type"="Quest-givers"
+"first_name"="Delgath"
+"last_name"="Darkveil"
+"location"=859.38
+
+
+--- guild ---
+
+"guild_id"=232
+"name"="The Silent Footsteps"
+"description"="Questing"
+"leader"="Vyktor"
+"members"=722
+"founded_year"=548
+
+
+--- team ---
+
+"team_id"=70
+"team_name"="PhoenixRising"
+"kingdom"="Cimmeria"
+"n_members"=448
+
+
+--- question ---
+
+"question_id"=178
+"content"="Welcome to the Guild of Forgotten Souls! Now, what's your damage?"
+"choice_options"=473
+"emotion"=226
+
+
+--- npc ---
+
+"npc_id"=477
+"npc_type"="Skill_Trainers"
+"first_name"="Ashara"
+"last_name"="Starflame"
+"location"=200.31
+
+
+--- event ---
+
+"event_id"=133
+"event_name"="Fireheart's Revenge"
+"event_time"=707
+
+
+--- event ---
+
+"event_id"=85
+"event_name"="Carnival of the Forgotten"
+"event_time"=515
+
+
+--- event ---
+
+"event_id"=145
+"event_name"="Curse of the Phantom Queen"
+"event_time"=942
+
+
+--- event ---
+
+"event_id"=186
+"event_name"="Curse of the Phantom Queen"
+"event_time"=649
+
+
+--- character ---
+
+"character_id"=76
+"first_name"="Morwyn"
+"last_name"="Dawnstrike"
+"race"="Human"
+"class"="Warrior"
+"guild"="Circle of Druids"
+"last_login"="2021-10-17T18:24:43"
+
+
+--- event ---
+
+"event_id"=28
+"event_name"="Corruption of the Sacred Grove"
+"event_time"=943
+
+
+--- question ---
+
+"question_id"=235
+"content"="Be yourself; everyone else is already grinding."
+"choice_options"=927
+"emotion"=587
+
+
+--- event ---
+
+"event_id"=140
+"event_name"="War of the Crystal Lake"
+"event_time"=494
+
+
+--- vendor ---
+
+"vendor_id"=665
+"npc_type"="Skill_Trainers"
+"first_name"="Zyraziel"
+"last_name"="Frostbane"
+"location"=885.73
+
+
+--- guild ---
+
+"guild_id"=333
+"name"="Spirit Guardians"
+"description"="Questing"
+"leader"="Sarthon"
+"members"=375
+"founded_year"=699
+
+
+--- enemy ---
+
+"enemy_id"=164
+"enemy_name"="Crystal Dragon"
+"enemy_type"="Elemental"
+"hitpoints"=453
+"warcry"="esnuqlue"
+
+
+--- item ---
+
+"item_id"=226
+"item_name"="Tome of the Elders"
+"item_type"="Sword"
+
+
+--- question ---
+
+"question_id"=130
+"content"="It was the best of times, it was the worst of quests."
+"choice_options"=274
+"emotion"=255
+
+
+--- guild ---
+
+"guild_id"=179
+"name"="Desert Nomads"
+"description"="Questing"
+"leader"="Orin"
+"members"=445
+"founded_year"=900
+
+
+--- guild ---
+
+"guild_id"=107
+"name"="Starborn Seekers"
+"description"="Exploration"
+"leader"="Thorgal"
+"members"=123
+"founded_year"=815
+
+
+--- vendor ---
+
+"vendor_id"=562
+"npc_type"="Quest-givers"
+"first_name"="Endora"
+"last_name"="Starflame"
+"location"=933.32
+
+
+--- event ---
+
+"event_id"=220
+"event_name"="The Scarlet Eclipse"
+"event_time"=549
+
+
+--- vendor ---
+
+"vendor_id"=663
+"npc_type"="Lore_Masters"
+"first_name"="Thaelen"
+"last_name"="Darkbane"
+"location"=364.11
+
+
+--- npc ---
+
+"npc_id"=301
+"npc_type"="Skill_Trainers"
+"first_name"="Veylan"
+"last_name"="Ironthorn"
+"location"=152.49
+
+
+--- npc ---
+
+"npc_id"=386
+"npc_type"="Skill_Trainers"
+"first_name"="Morwyn"
+"last_name"="Shadowgale"
+"location"=254.13
+
+
+--- enemy ---
+
+"enemy_id"=33
+"enemy_name"="Necrotic Lich"
+"enemy_type"="Beast"
+"hitpoints"=950
+"warcry"="uglou"
+
+
+--- guild ---
+
+"guild_id"=353
+"name"="Dragon Slayers"
+"description"="Exploration"
+"leader"="Tyrndar"
+"members"=467
+"founded_year"=522
+
+
+--- event ---
+
+"event_id"=143
+"event_name"="Challenge of the Seven Seals"
+"event_time"=478
+
+
+--- question ---
+
+"question_id"=28
+"content"="Ah, another wanderer looking to buy some potions. Just don't ask what's in them."
+"choice_options"=866
+"emotion"=874
+
+
+--- npc ---
+
+"npc_id"=485
+"npc_type"="Lore_Masters"
+"first_name"="Isolde"
+"last_name"="Dawnstrike"
+"location"=237.69
+
+
+--- question ---
+
+"question_id"=202
+"content"="Do you wish to hear a tale of valor and sacrifice? Too late, it's DLC content."
+"choice_options"=67
+"emotion"=469
+
+
+--- vendor ---
+
+"vendor_id"=532
+"npc_type"="Shopkeepers"
+"first_name"="Oromis"
+"last_name"="Goldenleaf"
+"location"=266.11
+
+
+--- question ---
+
+"question_id"=12
+"content"="I feel the need\u00e2\u20ac\u201dthe need for speed (potions)!"
+"choice_options"=486
+"emotion"=38
+
+
+--- npc ---
+
+"npc_id"=444
+"npc_type"="Lore_Masters"
+"first_name"="Thorgath"
+"last_name"="Stoneshield"
+"location"=632.46
+
+
+--- enemy ---
+
+"enemy_id"=218
+"enemy_name"="Forest Nymph"
+"enemy_type"="Beast"
+"hitpoints"=263
+"warcry"="btoahi"
+
+
+--- vendor ---
+
+"vendor_id"=623
+"npc_type"="Lore_Masters"
+"first_name"="Xyphera"
+"last_name"="Skyshard"
+"location"=766.09
+
+
+--- team ---
+
+"team_id"=34
+"team_name"="Cosmic_Paladins"
+"kingdom"="Cimmeria"
+"n_members"=115
+
+
+--- vendor ---
+
+"vendor_id"=581
+"npc_type"="Quest-givers"
+"first_name"="Keldra"
+"last_name"="Frostbane"
+"location"=391.45
+
+
+--- enemy ---
+
+"enemy_id"=192
+"enemy_name"="Fire Salamander"
+"enemy_type"="Humanoid"
+"hitpoints"=180
+"warcry"="jvestun"
+
+
+--- guild ---
+
+"guild_id"=100
+"name"="The Righteous"
+"description"="Healing"
+"leader"="Drakan"
+"members"=55
+"founded_year"=47
+
+
+--- question ---
+
+"question_id"=198
+"content"="Hey, wanna see something cool? Press Alt+F4!"
+"choice_options"=598
+"emotion"=947
+
+
+--- enemy ---
+
+"enemy_id"=3
+"enemy_name"="Blazing Phoenix"
+"enemy_type"="Beast"
+"hitpoints"=22
+"warcry"="groonjem"
+
+
+--- item ---
+
+"item_id"=101
+"item_name"="Champion's Greatsword"
+"item_type"="Shield"
+
+
+--- guild ---
+
+"guild_id"=44
+"name"="Mind Over Matter"
+"description"="Trading"
+"leader"="Vyktor"
+"members"=293
+"founded_year"=694
+
+
+--- vendor ---
+
+"vendor_id"=710
+"npc_type"="Skill_Trainers"
+"first_name"="Valyndra"
+"last_name"="Silverbow"
+"location"=9.24
+
+
+--- guild ---
+
+"guild_id"=257
+"name"="Elemental Lords"
+"description"="Trading"
+"leader"="Serafelle"
+"members"=940
+"founded_year"=166
+
+
+--- event ---
+
+"event_id"=205
+"event_name"="The Celestial Convergence"
+"event_time"=943
+
+
+--- guild ---
+
+"guild_id"=150
+"name"="Hands of Fate"
+"description"="Mage Training"
+"leader"="Delgath"
+"members"=952
+"founded_year"=598
+
+
+--- vendor ---
+
+"vendor_id"=503
+"npc_type"="Skill_Trainers"
+"first_name"="Naelor"
+"last_name"="Duskheart"
+"location"=591.9
+
+
+--- guild ---
+
+"guild_id"=72
+"name"="Spirit Guardians"
+"description"="Crafting"
+"leader"="Raelan"
+"members"=703
+"founded_year"=273
+
+
+--- team ---
+
+"team_id"=99
+"team_name"="Astral_Crusaders"
+"kingdom"="Orynthia"
+"n_members"=339
+
+
+--- guild ---
+
+"guild_id"=64
+"name"="The Forsaken"
+"description"="PvP"
+"leader"="Sarthon"
+"members"=367
+"founded_year"=765
+
+
+--- vendor ---
+
+"vendor_id"=554
+"npc_type"="Quest-givers"
+"first_name"="Naelor"
+"last_name"="Earthshaker"
+"location"=981.06
+
+
