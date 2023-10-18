@@ -5,7 +5,7 @@ import table_clear
 db_file = "game.db"
 
 # Open a connection to the database and create a cursor
-#table_clear.table_clean(db_file)
+table_clear.table_clean(db_file)
 conn = sqlite3.connect(db_file)
 cursor = conn.cursor()
 
