@@ -133,6 +133,9 @@ all_types = {
         'Offer skill upgrades for a fee',
         'Provide backstory and clues to hidden secrets'
     ],
+    "strenght_lvl" :["LOW", "MEDIUM", "HIGH"],
+    "class_id" :[1, 2, 3, 4, 5, 6],
+    "quest_type_difficulty" :["EASY", "MEDIUM", "HARD"]
 }
 
 

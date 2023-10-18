@@ -5,7 +5,7 @@
             "type": "dialogue",
             "fields": [
                 {
-                    "name": "question_id",
+                    "name": "id",
                     "datatype": "int",
                     "type": "primary_key"
                 },
@@ -25,45 +25,11 @@
             ]
         },
         {
-            "name": "guild",
-            "type": "guild",
+            "name": "npc",
+            "type": "npc",
             "fields": [
                 {
-                    "name": "guild_id",
-                    "datatype": "int",
-                    "type": "primary_key"
-                },
-                {
-                    "name": "name",
-                    "datatype": "string",
-                    "value_source": "guild_names"
-                },
-                {
-                    "name": "description",
-                    "datatype": "string",
-                    "value_source": "guild_types"
-                },
-                {
-                    "name": "leader",
-                    "datatype": "string",
-                    "value_source": "first_names"
-                },
-                {
-                    "name": "members",
-                    "datatype": "int"
-                },
-                {
-                    "name": "founded_year",
-                    "datatype": "int"
-                }
-            ]
-        },
-        {
-            "name": "character",
-            "type": "player",
-            "fields": [
-                {
-                    "name": "character_id",
+                    "name": "npc_id",
                     "datatype": "int",
                     "type": "primary_key"
                 },
@@ -78,76 +44,121 @@
                     "value_source": "last_names"
                 },
                 {
+                    "name": "npc_type",
+                    "datatype": "string",
+                    "value_source": "npc_types"
+                },
+                {
+                    "name": "description",
+                    "datatype": "string"
+                },
+                {
+                    "name": "location",
+                    "datatype": "float"
+                }
+            ]
+        },
+        {
+            "name": "guild",
+            "type": "guild",
+            "fields": [
+                {
+                    "name": "guild_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "name",
+                    "datatype": "string",
+                    "value_source": "guild_names"
+                },
+                {
+                    "name": "guild_type",
+                    "datatype": "string",
+                    "value_source": "guild_types"
+                },
+                {
+                    "name": "members",
+                    "datatype": "int"
+                },
+                {
+                    "name": "leader",
+                    "datatype": "string",
+                    "value_source": "first_names"
+                },
+                {
+                    "name": "founded_year",
+                    "datatype": "int"
+                }
+            ]
+        },
+        {
+            "name": "character",
+            "type": "character",
+            "fields": [
+                {
+                    "name": "character_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "player_id",
+                    "datatype": "int",
+                    "type": "foreign_key"
+                },
+                {
+                    "name": "class_id",
+                    "datatype": "int",
+                    "type": "foreign_key",
+                    "value_source" : "class_id"
+                },
+                {
                     "name": "race",
                     "datatype": "string",
                     "value_source": "race_names"
                 },
                 {
-                    "name": "class",
-                    "datatype": "string",
-                    "value_source": "class_names"
+                    "name": "skill_tree",
+                    "datatype": "string"
                 },
                 {
-                    "name": "guild",
-                    "datatype": "string",
-                    "value_source": "guild_names"
-                },
-                {
-                    "name": "last_login",
-                    "datatype": "datetime"
-                }
-            ]
-        },
-        {
-            "name": "item",
-            "type": "item",
-            "fields": [
-                {
-                    "name": "item_id",
-                    "datatype": "int",
-                    "type": "primary_key"
-                },
-                {
-                    "name": "item_name",
-                    "datatype": "string",
-                    "value_source": "item_names"
-                },
-                {
-                    "name": "item_type",
-                    "datatype": "string",
-                    "value_source": "item_types"
-                }
-            ]
-        },
-        {
-            "name": "enemy",
-            "type": "enemy",
-            "fields": [
-                {
-                    "name": "enemy_id",
-                    "datatype": "int",
-                    "type": "primary_key"
-                },
-                {
-                    "name": "enemy_name",
-                    "datatype": "string",
-                    "value_source": "enemy_names"
-                },
-                {
-                    "name": "enemy_type",
-                    "datatype": "string",
-                    "value_source": "enemy_types"
-                },
-                {
-                    "name": "hitpoints",
+                    "name": "gold",
                     "datatype": "int"
                 },
                 {
-                    "name": "warcry",
-                    "datatype": "string"
+                    "name": "name",
+                    "datatype": "string",
+                    "value_source": "first_names"
+                },
+                {
+                    "name": "kingdom_id",
+                    "datatype": "int"
                 }
             ]
         },
+         {
+            "name": "player",
+            "type": "player",
+            "fields": [
+                {
+                    "name": "player_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "username",
+                    "datatype": "string"
+                },
+                {
+                    "name": "password",
+                    "datatype": "string"
+                },
+                {
+                    "name": "email",
+                    "datatype": "string"
+                }
+            ]
+         },
         {
             "name": "team",
             "type": "team",
@@ -158,13 +169,13 @@
                     "type": "primary_key"
                 },
                 {
-                    "name": "team_name",
+                    "name": "name",
                     "datatype": "string",
                     "value_source": "team_names"
                 },
                 {
-                    "name": "kingdom",
-                    "datatype": "string",
+                    "name": "kingdom_id",
+                    "datatype": "int",
                     "value_source": "kingdom_names"
                 },
                 {
@@ -183,74 +194,152 @@
                     "type": "primary_key"
                 },
                 {
-                    "name": "event_name",
+                    "name": "name",
                     "datatype": "string",
                     "value_source": "event_names"
                 },
                 {
-                    "name": "event_time",
+                    "name": "time",
+                    "datatype": "int"
+                },
+                { 
+                    "name": "location",
+                    "datatype": "float"
+                },
+                {
+                    "name": "kingdom_id",
+                    "datatype": "int",
+                    "value_source": "kingdom_names"
+                }
+            ]
+        },
+        {
+            "name": "enemy",
+            "type": "enemy",
+            "fields": [
+                {
+                    "name": "enemy_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "name",
+                    "datatype": "string",
+                    "value_source": "enemy_names"
+                },
+                {
+                    "name": "enemy_type",
+                    "datatype": "string",
+                    "value_source": "enemy_types"
+                },
+                {
+                    "name": "strength_lvl",
+                    "datatype": "string",
+                    "value_source": "strenght_lvl"
+                },
+                {
+                    "name": "loot",
+                    "datatype": "int"
+                },
+                {
+                    "name": "hitpoints",
                     "datatype": "int"
                 }
             ]
         },
         {
-            "name": "npc",
-            "type": "npc",
+            "name": "class",
+            "type": "class",
             "fields": [
                 {
-                    "name": "npc_id",
+                    "name": "class_id",
                     "datatype": "int",
                     "type": "primary_key"
                 },
                 {
-                    "name": "npc_type",
+                    "name": "class_type",
                     "datatype": "string",
-                    "value_source": "npc_types"
+                    "value_source": "class_names"
                 },
                 {
-                    "name": "first_name",
+                    "name": "class_description",
                     "datatype": "string",
-                    "value_source": "first_names"
-                },
-                {
-                    "name": "last_name",
-                    "datatype": "string",
-                    "value_source": "last_names"
-                },
-                {
-                    "name": "location",
-                    "datatype": "float"
+                    "value_source": "class_descriptions"
                 }
             ]
         },
         {
-            "name": "vendor",
-            "type": "npc",
+            "name": "quest",
+            "type": "quest",
             "fields": [
                 {
-                    "name": "vendor_id",
+                    "name": "quest_id",
                     "datatype": "int",
                     "type": "primary_key"
                 },
                 {
-                    "name": "npc_type",
-                    "datatype": "string",
-                    "value_source": "npc_types"
+                    "name": "name",
+                    "datatype": "string"
                 },
                 {
-                    "name": "first_name",
+                    "name": "description",
+                    "datatype": "string"
+                }, 
+                {
+                    "name": "type_difficulty",
                     "datatype": "string",
-                    "value_source": "first_names"
+                    "value_source": "quest_type_difficulty"
                 },
                 {
-                    "name": "last_name",
-                    "datatype": "string",
-                    "value_source": "last_names"
-                },
+                    "name": "required_level",
+                    "datatype": "int"
+                }, 
                 {
-                    "name": "location",
-                    "datatype": "float"
+                    "name": "experience_points",
+                    "datatype": "int"
                 }
+            ]
+        },
+        {
+            "name": "item",
+            "type": "item",
+            "fields": [
+                {
+                    "name": "id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "item_name",
+                    "datatype": "string",
+                    "value_source": "item_names"
+                },
+                {
+                    "name": "item_type",
+                    "datatype": "string",
+                    "value_source": "item_types"
+                }
+            ]
+        },
+        {
+            "name": "kingdom",
+            "type": "kingdom",
+            "fields": [
+                {
+                    "name": "kingdom_id",
+                    "datatype": "int",
+                    "type": "primary_key"
+                },
+                {
+                    "name": "name",
+                    "datatype": "string",
+                    "value_source": "kingdom_names"
+                },
+                {
+                    "name": "kingdom_description",
+                    "datatype": "string"
+                }
+
             ]
         }
     ]
