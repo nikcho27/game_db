@@ -79,15 +79,15 @@ def load_csv_to_list(file_name, entity_type):
 
     return loaded_list, loaded_list_second_column
 
-blueprints, blueprint_types = load_csv_to_list('data/blueprints.csv', 'blueprint')
-enemy_names, enemy_types = load_csv_to_list('data/enemies.csv', 'enemy')
-guild_names, guild_types = load_csv_to_list('data/guilds.csv', 'guild')
-team_names, _ = load_csv_to_list('data/team_names.csv', 'team_name')
-dialogue, _ = load_csv_to_list('data/dialogues.csv', 'dialogue')
-event_names, _ = load_csv_to_list('data/event_names.csv', 'event_name')
-first_names, _ = load_csv_to_list('data/first_names.csv', 'first_name')
-last_names, _ = load_csv_to_list('data/last_names.csv', 'last_name')
-item_names, item_types = load_csv_to_list('data/item_names.csv', 'item_name')
+blueprints, blueprint_types = load_csv_to_list('game_db/data/blueprints.csv', 'blueprint')
+enemy_names, enemy_types = load_csv_to_list('game_db/data/enemies.csv', 'enemy')
+guild_names, guild_types = load_csv_to_list('game_db/data/guilds.csv', 'guild')
+team_names, _ = load_csv_to_list('game_db/data/team_names.csv', 'team_name')
+dialogue, _ = load_csv_to_list('game_db/data/dialogues.csv', 'dialogue')
+event_names, _ = load_csv_to_list('game_db/data/event_names.csv', 'event_name')
+first_names, _ = load_csv_to_list('game_db/data/first_names.csv', 'first_name')
+last_names, _ = load_csv_to_list('game_db/data/last_names.csv', 'last_name')
+item_names, item_types = load_csv_to_list('game_db/data/item_names.csv', 'item_name')
 
 # A dictionary with all value sources
 all_types = {
@@ -289,7 +289,7 @@ def generate_relation(entity1_type, entity2_type):
     return value, additional_entity_type  # This will return the 'value' and 'additional_entity_type', which may be None
     
 # Read the JSON file containing the entity definitions
-with open('entities.json', 'r') as f:
+with open('game_db/entities.json', 'r') as f:
     entity_definitions = json.load(f)['entities']
 
 last_used_ids = {}
