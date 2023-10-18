@@ -136,7 +136,7 @@
                 }
             ]
         },
-         {
+        {
             "name": "player",
             "type": "player",
             "fields": [
@@ -158,7 +158,7 @@
                     "datatype": "string"
                 }
             ]
-         },
+        },
         {
             "name": "team",
             "type": "team",
