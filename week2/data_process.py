@@ -105,12 +105,22 @@ for filename in os.listdir(directory):
         key = os.path.splitext(filename)[0]
         event_dataframes[key] = df
 
+# Group by 'item_id' and 'quantity,' and count instances / then sum by gorouping again to know how to handle the inventory
+grouped = event_dataframes["inventory"].groupby(['character_id', 'item_id', 'quantity']).size().reset_index(name='count')
+result = grouped.groupby(['character_id', 'item_id'])['count'].sum().reset_index()
+mask = result['count'] > 0
+filtered_result = result[mask].rename(columns={'count': 'quantity'})
+event_dataframes["inventory"] = filtered_result
+
 #for each data frame we need to ensure that the entities we are tryign to insert exist
 #Create and apply mask
 
 #character_enemy#character_guild#character_npc#character_team#npc_dialogue#npc_item#npc_quest
 for key, df in event_dataframes.items():
-    parts = key.split('_')
+    if key == "inventory":
+        parts = ['character', 'item']
+    else:
+        parts = key.split('_')
     print(df.columns)
     index1 = parts[0] + '_id'
     index2 = parts[1] + '_id'

@@ -72,7 +72,8 @@ with open("generated_events.txt", "r") as file:
         elif "[Value]:" in line:
             current_data.append(line.split(":")[1].strip())
         elif "[Additional Entity]:" in line:
-            entity_id = line.split(":")[1].strip()
+            line = line.replace("}", "").replace(" ", "").replace("{", "")
+            parts = re.split(r'[:,]', line)
             value = current_data[-1]
             #case value dialogue
             if(value == "Talked"):
@@ -83,12 +84,13 @@ with open("generated_events.txt", "r") as file:
             #case value bought from
             elif(value == "Sold To"):
                 #remove from inventory 1 quantity if record exists
-                continue
+                load_table_values_to_csv("inventory", [current_data[0], parts[2], '-'], ['character_id', 'item_id', 'quantity'], event_folder)
             
             #case value sold to
             elif(value == "Bought From"):
                 #add to inventory 1 quantity or create new instance if it doesn't exist
-                continue
+                load_table_values_to_csv("inventory", [current_data[0], parts[2], '+'], ['character_id', 'item_id', 'quantity'], event_folder)
+
                 
             
 

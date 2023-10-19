@@ -1,257 +1,577 @@
 enemy_id,name,enemy_type,strength_lvl,loot,hitpoints
-338,Mud Troll,Boss,LOW,573,84
-383,Fire Imp,Shadow Minion,HIGH,200,535
-349,Phantom Banshee,Goblin,LOW,978,777
-386,Banshee Queen,Wolf,MEDIUM,726,662
-310,Silverback Gorilla,Shadow Minion,MEDIUM,972,434
-324,Earthquake Worm,Boss,MEDIUM,409,255
-370,Venomous Serpent,Wolf,LOW,500,9
-362,Dark Sorcerer,Boss,LOW,61,508
-355,Vampiric Bat Swarm,Wolf,MEDIUM,126,792
-374,Phantom Assassin,Shadow Minion,LOW,926,651
-301,Dire Bat,Wolf,HIGH,299,438
-326,Silverback Gorilla,Goblin,LOW,949,443
-377,Dark Sorcerer,Shadow Minion,MEDIUM,883,300
-305,Lava Golem,Wolf,HIGH,426,416
-369,Murderous Wendigo,Goblin,LOW,203,445
-318,Phantom Banshee,Wolf,HIGH,999,664
-360,Murderous Wendigo,Shadow Minion,LOW,80,552
-291,Voracious Goblin,Goblin,HIGH,758,900
-347,Thunderhawk,Wolf,HIGH,900,185
-316,Ghostly Archer,Shadow Minion,HIGH,312,454
-334,Electric Eel,Shadow Minion,LOW,993,957
-337,Ghostly Archer,Goblin,HIGH,185,225
-365,Warrior Orc,Boss,MEDIUM,822,652
-299,Frost Giant,Shadow Minion,LOW,144,753
-296,Fire Imp,Shadow Minion,HIGH,94,570
-373,Phantom Assassin,Shadow Minion,MEDIUM,909,703
-328,Murderous Wendigo,Boss,MEDIUM,213,759
-356,Electric Eel,Goblin,LOW,461,164
-359,Phantom Assassin,Wolf,LOW,174,917
-354,Venomous Serpent,Wolf,LOW,632,822
-352,Ghostly Archer,Wolf,HIGH,290,302
-351,Black Widow,Boss,LOW,731,143
-372,Lunar Moth,Goblin,HIGH,664,202
-304,Plague Rat,Goblin,LOW,200,111
-331,Frostbite Wolf,Shadow Minion,LOW,798,948
-290,Dire Bat,Shadow Minion,LOW,619,471
-336,Mud Troll,Wolf,HIGH,628,494
-308,Banshee Queen,Shadow Minion,MEDIUM,229,755
-388,Ghostly Archer,Shadow Minion,LOW,290,454
-320,Thunder Drake,Goblin,LOW,932,236
-294,Ghostly Archer,Goblin,MEDIUM,791,268
-361,Frost Giant,Goblin,LOW,278,964
-380,Dark Sorcerer,Goblin,HIGH,468,825
-321,Vampiric Bat Swarm,Shadow Minion,LOW,770,288
-313,Shadow Wraith,Goblin,MEDIUM,542,893
-343,Murderous Wendigo,Wolf,LOW,161,152
-367,Dire Bat,Boss,MEDIUM,632,17
-314,Plague Rat,Boss,LOW,11,102
-344,Cave Spider,Wolf,MEDIUM,841,726
-340,Cave Spider,Wolf,MEDIUM,994,489
-371,Ice Elemental,Shadow Minion,MEDIUM,293,770
-253,Ghostly Archer,Goblin,LOW,262,151
-289,Night Stalker,Goblin,HIGH,320,287
-300,Banshee Queen,Boss,LOW,189,910
-242,Chained Spirit,Goblin,LOW,15,654
-248,Chained Spirit,Boss,LOW,144,731
-309,Alpha Wolf,Goblin,LOW,22,998
-261,Cave Spider,Wolf,HIGH,250,960
-294,Illusionary Trickster,Wolf,HIGH,703,119
-203,Lunar Moth,Shadow Minion,MEDIUM,720,719
-201,Mud Troll,Goblin,LOW,686,735
-303,Thunder Drake,Boss,MEDIUM,475,490
-240,Silverback Gorilla,Wolf,HIGH,946,195
-264,Fire Imp,Boss,MEDIUM,111,779
-299,Thunderhawk,Boss,LOW,741,718
-310,Voracious Goblin,Shadow Minion,HIGH,924,913
-235,Phantom Assassin,Goblin,HIGH,309,599
-277,Phantom Banshee,Wolf,HIGH,710,69
-244,Lunar Moth,Wolf,HIGH,726,687
-224,Frost Giant,Goblin,HIGH,596,369
-286,Fire Imp,Wolf,MEDIUM,588,806
-246,Dire Bat,Goblin,LOW,529,914
-215,Voracious Goblin,Wolf,HIGH,865,402
-219,Lava Golem,Wolf,MEDIUM,259,674
-274,Black Widow,Wolf,MEDIUM,575,838
-199,Mud Troll,Goblin,LOW,775,51
-307,Fire Imp,Shadow Minion,LOW,124,215
-205,Lava Golem,Goblin,LOW,386,869
-228,Phantom Banshee,Shadow Minion,LOW,821,371
-251,Ghostly Archer,Goblin,LOW,95,619
-297,Shadow Stalker,Goblin,MEDIUM,612,435
-217,Phantom Assassin,Boss,LOW,382,543
-230,Murderous Wendigo,Goblin,MEDIUM,236,922
-271,Thunderhawk,Shadow Minion,MEDIUM,882,712
-207,Thunder Drake,Shadow Minion,LOW,968,956
-250,Night Stalker,Shadow Minion,MEDIUM,553,384
-296,Black Widow,Wolf,MEDIUM,426,724
-258,Murderous Wendigo,Goblin,MEDIUM,469,570
-266,Murderous Wendigo,Boss,LOW,495,572
-241,Thunder Drake,Boss,LOW,241,104
-256,Frostbite Wolf,Boss,LOW,308,435
-233,Frostbite Wolf,Shadow Minion,LOW,711,393
-281,Cave Spider,Goblin,HIGH,337,465
-222,Banshee Queen,Goblin,MEDIUM,498,843
-268,Banshee Queen,Boss,MEDIUM,496,86
-210,Night Stalker,Boss,LOW,967,241
-238,Lunar Moth,Wolf,HIGH,155,341
-284,Vampiric Bat Swarm,Boss,HIGH,472,778
-304,Vampiric Bat Swarm,Goblin,HIGH,108,441
-218,Shadow Wraith,Shadow Minion,LOW,674,456
-223,Cave Spider,Shadow Minion,HIGH,401,188
-291,Illusionary Trickster,Goblin,HIGH,745,362
-262,Plague Rat,Wolf,HIGH,681,942
-212,Night Stalker,Shadow Minion,MEDIUM,526,389
-267,Thunder Drake,Boss,HIGH,644,780
-254,Vampiric Bat Swarm,Goblin,MEDIUM,460,979
-221,Frost Giant,Goblin,LOW,213,228
-269,Phantom Assassin,Goblin,LOW,663,534
-225,Venomous Serpent,Goblin,LOW,912,542
-209,Lava Golem,Shadow Minion,HIGH,551,931
-278,Illusionary Trickster,Boss,MEDIUM,797,970
-196,Alpha Wolf,Boss,HIGH,966,246
-255,Thunder Drake,Goblin,HIGH,366,504
-180,Vampiric Bat Swarm,Boss,LOW,979,624
-321,Lava Golem,Shadow Minion,LOW,979,301
-262,Night Stalker,Shadow Minion,MEDIUM,282,470
-140,Lava Golem,Boss,LOW,825,601
-408,Night Stalker,Goblin,MEDIUM,108,487
-301,Murderous Wendigo,Shadow Minion,LOW,197,279
-390,Voracious Goblin,Wolf,MEDIUM,310,120
-402,Alpha Wolf,Wolf,LOW,281,193
-248,Voracious Goblin,Wolf,MEDIUM,196,202
-265,Plague Rat,Shadow Minion,MEDIUM,81,39
-427,Cave Spider,Wolf,HIGH,369,144
-163,Phantom Assassin,Goblin,MEDIUM,113,933
-213,Lava Golem,Wolf,HIGH,186,628
-246,Frostbite Wolf,Wolf,HIGH,708,787
-417,Thunder Drake,Wolf,LOW,516,739
-311,Vampiric Bat Swarm,Wolf,HIGH,4,836
-433,Electric Eel,Boss,LOW,598,932
-344,Alpha Wolf,Goblin,MEDIUM,195,801
-385,Shadow Stalker,Boss,LOW,599,208
-307,Illusionary Trickster,Goblin,HIGH,64,437
-199,Warrior Orc,Shadow Minion,MEDIUM,74,44
-137,Frost Giant,Shadow Minion,LOW,894,35
-318,Thunderhawk,Wolf,MEDIUM,815,277
-273,Ghostly Archer,Goblin,HIGH,165,359
-186,Electric Eel,Boss,LOW,547,313
-258,Silverback Gorilla,Wolf,HIGH,331,634
-251,Illusionary Trickster,Boss,LOW,69,342
-347,Lava Golem,Boss,LOW,130,704
-437,Illusionary Trickster,Boss,HIGH,544,247
-290,Warrior Orc,Boss,LOW,558,919
-189,Phantom Assassin,Boss,HIGH,276,988
-418,Cave Spider,Shadow Minion,MEDIUM,816,249
-352,Plague Rat,Boss,LOW,810,614
-197,Dire Bat,Shadow Minion,MEDIUM,748,639
-152,Thunder Drake,Boss,HIGH,290,977
-154,Electric Eel,Boss,HIGH,302,30
-351,Murderous Wendigo,Goblin,HIGH,918,554
-382,Dark Sorcerer,Shadow Minion,MEDIUM,108,860
-357,Venomous Serpent,Boss,MEDIUM,447,986
-221,Murderous Wendigo,Goblin,HIGH,44,974
-304,Voracious Goblin,Goblin,MEDIUM,367,73
-237,Lunar Moth,Boss,HIGH,527,364
-183,Phantom Banshee,Wolf,MEDIUM,611,318
-446,Frost Giant,Shadow Minion,LOW,900,133
-264,Night Stalker,Shadow Minion,HIGH,306,502
-203,Lunar Moth,Goblin,HIGH,640,832
-289,Chained Spirit,Boss,LOW,251,318
-346,Frostbite Wolf,Goblin,HIGH,722,821
-365,Black Widow,Boss,MEDIUM,88,960
-176,Dark Sorcerer,Goblin,HIGH,949,547
-254,Chained Spirit,Wolf,HIGH,460,403
-282,Lava Golem,Wolf,MEDIUM,274,434
-440,Shadow Wraith,Wolf,LOW,781,826
-157,Venomous Serpent,Shadow Minion,LOW,252,60
-327,Earthquake Worm,Goblin,LOW,856,971
-177,Chained Spirit,Wolf,MEDIUM,872,661
-334,Warrior Orc,Goblin,HIGH,786,71
-195,Frost Giant,Shadow Minion,LOW,321,343
-170,Dire Bat,Boss,HIGH,47,863
-425,Frost Giant,Wolf,HIGH,27,619
-341,Ice Elemental,Shadow Minion,HIGH,299,18
-275,Mud Troll,Goblin,HIGH,261,976
-292,Shadow Stalker,Wolf,HIGH,61,591
-410,Dire Bat,Boss,MEDIUM,425,733
-370,Plague Rat,Shadow Minion,MEDIUM,894,740
-144,Earthquake Worm,Shadow Minion,HIGH,536,930
-173,Frostbite Wolf,Wolf,HIGH,631,133
-422,Dire Bat,Goblin,LOW,45,599
-367,Dire Bat,Goblin,LOW,539,26
-314,Earthquake Worm,Shadow Minion,HIGH,584,598
-328,Alpha Wolf,Wolf,LOW,565,560
-350,Frost Giant,Wolf,HIGH,729,221
-283,Thunder Drake,Shadow Minion,HIGH,405,217
-405,Ghostly Archer,Boss,LOW,498,360
-386,Alpha Wolf,Boss,HIGH,4,50
-295,Lava Golem,Goblin,MEDIUM,48,110
-240,Dark Sorcerer,Wolf,MEDIUM,539,2
-331,Black Widow,Wolf,HIGH,397,463
-156,Voracious Goblin,Goblin,HIGH,877,898
-379,Shadow Stalker,Wolf,HIGH,885,808
-136,Ghostly Archer,Wolf,LOW,58,78
-315,Thunderhawk,Wolf,MEDIUM,586,711
-362,Fire Imp,Goblin,HIGH,620,639
-354,Lunar Moth,Shadow Minion,HIGH,928,837
-147,Shadow Wraith,Shadow Minion,HIGH,80,450
-300,Warrior Orc,Boss,LOW,619,160
-279,Lunar Moth,Wolf,MEDIUM,325,259
-413,Murderous Wendigo,Boss,HIGH,775,629
-201,Electric Eel,Wolf,MEDIUM,102,251
-159,Frost Giant,Goblin,HIGH,613,113
-209,Dark Sorcerer,Wolf,LOW,725,711
-216,Dire Bat,Boss,LOW,709,139
-299,Ice Elemental,Boss,MEDIUM,149,859
-277,Lava Golem,Boss,LOW,412,74
-349,Black Widow,Goblin,MEDIUM,901,602
-377,Silverback Gorilla,Shadow Minion,LOW,206,861
-227,Frost Giant,Shadow Minion,MEDIUM,57,606
-218,Ghostly Archer,Goblin,MEDIUM,130,165
-430,Frost Giant,Goblin,LOW,783,795
-339,Frostbite Wolf,Shadow Minion,LOW,433,280
-428,Banshee Queen,Shadow Minion,HIGH,106,151
-337,Silverback Gorilla,Shadow Minion,MEDIUM,858,730
-243,Phantom Assassin,Shadow Minion,LOW,822,291
-149,Ghostly Archer,Shadow Minion,LOW,771,627
-401,Thunder Drake,Wolf,HIGH,330,243
-360,Cave Spider,Shadow Minion,HIGH,992,257
-233,Murderous Wendigo,Boss,LOW,504,272
-167,Ice Elemental,Shadow Minion,HIGH,656,246
-443,Ghostly Archer,Wolf,MEDIUM,517,339
-374,Mud Troll,Goblin,HIGH,352,641
-447,Alpha Wolf,Boss,MEDIUM,69,17
-393,Frostbite Wolf,Wolf,HIGH,410,308
-324,Venomous Serpent,Goblin,LOW,659,199
-395,Thunder Drake,Boss,MEDIUM,522,952
-266,Dire Bat,Wolf,MEDIUM,584,878
-259,Warrior Orc,Boss,LOW,918,726
-255,Phantom Assassin,Boss,MEDIUM,403,596
-206,Night Stalker,Boss,HIGH,849,518
-310,Thunder Drake,Boss,HIGH,364,648
-169,Thunder Drake,Goblin,HIGH,891,279
-142,Cave Spider,Boss,LOW,383,420
-224,Fire Imp,Shadow Minion,LOW,342,565
-225,Illusionary Trickster,Shadow Minion,HIGH,237,78
-236,Venomous Serpent,Shadow Minion,HIGH,287,640
-232,Night Stalker,Shadow Minion,MEDIUM,305,161
-166,Thunderhawk,Goblin,MEDIUM,529,742
-296,Lava Golem,Boss,HIGH,584,427
-286,Mud Troll,Boss,HIGH,258,52
-192,Shadow Wraith,Boss,LOW,85,337
-211,Chained Spirit,Wolf,MEDIUM,589,150
-269,Phantom Banshee,Boss,HIGH,46,517
-398,Dire Bat,Boss,HIGH,965,579
-271,Night Stalker,Goblin,LOW,683,115
-229,Earthquake Worm,Wolf,LOW,318,377
-250,Lunar Moth,Wolf,HIGH,938,965
-420,Dark Sorcerer,Boss,HIGH,562,608
-415,Fire Imp,Wolf,MEDIUM,622,311
-389,Venomous Serpent,Shadow Minion,HIGH,75,796
-249,Cave Spider,Boss,HIGH,94,419
-160,Cave Spider,Wolf,LOW,235,109
-287,Murderous Wendigo,Goblin,LOW,636,763
-373,Plague Rat,Goblin,HIGH,720,838
-436,Illusionary Trickster,Boss,LOW,656,467
+630,Plague Rat,Shadow Minion,MEDIUM,144,635
+516,Warrior Orc,Wolf,LOW,8,188
+478,Ghostly Archer,Shadow Minion,MEDIUM,286,860
+535,Thunder Drake,Shadow Minion,LOW,982,401
+716,Phantom Banshee,Goblin,HIGH,784,270
+639,Warrior Orc,Goblin,HIGH,201,378
+530,Venomous Serpent,Shadow Minion,HIGH,78,340
+595,Shadow Wraith,Shadow Minion,HIGH,121,945
+708,Voracious Goblin,Boss,HIGH,250,814
+556,Vampiric Bat Swarm,Boss,LOW,742,659
+393,Venomous Serpent,Shadow Minion,LOW,76,714
+515,Shadow Stalker,Boss,HIGH,260,645
+406,Mud Troll,Goblin,HIGH,631,523
+746,Banshee Queen,Shadow Minion,HIGH,887,205
+461,Cave Spider,Shadow Minion,MEDIUM,790,198
+503,Alpha Wolf,Boss,LOW,685,939
+719,Voracious Goblin,Wolf,HIGH,833,782
+677,Shadow Stalker,Goblin,MEDIUM,583,424
+466,Cave Spider,Wolf,MEDIUM,781,96
+441,Night Stalker,Shadow Minion,HIGH,182,590
+497,Frostbite Wolf,Shadow Minion,HIGH,943,936
+633,Ice Elemental,Wolf,MEDIUM,363,376
+642,Lava Golem,Shadow Minion,LOW,236,616
+403,Thunderhawk,Shadow Minion,HIGH,37,518
+425,Lunar Moth,Wolf,HIGH,189,86
+485,Warrior Orc,Goblin,MEDIUM,860,792
+577,Thunder Drake,Wolf,MEDIUM,618,566
+612,Banshee Queen,Boss,LOW,287,212
+723,Thunder Drake,Shadow Minion,MEDIUM,910,171
+646,Murderous Wendigo,Boss,LOW,367,19
+697,Ghostly Archer,Wolf,MEDIUM,129,904
+663,Fire Imp,Boss,HIGH,120,395
+747,Electric Eel,Goblin,HIGH,178,504
+559,Silverback Gorilla,Goblin,MEDIUM,469,761
+701,Phantom Assassin,Wolf,LOW,875,366
+568,Electric Eel,Shadow Minion,HIGH,715,482
+415,Alpha Wolf,Shadow Minion,LOW,51,147
+550,Alpha Wolf,Boss,HIGH,27,501
+604,Electric Eel,Shadow Minion,LOW,627,879
+400,Ghostly Archer,Boss,MEDIUM,807,455
+440,Phantom Assassin,Boss,HIGH,877,427
+711,Plague Rat,Shadow Minion,HIGH,267,979
+519,Frost Giant,Boss,HIGH,875,998
+662,Night Stalker,Goblin,LOW,480,517
+548,Lunar Moth,Shadow Minion,LOW,937,69
+720,Black Widow,Wolf,HIGH,701,437
+606,Dark Sorcerer,Boss,LOW,993,186
+738,Ghostly Archer,Shadow Minion,MEDIUM,484,959
+573,Shadow Stalker,Boss,HIGH,291,477
+522,Thunder Drake,Shadow Minion,MEDIUM,485,306
+680,Warrior Orc,Boss,MEDIUM,666,291
+428,Silverback Gorilla,Goblin,MEDIUM,961,894
+411,Phantom Banshee,Goblin,HIGH,287,560
+742,Shadow Stalker,Shadow Minion,MEDIUM,543,360
+647,Murderous Wendigo,Goblin,LOW,119,639
+408,Voracious Goblin,Goblin,MEDIUM,678,62
+703,Plague Rat,Wolf,MEDIUM,913,595
+418,Alpha Wolf,Goblin,MEDIUM,83,603
+658,Thunderhawk,Shadow Minion,HIGH,779,119
+546,Night Stalker,Shadow Minion,MEDIUM,216,651
+560,Dire Bat,Goblin,LOW,428,600
+724,Illusionary Trickster,Boss,HIGH,748,455
+580,Dark Sorcerer,Shadow Minion,MEDIUM,259,649
+484,Shadow Stalker,Goblin,LOW,495,849
+598,Cave Spider,Goblin,MEDIUM,474,384
+692,Voracious Goblin,Boss,HIGH,886,624
+739,Ghostly Archer,Wolf,HIGH,108,532
+553,Chained Spirit,Wolf,LOW,556,590
+671,Ghostly Archer,Boss,LOW,706,934
+449,Illusionary Trickster,Goblin,HIGH,318,884
+624,Black Widow,Shadow Minion,LOW,12,212
+502,Thunder Drake,Shadow Minion,LOW,740,647
+493,Ice Elemental,Wolf,HIGH,44,103
+396,Lava Golem,Goblin,HIGH,878,904
+422,Phantom Assassin,Goblin,MEDIUM,155,746
+655,Banshee Queen,Boss,HIGH,753,167
+481,Thunderhawk,Goblin,LOW,966,762
+540,Murderous Wendigo,Wolf,MEDIUM,122,7
+678,Frost Giant,Boss,HIGH,768,404
+390,Fire Imp,Boss,HIGH,646,872
+523,Murderous Wendigo,Shadow Minion,HIGH,811,736
+613,Shadow Stalker,Boss,HIGH,782,392
+683,Banshee Queen,Shadow Minion,MEDIUM,218,492
+430,Thunder Drake,Wolf,HIGH,625,564
+570,Phantom Banshee,Boss,LOW,912,761
+755,Murderous Wendigo,Boss,LOW,38,728
+500,Night Stalker,Boss,LOW,999,877
+544,Lunar Moth,Goblin,HIGH,632,425
+446,Cave Spider,Wolf,LOW,83,229
+582,Voracious Goblin,Goblin,MEDIUM,275,361
+526,Phantom Banshee,Shadow Minion,HIGH,77,974
+620,Murderous Wendigo,Boss,LOW,370,330
+474,Phantom Assassin,Boss,LOW,940,60
+641,Venomous Serpent,Goblin,HIGH,205,488
+666,Chained Spirit,Wolf,HIGH,516,707
+675,Phantom Assassin,Shadow Minion,LOW,631,335
+584,Black Widow,Goblin,HIGH,831,677
+616,Earthquake Worm,Wolf,MEDIUM,124,880
+699,Vampiric Bat Swarm,Wolf,MEDIUM,799,974
+688,Thunder Drake,Wolf,MEDIUM,330,964
+431,Warrior Orc,Goblin,LOW,53,13
+534,Dark Sorcerer,Shadow Minion,LOW,928,935
+638,Vampiric Bat Swarm,Shadow Minion,MEDIUM,513,701
+412,Shadow Stalker,Boss,LOW,591,611
+399,Shadow Stalker,Goblin,MEDIUM,294,69
+679,Black Widow,Goblin,LOW,304,499
+541,Illusionary Trickster,Boss,LOW,59,244
+607,Murderous Wendigo,Goblin,HIGH,752,195
+487,Dark Sorcerer,Wolf,LOW,207,531
+627,Cave Spider,Shadow Minion,MEDIUM,300,320
+602,Night Stalker,Wolf,HIGH,723,494
+727,Plague Rat,Shadow Minion,MEDIUM,224,946
+745,Silverback Gorilla,Wolf,HIGH,258,425
+735,Dire Bat,Boss,LOW,835,72
+459,Frostbite Wolf,Shadow Minion,LOW,920,355
+690,Murderous Wendigo,Wolf,LOW,740,656
+749,Frostbite Wolf,Boss,HIGH,60,820
+533,Dire Bat,Goblin,HIGH,736,336
+611,Fire Imp,Shadow Minion,MEDIUM,563,321
+419,Frost Giant,Wolf,LOW,60,436
+686,Frostbite Wolf,Shadow Minion,LOW,993,388
+434,Alpha Wolf,Boss,HIGH,717,413
+585,Shadow Wraith,Wolf,MEDIUM,989,458
+752,Fire Imp,Goblin,LOW,342,809
+619,Dire Bat,Shadow Minion,LOW,219,438
+695,Venomous Serpent,Wolf,HIGH,465,655
+498,Illusionary Trickster,Boss,LOW,730,208
+713,Thunder Drake,Boss,LOW,664,619
+578,Banshee Queen,Wolf,HIGH,116,161
+740,Shadow Wraith,Wolf,HIGH,822,542
+414,Alpha Wolf,Shadow Minion,MEDIUM,386,385
+567,Electric Eel,Shadow Minion,MEDIUM,135,778
+394,Frostbite Wolf,Wolf,HIGH,266,263
+588,Electric Eel,Boss,LOW,562,234
+669,Electric Eel,Goblin,MEDIUM,133,365
+448,Illusionary Trickster,Wolf,MEDIUM,253,446
+563,Venomous Serpent,Shadow Minion,MEDIUM,354,989
+609,Phantom Banshee,Boss,HIGH,778,887
+464,Murderous Wendigo,Boss,HIGH,543,115
+508,Cave Spider,Shadow Minion,MEDIUM,310,77
+456,Lava Golem,Shadow Minion,LOW,593,643
+476,Venomous Serpent,Shadow Minion,MEDIUM,989,447
+413,Warrior Orc,Wolf,LOW,403,529
+514,Alpha Wolf,Boss,HIGH,49,136
+496,Earthquake Worm,Shadow Minion,LOW,693,243
+510,Shadow Wraith,Wolf,MEDIUM,453,718
+625,Murderous Wendigo,Shadow Minion,MEDIUM,971,225
+650,Voracious Goblin,Wolf,LOW,703,542
+472,Ice Elemental,Boss,MEDIUM,707,663
+600,Frost Giant,Shadow Minion,LOW,510,988
+575,Chained Spirit,Shadow Minion,LOW,955,410
+444,Voracious Goblin,Goblin,HIGH,718,527
+453,Venomous Serpent,Goblin,LOW,404,575
+571,Frost Giant,Shadow Minion,MEDIUM,186,541
+467,Black Widow,Goblin,HIGH,764,434
+661,Dire Bat,Boss,HIGH,632,987
+491,Plague Rat,Boss,MEDIUM,403,772
+729,Silverback Gorilla,Wolf,LOW,22,301
+645,Ghostly Archer,Goblin,HIGH,346,710
+525,Thunderhawk,Wolf,HIGH,619,251
+424,Shadow Wraith,Boss,HIGH,796,423
+489,Lava Golem,Shadow Minion,LOW,550,23
+732,Thunderhawk,Shadow Minion,LOW,70,996
+437,Venomous Serpent,Boss,MEDIUM,509,949
+520,Murderous Wendigo,Wolf,LOW,798,604
+591,Vampiric Bat Swarm,Shadow Minion,LOW,786,929
+664,Black Widow,Wolf,LOW,177,259
+634,Thunder Drake,Boss,LOW,590,526
+462,Alpha Wolf,Boss,LOW,223,484
+506,Frostbite Wolf,Wolf,MEDIUM,589,652
+538,Phantom Banshee,Shadow Minion,HIGH,590,966
+451,Ice Elemental,Shadow Minion,LOW,544,128
+527,Ice Elemental,Goblin,LOW,424,770
+435,Silverback Gorilla,Goblin,LOW,401,178
+436,Ice Elemental,Shadow Minion,MEDIUM,675,121
+660,Silverback Gorilla,Boss,LOW,553,635
+652,Lava Golem,Wolf,HIGH,74,143
+513,Frostbite Wolf,Shadow Minion,HIGH,996,626
+622,Warrior Orc,Boss,MEDIUM,307,128
+469,Lunar Moth,Wolf,MEDIUM,575,577
+596,Frost Giant,Boss,LOW,619,69
+417,Ice Elemental,Goblin,LOW,770,821
+636,Warrior Orc,Shadow Minion,MEDIUM,371,861
+433,Dark Sorcerer,Shadow Minion,HIGH,300,313
+721,Frost Giant,Boss,HIGH,941,136
+536,Warrior Orc,Shadow Minion,MEDIUM,195,33
+565,Silverback Gorilla,Goblin,MEDIUM,932,566
+673,Silverback Gorilla,Shadow Minion,HIGH,256,280
+705,Black Widow,Boss,MEDIUM,434,174
+685,Frostbite Wolf,Boss,MEDIUM,28,432
+594,Dire Bat,Shadow Minion,LOW,635,477
+227,Lava Golem,Shadow Minion,HIGH,960,968
+363,Phantom Assassin,Shadow Minion,MEDIUM,36,382
+236,Frostbite Wolf,Boss,HIGH,75,383
+226,Ghostly Archer,Shadow Minion,HIGH,151,859
+478,Murderous Wendigo,Shadow Minion,LOW,417,767
+510,Vampiric Bat Swarm,Goblin,MEDIUM,416,181
+536,Frost Giant,Boss,LOW,503,637
+318,Voracious Goblin,Wolf,LOW,269,980
+366,Plague Rat,Boss,LOW,5,880
+481,Venomous Serpent,Boss,MEDIUM,239,217
+437,Plague Rat,Wolf,MEDIUM,78,480
+228,Cave Spider,Wolf,MEDIUM,817,578
+533,Lava Golem,Wolf,HIGH,126,8
+281,Phantom Assassin,Shadow Minion,MEDIUM,177,213
+465,Frost Giant,Shadow Minion,HIGH,231,402
+223,Lava Golem,Boss,MEDIUM,753,344
+517,Vampiric Bat Swarm,Shadow Minion,LOW,38,311
+282,Silverback Gorilla,Goblin,HIGH,967,220
+231,Night Stalker,Boss,LOW,584,339
+411,Earthquake Worm,Goblin,HIGH,682,508
+377,Shadow Wraith,Wolf,LOW,260,311
+333,Voracious Goblin,Boss,LOW,221,435
+309,Fire Imp,Shadow Minion,LOW,487,445
+375,Venomous Serpent,Wolf,HIGH,86,731
+247,Night Stalker,Boss,LOW,222,762
+447,Lava Golem,Shadow Minion,LOW,655,937
+404,Fire Imp,Shadow Minion,HIGH,34,91
+180,Earthquake Worm,Goblin,LOW,604,345
+378,Phantom Assassin,Boss,LOW,99,756
+549,Dire Bat,Goblin,HIGH,71,833
+200,Thunderhawk,Wolf,MEDIUM,571,944
+241,Murderous Wendigo,Goblin,HIGH,817,602
+474,Cave Spider,Shadow Minion,LOW,497,18
+245,Frost Giant,Shadow Minion,HIGH,905,176
+507,Cave Spider,Shadow Minion,HIGH,511,205
+205,Thunderhawk,Goblin,LOW,637,37
+319,Plague Rat,Shadow Minion,LOW,538,601
+359,Banshee Queen,Shadow Minion,HIGH,699,888
+217,Shadow Wraith,Shadow Minion,MEDIUM,613,232
+239,Dire Bat,Goblin,LOW,795,303
+332,Lunar Moth,Shadow Minion,MEDIUM,970,374
+173,Frostbite Wolf,Shadow Minion,HIGH,417,678
+513,Banshee Queen,Boss,HIGH,42,288
+546,Dire Bat,Shadow Minion,LOW,435,834
+147,Shadow Wraith,Wolf,LOW,790,457
+494,Chained Spirit,Wolf,LOW,968,695
+374,Alpha Wolf,Shadow Minion,LOW,41,108
+422,Vampiric Bat Swarm,Wolf,MEDIUM,2,775
+485,Voracious Goblin,Wolf,MEDIUM,324,491
+439,Alpha Wolf,Shadow Minion,MEDIUM,908,136
+498,Phantom Banshee,Shadow Minion,HIGH,954,997
+315,Lunar Moth,Boss,HIGH,371,591
+257,Chained Spirit,Wolf,MEDIUM,872,49
+402,Banshee Queen,Wolf,MEDIUM,729,283
+362,Shadow Wraith,Goblin,HIGH,857,552
+476,Phantom Banshee,Goblin,MEDIUM,934,228
+431,Alpha Wolf,Goblin,HIGH,207,92
+337,Dark Sorcerer,Shadow Minion,HIGH,261,850
+158,Fire Imp,Shadow Minion,HIGH,562,424
+313,Shadow Wraith,Shadow Minion,MEDIUM,386,383
+525,Mud Troll,Boss,MEDIUM,292,788
+275,Frostbite Wolf,Wolf,MEDIUM,534,599
+504,Dark Sorcerer,Wolf,MEDIUM,91,423
+254,Silverback Gorilla,Wolf,MEDIUM,725,363
+417,Frostbite Wolf,Goblin,LOW,823,595
+421,Cave Spider,Shadow Minion,LOW,935,641
+299,Plague Rat,Goblin,LOW,786,198
+203,Warrior Orc,Wolf,LOW,99,859
+294,Plague Rat,Boss,HIGH,423,904
+529,Banshee Queen,Shadow Minion,MEDIUM,94,938
+153,Chained Spirit,Wolf,LOW,566,665
+452,Night Stalker,Boss,LOW,509,356
+150,Electric Eel,Goblin,HIGH,942,290
+211,Vampiric Bat Swarm,Shadow Minion,MEDIUM,749,165
+144,Shadow Wraith,Goblin,HIGH,329,424
+542,Thunder Drake,Boss,MEDIUM,915,503
+174,Dark Sorcerer,Boss,HIGH,136,489
+511,Plague Rat,Shadow Minion,LOW,923,678
+329,Banshee Queen,Shadow Minion,HIGH,957,88
+432,Ghostly Archer,Boss,LOW,88,83
+166,Ice Elemental,Wolf,HIGH,845,433
+443,Lava Golem,Goblin,LOW,763,127
+482,Phantom Banshee,Boss,MEDIUM,431,277
+450,Phantom Banshee,Boss,MEDIUM,577,773
+518,Illusionary Trickster,Boss,HIGH,257,895
+343,Thunder Drake,Goblin,LOW,80,456
+427,Vampiric Bat Swarm,Shadow Minion,HIGH,352,51
+415,Venomous Serpent,Boss,HIGH,262,510
+177,Alpha Wolf,Wolf,HIGH,604,662
+190,Shadow Stalker,Shadow Minion,MEDIUM,453,393
+301,Phantom Assassin,Shadow Minion,MEDIUM,807,717
+252,Mud Troll,Goblin,LOW,100,676
+287,Vampiric Bat Swarm,Boss,MEDIUM,933,288
+260,Illusionary Trickster,Wolf,HIGH,403,79
+235,Banshee Queen,Boss,LOW,768,67
+213,Mud Troll,Shadow Minion,HIGH,431,193
+293,Phantom Assassin,Goblin,MEDIUM,273,946
+419,Dark Sorcerer,Shadow Minion,LOW,16,189
+285,Ice Elemental,Boss,LOW,64,365
+324,Ice Elemental,Shadow Minion,MEDIUM,503,446
+348,Shadow Wraith,Goblin,MEDIUM,853,607
+187,Vampiric Bat Swarm,Wolf,LOW,501,144
+367,Plague Rat,Shadow Minion,LOW,714,132
+543,Mud Troll,Wolf,MEDIUM,701,90
+519,Shadow Stalker,Boss,LOW,718,360
+268,Alpha Wolf,Boss,HIGH,638,131
+264,Ghostly Archer,Goblin,LOW,132,300
+249,Earthquake Worm,Wolf,LOW,452,367
+460,Ghostly Archer,Shadow Minion,LOW,709,766
+398,Shadow Wraith,Shadow Minion,MEDIUM,135,392
+484,Mud Troll,Wolf,LOW,252,85
+321,Dire Bat,Goblin,LOW,124,254
+336,Mud Troll,Shadow Minion,LOW,660,167
+326,Lunar Moth,Wolf,MEDIUM,30,779
+409,Earthquake Worm,Wolf,HIGH,764,125
+548,Warrior Orc,Wolf,HIGH,356,694
+290,Phantom Assassin,Boss,MEDIUM,468,203
+156,Fire Imp,Wolf,LOW,493,910
+414,Electric Eel,Boss,HIGH,103,358
+172,Shadow Wraith,Boss,LOW,272,609
+501,Black Widow,Goblin,MEDIUM,769,365
+425,Plague Rat,Goblin,MEDIUM,264,449
+516,Vampiric Bat Swarm,Goblin,HIGH,57,583
+473,Electric Eel,Shadow Minion,LOW,600,664
+160,Plague Rat,Boss,HIGH,639,885
+357,Venomous Serpent,Shadow Minion,HIGH,324,749
+436,Lava Golem,Shadow Minion,LOW,756,971
+457,Murderous Wendigo,Shadow Minion,LOW,266,860
+550,Plague Rat,Wolf,LOW,713,594
+178,Night Stalker,Wolf,MEDIUM,380,960
+279,Shadow Wraith,Goblin,HIGH,48,197
+462,Alpha Wolf,Boss,LOW,955,997
+261,Earthquake Worm,Boss,MEDIUM,904,406
+209,Ghostly Archer,Goblin,HIGH,622,487
+233,Shadow Wraith,Goblin,LOW,806,685
+272,Black Widow,Wolf,MEDIUM,506,285
+381,Silverback Gorilla,Wolf,HIGH,437,313
+371,Night Stalker,Goblin,LOW,568,447
+527,Banshee Queen,Boss,HIGH,45,596
+469,Mud Troll,Goblin,MEDIUM,712,46
+193,Illusionary Trickster,Goblin,LOW,221,188
+395,Mud Troll,Wolf,LOW,15,296
+351,Shadow Stalker,Wolf,LOW,302,213
+454,Illusionary Trickster,Goblin,MEDIUM,296,403
+208,Banshee Queen,Goblin,MEDIUM,834,991
+266,Cave Spider,Boss,MEDIUM,441,207
+244,Electric Eel,Shadow Minion,LOW,800,384
+530,Lunar Moth,Goblin,HIGH,153,954
+216,Warrior Orc,Shadow Minion,LOW,531,363
+340,Alpha Wolf,Goblin,MEDIUM,897,314
+442,Illusionary Trickster,Shadow Minion,LOW,333,197
+135,Ice Elemental,Wolf,MEDIUM,914,867
+306,Dark Sorcerer,Boss,HIGH,379,630
+445,Alpha Wolf,Goblin,MEDIUM,108,783
+539,Phantom Assassin,Wolf,LOW,84,156
+184,Ghostly Archer,Wolf,LOW,635,67
+152,Banshee Queen,Shadow Minion,HIGH,871,799
+523,Cave Spider,Boss,LOW,197,971
+163,Alpha Wolf,Wolf,HIGH,973,983
+403,Night Stalker,Shadow Minion,MEDIUM,851,338
+435,Earthquake Worm,Shadow Minion,HIGH,256,674
+297,Ice Elemental,Boss,LOW,362,977
+278,Mud Troll,Goblin,MEDIUM,347,363
+304,Thunderhawk,Boss,HIGH,210,606
+183,Warrior Orc,Shadow Minion,HIGH,893,944
+220,Voracious Goblin,Goblin,MEDIUM,754,945
+477,Alpha Wolf,Boss,HIGH,69,932
+195,Vampiric Bat Swarm,Goblin,HIGH,190,301
+310,Frost Giant,Shadow Minion,MEDIUM,77,707
+271,Banshee Queen,Wolf,HIGH,641,573
+471,Vampiric Bat Swarm,Goblin,LOW,169,407
+496,Phantom Assassin,Goblin,HIGH,381,284
+400,Phantom Assassin,Boss,HIGH,476,819
+345,Alpha Wolf,Shadow Minion,HIGH,955,34
+354,Night Stalker,Boss,LOW,650,475
+207,Ice Elemental,Goblin,MEDIUM,269,698
+466,Murderous Wendigo,Boss,HIGH,236,252
+139,Shadow Wraith,Boss,HIGH,938,353
+385,Mud Troll,Wolf,LOW,764,987
+446,Chained Spirit,Goblin,MEDIUM,103,1000
+407,Murderous Wendigo,Goblin,LOW,298,846
+392,Banshee Queen,Goblin,MEDIUM,378,739
+382,Dire Bat,Goblin,HIGH,732,762
+141,Shadow Wraith,Goblin,LOW,358,194
+429,Cave Spider,Shadow Minion,LOW,448,164
+191,Warrior Orc,Wolf,LOW,775,528
+389,Dire Bat,Wolf,LOW,842,384
+455,Ghostly Archer,Boss,HIGH,20,230
+386,Phantom Banshee,Wolf,HIGH,600,248
+137,Black Widow,Boss,HIGH,594,47
+491,Ice Elemental,Boss,HIGH,621,732
+368,Silverback Gorilla,Boss,LOW,95,140
+169,Cave Spider,Goblin,MEDIUM,730,698
+197,Fire Imp,Goblin,MEDIUM,768,344
+521,Fire Imp,Shadow Minion,HIGH,448,540
+488,Electric Eel,Wolf,LOW,532,302
+506,Warrior Orc,Goblin,MEDIUM,735,289
+616,Fire Imp,Goblin,LOW,876,851
+580,Thunderhawk,Shadow Minion,MEDIUM,482,432
+446,Phantom Assassin,Boss,MEDIUM,941,578
+733,Thunderhawk,Wolf,HIGH,412,853
+718,Vampiric Bat Swarm,Wolf,MEDIUM,472,109
+771,Earthquake Worm,Shadow Minion,MEDIUM,481,128
+702,Fire Imp,Shadow Minion,MEDIUM,370,728
+765,Phantom Assassin,Boss,LOW,650,78
+657,Dark Sorcerer,Boss,HIGH,262,444
+622,Ice Elemental,Shadow Minion,HIGH,664,985
+412,Silverback Gorilla,Boss,MEDIUM,305,237
+767,Frost Giant,Wolf,HIGH,811,597
+610,Mud Troll,Boss,LOW,151,770
+743,Mud Troll,Goblin,MEDIUM,360,984
+578,Mud Troll,Shadow Minion,MEDIUM,607,205
+741,Thunderhawk,Boss,HIGH,134,732
+688,Night Stalker,Shadow Minion,MEDIUM,80,273
+440,Voracious Goblin,Goblin,LOW,746,442
+588,Electric Eel,Shadow Minion,MEDIUM,865,380
+447,Dark Sorcerer,Wolf,LOW,105,70
+400,Black Widow,Goblin,LOW,773,207
+494,Ghostly Archer,Goblin,LOW,456,122
+686,Dire Bat,Shadow Minion,LOW,345,198
+631,Lava Golem,Goblin,MEDIUM,377,323
+761,Dark Sorcerer,Goblin,LOW,592,439
+552,Frostbite Wolf,Shadow Minion,LOW,376,684
+652,Phantom Assassin,Goblin,HIGH,531,94
+630,Lunar Moth,Goblin,MEDIUM,334,468
+497,Thunderhawk,Goblin,HIGH,506,615
+665,Banshee Queen,Boss,LOW,780,14
+405,Fire Imp,Shadow Minion,LOW,815,997
+577,Chained Spirit,Shadow Minion,LOW,684,354
+634,Voracious Goblin,Wolf,LOW,936,709
+510,Venomous Serpent,Goblin,LOW,139,714
+538,Black Widow,Boss,HIGH,304,702
+453,Shadow Wraith,Shadow Minion,MEDIUM,574,717
+489,Shadow Wraith,Wolf,HIGH,522,237
+759,Banshee Queen,Boss,LOW,49,598
+760,Ghostly Archer,Goblin,LOW,28,329
+620,Ice Elemental,Goblin,LOW,538,978
+646,Dire Bat,Boss,HIGH,786,703
+716,Fire Imp,Goblin,HIGH,657,244
+526,Mud Troll,Shadow Minion,HIGH,205,108
+541,Night Stalker,Goblin,MEDIUM,779,450
+503,Illusionary Trickster,Shadow Minion,MEDIUM,35,278
+583,Ghostly Archer,Wolf,MEDIUM,120,699
+437,Cave Spider,Boss,LOW,814,785
+392,Dire Bat,Shadow Minion,LOW,257,540
+691,Fire Imp,Boss,HIGH,31,15
+696,Thunderhawk,Boss,MEDIUM,369,683
+667,Frost Giant,Boss,LOW,509,50
+465,Fire Imp,Shadow Minion,HIGH,944,261
+764,Shadow Stalker,Boss,MEDIUM,831,658
+756,Vampiric Bat Swarm,Wolf,HIGH,165,133
+408,Vampiric Bat Swarm,Goblin,HIGH,174,592
+746,Electric Eel,Goblin,MEDIUM,38,670
+585,Shadow Stalker,Wolf,HIGH,5,702
+520,Dark Sorcerer,Goblin,LOW,191,879
+619,Silverback Gorilla,Goblin,MEDIUM,702,278
+648,Silverback Gorilla,Shadow Minion,HIGH,153,400
+493,Alpha Wolf,Goblin,HIGH,920,523
+602,Thunderhawk,Wolf,LOW,514,224
+677,Phantom Banshee,Boss,MEDIUM,68,655
+474,Dark Sorcerer,Goblin,LOW,957,485
+605,Fire Imp,Shadow Minion,LOW,897,531
+683,Cave Spider,Goblin,MEDIUM,367,634
+401,Cave Spider,Boss,MEDIUM,223,502
+599,Murderous Wendigo,Boss,MEDIUM,694,198
+673,Mud Troll,Wolf,LOW,554,865
+485,Phantom Assassin,Goblin,HIGH,195,228
+551,Warrior Orc,Shadow Minion,MEDIUM,559,782
+639,Phantom Banshee,Boss,HIGH,509,62
+517,Mud Troll,Wolf,HIGH,925,408
+772,Frost Giant,Goblin,LOW,486,759
+707,Phantom Banshee,Wolf,HIGH,707,581
+751,Electric Eel,Goblin,MEDIUM,674,840
+584,Phantom Banshee,Goblin,HIGH,936,746
+678,Lava Golem,Wolf,HIGH,911,205
+499,Phantom Banshee,Boss,LOW,220,731
+545,Fire Imp,Goblin,HIGH,422,70
+570,Lava Golem,Boss,HIGH,712,704
+749,Murderous Wendigo,Goblin,MEDIUM,708,872
+628,Frost Giant,Boss,LOW,179,939
+542,Venomous Serpent,Goblin,HIGH,766,101
+636,Dark Sorcerer,Boss,LOW,38,208
+434,Illusionary Trickster,Boss,MEDIUM,765,489
+745,Phantom Assassin,Wolf,LOW,176,968
+479,Illusionary Trickster,Goblin,LOW,866,637
+701,Lava Golem,Shadow Minion,HIGH,401,3
+591,Shadow Stalker,Boss,LOW,422,146
+641,Alpha Wolf,Goblin,HIGH,362,164
+431,Plague Rat,Boss,HIGH,672,509
+700,Black Widow,Boss,HIGH,510,165
+627,Ghostly Archer,Wolf,LOW,963,358
+398,Chained Spirit,Boss,MEDIUM,380,230
+532,Shadow Wraith,Shadow Minion,MEDIUM,881,141
+768,Alpha Wolf,Boss,LOW,607,520
+429,Phantom Banshee,Goblin,LOW,917,945
+564,Dark Sorcerer,Goblin,LOW,384,813
+674,Venomous Serpent,Wolf,LOW,853,593
+612,Mud Troll,Wolf,HIGH,313,557
+589,Plague Rat,Wolf,LOW,740,48
+695,Lava Golem,Shadow Minion,HIGH,795,666
+549,Murderous Wendigo,Goblin,HIGH,141,878
+574,Lunar Moth,Goblin,MEDIUM,613,111
+404,Voracious Goblin,Shadow Minion,LOW,223,609
+477,Lava Golem,Boss,LOW,485,719
+450,Dark Sorcerer,Goblin,MEDIUM,976,800
+519,Voracious Goblin,Shadow Minion,MEDIUM,201,460
+389,Shadow Wraith,Wolf,HIGH,892,476
+546,Night Stalker,Shadow Minion,MEDIUM,864,595
+689,Ghostly Archer,Wolf,MEDIUM,340,64
+530,Banshee Queen,Goblin,LOW,668,329
+727,Warrior Orc,Boss,MEDIUM,839,838
+692,Black Widow,Boss,HIGH,646,501
+556,Ghostly Archer,Shadow Minion,LOW,869,936
+415,Electric Eel,Goblin,HIGH,120,377
+649,Thunder Drake,Goblin,HIGH,327,869
+715,Silverback Gorilla,Goblin,HIGH,568,924
+416,Thunder Drake,Wolf,MEDIUM,510,676
+711,Alpha Wolf,Wolf,LOW,294,761
+608,Chained Spirit,Boss,LOW,418,420
+414,Murderous Wendigo,Boss,MEDIUM,385,389
+500,Thunderhawk,Wolf,HIGH,48,724
+571,Thunderhawk,Wolf,HIGH,668,976
+560,Dire Bat,Boss,LOW,1000,242
+482,Black Widow,Boss,MEDIUM,901,520
+468,Phantom Assassin,Shadow Minion,LOW,962,618
+491,Silverback Gorilla,Shadow Minion,LOW,944,304
+709,Frostbite Wolf,Wolf,LOW,860,560
+614,Ghostly Archer,Shadow Minion,HIGH,588,729
+714,Voracious Goblin,Shadow Minion,LOW,37,652
+633,Lava Golem,Wolf,LOW,214,617
+699,Dire Bat,Goblin,HIGH,257,916
+735,Phantom Assassin,Goblin,MEDIUM,798,828
+562,Dark Sorcerer,Goblin,HIGH,578,455
+669,Illusionary Trickster,Wolf,HIGH,404,347
+424,Phantom Assassin,Goblin,HIGH,549,834
+593,Banshee Queen,Shadow Minion,HIGH,796,804
+462,Illusionary Trickster,Wolf,MEDIUM,519,836
+457,Ice Elemental,Boss,HIGH,897,588
+655,Voracious Goblin,Boss,LOW,108,621
+460,Ice Elemental,Goblin,MEDIUM,296,397
+680,Illusionary Trickster,Shadow Minion,HIGH,116,145
+681,Lunar Moth,Boss,HIGH,723,550
+514,Plague Rat,Boss,HIGH,427,523
+470,Thunder Drake,Shadow Minion,LOW,443,705
+436,Lunar Moth,Goblin,LOW,333,682
+738,Electric Eel,Wolf,MEDIUM,767,727
+513,Mud Troll,Shadow Minion,MEDIUM,81,241
+504,Black Widow,Goblin,LOW,498,877
+723,Ghostly Archer,Wolf,LOW,152,613
+535,Thunder Drake,Wolf,HIGH,828,954
+418,Thunderhawk,Boss,LOW,937,765
+525,Venomous Serpent,Shadow Minion,MEDIUM,638,793
+421,Alpha Wolf,Goblin,LOW,223,330
+395,Voracious Goblin,Goblin,LOW,634,465
+606,Ghostly Archer,Wolf,LOW,716,498
+522,Cave Spider,Shadow Minion,HIGH,82,656
+671,Alpha Wolf,Boss,HIGH,43,352
+753,Electric Eel,Shadow Minion,HIGH,796,213
+567,Frostbite Wolf,Shadow Minion,HIGH,499,34
+672,Murderous Wendigo,Shadow Minion,HIGH,963,212
+427,Silverback Gorilla,Wolf,MEDIUM,907,450
+443,Phantom Assassin,Wolf,LOW,396,885
+394,Black Widow,Boss,MEDIUM,54,959
+553,Phantom Assassin,Wolf,LOW,999,178
+662,Silverback Gorilla,Goblin,MEDIUM,345,968
+626,Dark Sorcerer,Goblin,HIGH,42,233
+481,Thunderhawk,Wolf,HIGH,314,282
+509,Frost Giant,Wolf,MEDIUM,823,237
+705,Frost Giant,Shadow Minion,HIGH,936,228
+730,Thunder Drake,Wolf,LOW,739,348
+660,Shadow Stalker,Shadow Minion,MEDIUM,192,604
+601,Shadow Stalker,Shadow Minion,MEDIUM,219,696
+409,Alpha Wolf,Goblin,HIGH,861,506
+724,Black Widow,Boss,HIGH,747,889
+720,Murderous Wendigo,Boss,LOW,402,855
+559,Alpha Wolf,Boss,MEDIUM,448,689
+644,Murderous Wendigo,Boss,MEDIUM,531,254
+455,Shadow Wraith,Goblin,MEDIUM,839,841
+486,Shadow Wraith,Goblin,LOW,296,869
+403,Silverback Gorilla,Boss,LOW,149,558
+717,Ghostly Archer,Goblin,LOW,338,778
+623,Dark Sorcerer,Boss,HIGH,110,382
+596,Black Widow,Goblin,MEDIUM,39,590
+473,Lava Golem,Wolf,LOW,116,893
+529,Frostbite Wolf,Boss,MEDIUM,195,743

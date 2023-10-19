@@ -1,322 +1,548 @@
 item_id,name,type
-110,Pauldrons of the Bear,Bow
-112,Champion''s Greatsword,Staff
-228,Warhammer of the Earthshaker,Ring
-148,Crystal of the Ancients,Sword
-106,Bread of the Wise,Dagger
-230,Spectral Chainmail,Staff
-219,Armbands of Resilience,Ring
-159,Ring of Arcane Mastery,Sword
-99,Plaguebringer Scythe,Potion
-15,Amulet of the Fallen Queen,Amulet
-113,Thunderstrike Javelins,Ring
-54,Dragon''s Breath Bow,Dagger
-181,Emerald Heart Ring,Bow
-166,Earthshaker Hammer,Amulet
-184,Robe of the Sage,Amulet
-198,Elixir of the Moon,Shield
-175,Armbands of Resilience,Potion
-191,Quiver of the Wind,Potion
-108,Amulet of the Fallen,Amulet
-186,Essence of the Wild,Sword
-137,Cloak of Elvenkind,Potion
-102,Amulet of the Fallen King,Potion
-115,Warrior''s Battleaxe,Dagger
-145,Wand of Time,Amulet
-14,Amulet of the Fallen Queen,Bow
-56,Serpent''s Fang Saber,Shield
-178,Thunderstrike Axe,Amulet
-91,Stoneforged Mace,Dagger
-59,Ring of the Eternal Flame,Ring
-9,Robes of the Archmage,Potion
-81,Plaguebringer Scythe,Staff
-153,Blade of the Archmage,Dagger
-202,Ring of the Fallen,Ring
-217,Emerald Heart Ring,Bow
-151,Robe of the Sage,Ring
-124,Maul of the Frost Giant,Sword
-218,Blade of the Fallen,Sword
-19,Shadowflame Dagger,Bow
-129,Bow of the Eternal Forest,Ring
-195,Blade of the Fallen,Amulet
-76,Gloves of the Sun God,Amulet
-205,Mystic Lightshield,Shield
-123,Armor of the Sea Spirit,Amulet
-90,Gauntlets of the Titan,Staff
-194,Quiver of the Wind,Ring
-165,Boots of the Shadow Dancer,Ring
-45,Quicksilver Bullets,Dagger
-134,Amulet of the Fallen King,Dagger
-11,Sword of the Paladin,Staff
-162,Pauldrons of the Bear,Ring
-18,Thunderstrike Axe,Shield
-222,Frostfire Staff,Dagger
-133,Blood-soaked Bracers,Staff
-226,Sacred Feather Talisman,Shield
-17,Boots of the Pathfinder,Shield
-144,Robe of the Sage,Amulet
-51,Enchanted Waterskin,Dagger
-66,Staff of Eldritch Power,Sword
-5,Earthshaker Hammer,Potion
-155,Orb of Chaos,Staff
-27,Gauntlets of the Berserker,Amulet
-188,Pauldrons of the Bear,Shield
-53,Aegis of the Sun,Dagger
-140,Bracelet of Divine Fates,Staff
-154,Scepter of the Forsaken,Sword
-42,Flask of Infinite Courage,Sword
-86,Potion of Dire Strength,Shield
-12,Necklace of the Mermaid,Potion
-85,Armor of the Sea Spirit,Ring
-203,Boots of the Shadow Dancer,Bow
-169,Titanium Gauntlet,Amulet
-64,Amulet of the Fallen,Dagger
-62,Earthshaker Hammer,Ring
-214,Quiver of the Wind,Staff
-39,Potion of Eternal Vigor,Staff
-143,Helm of the Silver Knight,Sword
-157,Gloves of the Sun God,Shield
-70,Amulet of the Fallen Queen,Dagger
-22,Sacred Feather Talisman,Shield
-225,Champion''s Greatsword,Ring
-212,Stoneforged Mace,Staff
-26,Windfury Longsword,Staff
-3,Mystic Lightshield,Sword
-107,Vial of Healing Winds,Potion
-167,Bracelet of Divine Fates,Ring
-185,Crystal of the Ancients,Ring
-120,Quicksilver Bullets,Staff
-94,Armbands of Resilience,Amulet
-41,Amulet of the Stars,Dagger
-34,Elixir of the Moon,Dagger
-101,Cloak of Shadows,Ring
-173,Sword of the Paladin,Sword
-170,Boots of Swiftness,Shield
-68,Chronomancer''s Sandglass,Potion
-158,Grimoire of Lost Souls,Staff
-33,Crown of the Lost King,Sword
-104,Greatsword of Heavenly Wrath,Potion
-208,Cloak of Shadows,Sword
-82,Amulet of the Wind Whisperer,Amulet
-37,Potion of Eternal Vigor,Potion
-31,Greatsword of Heavenly Wrath,Sword
-73,Necklace of the Mermaid,Bow
-96,Blade of the Archmage,Amulet
-87,Emerald Heart Ring,Shield
-131,Potion of Dire Strength,Ring
-127,Essence of the Wild,Ring
-78,Crossbow of Fiery Vengeance,Bow
-30,Flask of Infinite Courage,Bow
-152,Venomtouch Whip,Dagger
-8,Demon''s Blood Elixir,Staff
-109,Demon''s Blood Elixir,Potion
-118,Armor of the Sea Spirit,Potion
-199,Amulet of the Fallen,Amulet
-25,Sunfire Cape,Dagger
-210,Vial of Healing Winds,Sword
-48,Dragonbone Greataxe,Bow
-69,Axe of the Moon Chieftain,Bow
-145,Ring of the Fallen Queen,Bow
-120,Stormbringer Blade,Bow
-95,Spectral Chainmail,Ring
-220,Golden Chalice of Eternity,Ring
-21,Staff of the Archmage,Sword
-200,Sword of the Paladin,Shield
-230,Amethyst Soul Amulet,Sword
-186,Orb of Chaos,Dagger
-80,Cursed Bone Necklace,Staff
-132,Cloak of Shadows,Amulet
-239,Quicksilver Bullets,Amulet
-53,Necklace of the Mermaid,Potion
-124,Wand of Time,Amulet
-81,Ring of the Fallen,Dagger
-215,Blade of Eternal Night,Bow
-50,Emerald Heart Ring,Dagger
-69,Ring of the Fallen Queen,Ring
-159,Sunfire Cape,Shield
-118,Robes of the Archmage,Amulet
-161,Bracers of the Hunter,Potion
-180,Lunar Tear Bracelet,Amulet
-241,Axe of the Moon Chieftain,Shield
-134,Amulet of the Stars,Dagger
-207,Ring of the Fallen Queen,Dagger
-144,Orb of the Soul Reaver,Bow
-164,Shadowflame Dagger,Staff
-228,Gauntlets of the Berserker,Dagger
-36,Maul of the Frost Giant,Ring
-28,Amulet of the Moon,Sword
-223,Cursed Bone Necklace,Amulet
-54,Potion of Mana Regeneration,Amulet
-189,Staff of Eldritch Power,Potion
-90,Warrior''s Battleaxe,Sword
-41,Stormbringer Blade,Bow
-156,Helm of the Silver Knight,Staff
-208,Shield of the Dwarven Lords,Dagger
-213,Boots of Swiftness,Amulet
-129,Plaguebringer Scythe,Dagger
-121,Chronomancer''s Sandglass,Ring
-40,Sacred Feather Talisman,Potion
-196,Ring of the Fallen Queen,Sword
-216,Blood-soaked Bracers,Dagger
-193,Cloak of Elvenkind,Amulet
-139,Plaguebringer Scythe,Shield
-42,Armbands of Resilience,Sword
-65,Lockpick of Fates,Staff
-10,Enchanted Waterskin,Sword
-183,Orb of Chaos,Sword
-214,Gauntlets of the Titan,Amulet
-9,Golden Chalice of Eternity,Bow
-62,Guardian''s Shield,Bow
-128,Boots of the Shadow Dancer,Amulet
-92,Rune-etched Crossbow,Amulet
-105,Wand of Time,Sword
-45,Greaves of the Vanguard,Potion
-77,Bread of the Wise,Dagger
-177,Mystic Lightshield,Ring
-61,Quiver of the Wind,Dagger
-86,Tome of the Elders,Potion
-169,Elixir of the Moon,Bow
-102,Orb of Chaos,Staff
-75,Essence of the Wild,Ring
-138,Sword of the Paladin,Shield
-110,Shield of the Dwarven Lords,Bow
-206,Lockpick of Fates,Sword
-116,Sword of the Paladin,Ring
-172,Armbands of Resilience,Dagger
-103,Cloak of Elvenkind,Dagger
-22,Cloak of Shadows,Bow
-76,Necklace of the Mermaid,Staff
-2,Ring of the Fallen King,Bow
-218,Potion of Eternal Vigor,Shield
-211,Girdle of Strength,Potion
-4,Essence of the Wild,Staff
-57,Gauntlets of the Berserker,Ring
-14,Blade of the Archmage,Sword
-19,Golden Chalice of Eternity,Staff
-72,Ring of the Eternal Flame,Bow
-119,Amulet of the Fallen,Bow
-68,Spectral Chainmail,Shield
-31,Bracelet of Divine Fates,Bow
-155,Bracelet of Divine Fates,Dagger
-17,Greatsword of Heavenly Wrath,Amulet
-141,Amulet of the Moon,Potion
-142,Venomtouch Whip,Potion
-205,Wand of Time,Ring
-37,Rune-etched Crossbow,Amulet
-191,Axe of the Moon Chieftain,Shield
-107,Scroll of Forgotten Knowledge,Ring
-87,Helm of the Silver Knight,Staff
-99,Amulet of the Fallen King,Staff
-84,Staff of Eldritch Power,Staff
-122,Venomtouch Whip,Staff
-229,Boots of Swiftness,Staff
-11,Orb of Chaos,Amulet
-233,Elixir of the Moon,Ring
-199,Amulet of the Wind Whisperer,Amulet
-203,Ring of the Sages,Staff
-162,Enchanted Waterskin,Staff
-225,Amulet of the Fallen,Potion
-148,Shield of the Dwarven Lords,Sword
-25,Rune-etched Crossbow,Ring
-98,Lunar Tear Bracelet,Sword
-175,Shadowflame Dagger,Shield
-126,Robe of the Sage,Sword
-49,Robe of the Sage,Staff
-29,Dagger of Betrayal,Bow
-47,Lunar Tear Bracelet,Bow
-6,Lockpick of Fates,Staff
-44,Amulet of the Fallen Queen,Ring
-152,Potion of Mana Regeneration,Bow
-113,Sword of the Paladin,Staff
-151,Amethyst Soul Amulet,Shield
-137,Flask of Infinite Courage,Potion
-166,Sacred Feather Talisman,Amulet
-236,Lunar Tear Bracelet,Sword
-101,Greatsword of Heavenly Wrath,Shield
-34,Enchanted Waterskin,Potion
-93,Tome of the Elders,Staff
-58,Emerald Heart Ring,Dagger
-63,Earthshaker Hammer,Potion
-160,Runic Vestments,Bow
-71,Crystal of the Ancients,Sword
-114,Sunfire Cape,Potion
-56,Ring of the Moon,Dagger
-9,Emerald Heart Ring,Amulet
-74,Robe of the Sage,Sword
-79,Heartstone Amulet,Ring
-102,Axe of the Moon Chieftain,Shield
-115,Cloak of Elvenkind,Potion
-60,Amulet of the Fallen,Potion
-142,Rod of Wondrous Echoes,Shield
-37,Crystal of the Ancients,Amulet
-67,Emerald Saber of Souls,Dagger
-34,Shadowflame Dagger,Staff
-5,Veil of the Tempest,Shield
-154,Windfury Longsword,Ring
-132,Dragon''s Breath Bow,Potion
-22,Lunar Tear Bracelet,Dagger
-105,Lunar Tear Bracelet,Potion
-51,Dagger of Betrayal,Shield
-76,Amulet of the Moon,Sword
-77,Runic Vestments,Shield
-63,Elixir of the Moon,Amulet
-126,Blood-soaked Bracers,Potion
-94,Robes of the Archmage,Dagger
-107,Spectral Chainmail,Sword
-158,Belt of the Wyrm,Sword
-88,Runic Vestments,Dagger
-38,Champion''s Greatsword,Bow
-64,Stoneforged Mace,Potion
-148,Dragon''s Breath Bow,Ring
-124,Scroll of Forgotten Knowledge,Amulet
-116,Lockpick of Fates,Bow
-18,Harvest Moon Scepter,Ring
-111,Scepter of the Forsaken,Potion
-7,Sacred Feather Talisman,Shield
-152,Boots of Swiftness,Staff
-85,Emerald Heart Ring,Ring
-144,Shield of the Dwarven Lords,Amulet
-110,Necklace of the Mermaid,Bow
-11,Ring of Arcane Mastery,Shield
-54,Necklace of the Mermaid,Staff
-28,Golden Chalice of Eternity,Dagger
-17,Amulet of the Moon,Ring
-69,Armbands of Resilience,Potion
-20,Robes of the Archmage,Sword
-47,Titanium Gauntlet,Amulet
-82,Titanium Gauntlet,Potion
-155,Helm of Insight,Ring
-25,Bread of the Wise,Shield
-131,Gloves of the Sun God,Amulet
-93,Scepter of the Forsaken,Staff
-149,Girdle of Strength,Potion
-96,Stormbringer Blade,Ring
-30,Frostfire Staff,Potion
-36,Cloak of Elvenkind,Staff
-15,Crossbow of Fiery Vengeance,Sword
-48,Emerald Heart Ring,Sword
-136,Sunfire Cape,Dagger
-134,Lockpick of Fates,Ring
-45,Wyrm''s Breath Wand,Amulet
-100,Amethyst Soul Amulet,Shield
-121,Shadowflame Dagger,Amulet
-12,Mystic Lightshield,Ring
-123,Scepter of the Forsaken,Bow
-31,Blood-soaked Bracers,Sword
-41,Golden Chalice of Eternity,Dagger
-40,Armor of the Sea Spirit,Dagger
-68,Amulet of the Moon,Sword
-43,Ring of the Fallen,Potion
-90,Orb of Chaos,Dagger
-120,Thunderstrike Javelins,Potion
-127,Wand of Time,Ring
-78,Warrior''s Battleaxe,Bow
-58,Gloves of the Sun God,Staff
-4,Orb of Chaos,Staff
-118,Serpent''s Fang Saber,Staff
-157,Lunar Tear Bracelet,Bow
-147,Ring of the Eternal Flame,Bow
-98,Wyrm''s Breath Wand,Staff
-139,Staff of Eldritch Power,Potion
-3,Maul of the Frost Giant,Shield
-128,Tome of the Elders,Ring
+249,Amulet of the Wind Whisperer,Dagger
+143,Plaguebringer Scythe,Sword
+281,Amulet of the Fallen King,Dagger
+60,Quicksilver Bullets,Staff
+168,Elixir of the Moon,Potion
+228,Greatsword of Heavenly Wrath,Ring
+111,Tome of Elemental Secrets,Sword
+290,Ring of the Fallen,Ring
+140,Bow of the Eternal Forest,Sword
+20,Bread of the Wise,Dagger
+71,Sunfire Cape,Staff
+115,Amulet of the Stars,Amulet
+70,Tome of Elemental Secrets,Potion
+296,Amulet of the Wind Whisperer,Staff
+242,Amulet of the Moon,Ring
+96,Greatsword of Heavenly Wrath,Bow
+9,Sunfire Cape,Dagger
+163,Vial of Healing Winds,Ring
+251,Thunderstrike Javelins,Dagger
+100,Dagger of Betrayal,Bow
+92,Staff of the Archmage,Dagger
+110,Titanium Gauntlet,Potion
+51,Wyrm''s Breath Wand,Shield
+234,Thunderstrike Javelins,Potion
+192,Shadowflame Dagger,Staff
+289,Robe of the Sage,Staff
+104,Gauntlets of the Titan,Amulet
+199,Blade of Eternal Night,Shield
+122,Essence of the Wild,Shield
+216,Sacred Feather Talisman,Ring
+283,Emerald Saber of Souls,Dagger
+210,Belt of the Wyrm,Dagger
+77,Helm of the Silver Knight,Amulet
+147,Staff of Eldritch Power,Dagger
+149,Veil of the Tempest,Potion
+79,Sword of the Paladin,Staff
+236,Sunfire Cape,Dagger
+204,Staff of Eldritch Power,Bow
+213,Scroll of the Phoenix,Potion
+35,Wyrm''s Breath Wand,Shield
+107,Orb of the Soul Reaver,Staff
+68,Essence of the Wild,Dagger
+211,Lunar Tear Bracelet,Sword
+56,Grimoire of Lost Souls,Ring
+130,Cloak of Shadows,Bow
+5,Dragon''s Breath Bow,Dagger
+109,Rod of Wondrous Echoes,Ring
+42,Amethyst Soul Amulet,Sword
+39,Lockpick of Fates,Amulet
+98,Amulet of the Wind Whisperer,Amulet
+29,Elixir of the Moon,Shield
+94,Gauntlets of the Berserker,Dagger
+4,Essence of the Wild,Amulet
+113,Golden Chalice of Eternity,Amulet
+167,Ring of the Sages,Bow
+287,Ring of the Fallen Queen,Shield
+86,Tome of the Elders,Ring
+90,Titanium Gauntlet,Potion
+263,Axe of the Moon Chieftain,Staff
+63,Bread of the Wise,Ring
+103,Cursed Bone Necklace,Ring
+172,Essence of the Wild,Staff
+166,Heartstone Amulet,Amulet
+301,Amulet of the Fallen Queen,Amulet
+117,Helm of the Silver Knight,Dagger
+45,Blade of Eternal Night,Ring
+160,Rune-etched Crossbow,Staff
+11,Rune-etched Crossbow,Potion
+295,Amulet of the Stars,Ring
+285,Helm of the Silver Knight,Staff
+179,Emerald Saber of Souls,Shield
+298,Stoneforged Mace,Staff
+6,Flask of Infinite Courage,Potion
+137,Dragonbone Greataxe,Sword
+119,Armor of the Sea Spirit,Amulet
+126,Staff of Eldritch Power,Ring
+279,Crystal of the Ancients,Shield
+17,Cloak of Shadows,Staff
+259,Champion''s Greatsword,Shield
+190,Robes of the Archmage,Bow
+267,Potion of Mana Regeneration,Sword
+260,Ring of Arcane Mastery,Amulet
+299,Robe of the Sage,Dagger
+15,Stormbringer Blade,Staff
+54,Staff of Eldritch Power,Sword
+239,Wand of Time,Staff
+187,Blade of the Fallen,Bow
+224,Bread of the Wise,Potion
+125,Rod of Wondrous Echoes,Staff
+265,Orb of Chaos,Bow
+303,Rune-etched Crossbow,Shield
+141,Crystal of the Ancients,Potion
+75,Blade of the Fallen,Staff
+101,Enchanted Waterskin,Dagger
+49,Ring of the Fallen Queen,Staff
+38,Warrior''s Battleaxe,Amulet
+134,Amulet of the Fallen Queen,Staff
+257,Dagger of the Trickster,Potion
+208,Amulet of the Fallen Queen,Ring
+207,Dagger of the Trickster,Potion
+276,Staff of the Archmage,Potion
+182,Helm of the Silver Knight,Sword
+82,Boots of Swiftness,Bow
+165,Amulet of the Stars,Dagger
+58,Spectral Chainmail,Bow
+226,Amulet of the Wind Whisperer,Staff
+175,Blade of the Archmage,Potion
+195,Staff of Tranquility,Amulet
+222,Chains of the Abyss,Shield
+124,Quiver of the Wind,Shield
+74,Blade of the Fallen,Staff
+181,Amulet of the Moon,Sword
+219,Harvest Moon Scepter,Staff
+185,Venomtouch Whip,Dagger
+48,Flask of Infinite Courage,Staff
+87,Wand of Time,Bow
+294,Wand of Time,Potion
+1,Potion of Mana Regeneration,Potion
+196,Aegis of the Sun,Ring
+252,Amethyst Soul Amulet,Staff
+144,Titanium Gauntlet,Bow
+146,Amulet of the Fallen Queen,Bow
+193,Ring of the Fallen Queen,Sword
+27,Sunfire Cape,Sword
+69,Frostfire Staff,Dagger
+123,Dragon''s Breath Bow,Sword
+177,Elixir of the Moon,Shield
+235,Ring of the Fallen Queen,Amulet
+201,Cursed Bone Necklace,Bow
+61,Girdle of Strength,Dagger
+268,Ring of the Eternal Flame,Dagger
+255,Axe of the Moon Chieftain,Bow
+21,Serpent''s Fang Saber,Dagger
+24,Runic Vestments,Bow
+91,Amulet of the Fallen Queen,Staff
+37,Amulet of the Stars,Potion
+12,Amulet of the Stars,Staff
+269,Potion of Dire Strength,Ring
+275,Gauntlets of the Berserker,Sword
+277,Warhammer of the Earthshaker,Shield
+157,Blade of the Fallen,Potion
+278,Staff of Tranquility,Bow
+66,Lunar Tear Bracelet,Sword
+205,Earthshaker Hammer,Ring
+133,Frostfire Staff,Staff
+272,Girdle of Strength,Staff
+231,Chains of the Abyss,Amulet
+84,Quiver of the Wind,Dagger
+152,Amulet of the Wind Whisperer,Amulet
+88,Demon''s Blood Elixir,Ring
+8,Spectral Chainmail,Bow
+198,Tome of the Elders,Amulet
+32,Warhammer of the Earthshaker,Amulet
+282,Ring of Arcane Mastery,Potion
+34,Maul of the Frost Giant,Shield
+25,Amulet of the Fallen Queen,Dagger
+245,Dagger of the Trickster,Sword
+173,Gloves of the Sun God,Ring
+155,Blood-soaked Bracers,Sword
+293,Shadowflame Dagger,Potion
+59,Amulet of the Stars,Amulet
+169,Armbands of Resilience,Amulet
+227,Crown of the Lost King,Shield
+127,Boots of the Pathfinder,Sword
+50,Robe of the Sage,Staff
+247,Crossbow of Fiery Vengeance,Sword
+14,Quicksilver Bullets,Sword
+139,Tome of Elemental Secrets,Shield
+381,Axe of the Moon Chieftain,Sword
+122,Harvest Moon Scepter,Potion
+31,Guardian''s Shield,Amulet
+145,Lockpick of Fates,Amulet
+282,Dagger of Betrayal,Shield
+196,Wyrm''s Breath Wand,Bow
+302,Boots of Celestial Steps,Staff
+3,Ring of the Sages,Bow
+74,Amulet of the Fallen,Bow
+53,Belt of the Wyrm,Ring
+5,Chronomancer''s Sandglass,Amulet
+372,Chronomancer''s Sandglass,Shield
+336,Greatsword of Heavenly Wrath,Ring
+169,Demon''s Blood Elixir,Bow
+373,Cursed Bone Necklace,Amulet
+345,Shield of the Dwarven Lords,Sword
+261,Lockpick of Fates,Ring
+376,Sunfire Cape,Amulet
+127,Ring of the Fallen King,Staff
+56,Thunderstrike Axe,Potion
+94,Dagger of Betrayal,Bow
+29,Chronomancer''s Sandglass,Shield
+208,Girdle of Strength,Bow
+47,Axe of the Moon Chieftain,Sword
+142,Boots of Swiftness,Shield
+221,Bracers of the Hunter,Staff
+219,Essence of the Wild,Ring
+105,Warhammer of the Earthshaker,Bow
+233,Blood-soaked Bracers,Staff
+65,Amulet of the Wind Whisperer,Shield
+317,Crown of the Lost King,Potion
+225,Windfury Longsword,Amulet
+152,Tome of the Elders,Dagger
+58,Golden Chalice of Eternity,Bow
+199,Blade of Eternal Night,Potion
+257,Ring of the Eternal Flame,Ring
+13,Bracers of the Hunter,Bow
+269,Robes of the Archmage,Staff
+158,Orb of Chaos,Bow
+314,Runic Vestments,Sword
+355,Belt of the Wyrm,Amulet
+311,Cloak of Elvenkind,Sword
+292,Thunderstrike Axe,Dagger
+321,Amulet of the Moon,Potion
+278,Ring of the Fallen Queen,Dagger
+148,Bracelet of Divine Fates,Staff
+268,Lunar Tear Bracelet,Potion
+238,Blade of the Archmage,Bow
+243,Lockpick of Fates,Dagger
+103,Thunderstrike Axe,Amulet
+326,Frostfire Staff,Shield
+98,Boots of Celestial Steps,Sword
+305,Necklace of the Mermaid,Amulet
+116,Blade of the Archmage,Ring
+41,Warhammer of the Earthshaker,Staff
+111,Warrior''s Battleaxe,Amulet
+318,Robe of the Sage,Staff
+325,Guardian''s Shield,Bow
+264,Blood-soaked Bracers,Bow
+213,Veil of the Tempest,Potion
+218,Bracers of the Hunter,Sword
+232,Dagger of Betrayal,Dagger
+62,Aegis of the Sun,Potion
+161,Windfury Longsword,Sword
+120,Scepter of the Forsaken,Shield
+138,Emerald Saber of Souls,Shield
+88,Dagger of Betrayal,Sword
+55,Pauldrons of the Bear,Amulet
+224,Crossbow of Fiery Vengeance,Bow
+214,Boots of Swiftness,Ring
+194,Maul of the Frost Giant,Staff
+287,Cloak of Elvenkind,Ring
+283,Warrior''s Battleaxe,Ring
+245,Runic Vestments,Staff
+256,Veil of the Tempest,Staff
+153,Ring of the Fallen Queen,Potion
+290,Robe of the Sage,Bow
+154,Flask of Infinite Courage,Amulet
+93,Gauntlets of the Titan,Potion
+228,Helm of Insight,Amulet
+7,Heartstone Amulet,Staff
+77,Vial of Healing Winds,Sword
+191,Chains of the Abyss,Sword
+190,Tome of Elemental Secrets,Sword
+18,Amulet of the Stars,Dagger
+364,Cloak of Elvenkind,Ring
+312,Maul of the Frost Giant,Sword
+15,Windfury Longsword,Staff
+299,Pauldrons of the Bear,Potion
+369,Enchanted Waterskin,Amulet
+150,Ring of the Sages,Amulet
+206,Dragon''s Breath Bow,Amulet
+63,Crystal of the Ancients,Bow
+353,Emerald Saber of Souls,Dagger
+273,Armbands of Resilience,Potion
+68,Necklace of the Mermaid,Amulet
+247,Shield of the Dwarven Lords,Ring
+276,Sacred Feather Talisman,Amulet
+358,Armbands of Resilience,Amulet
+274,Runic Vestments,Bow
+367,Dagger of Betrayal,Ring
+140,Sunfire Cape,Shield
+1,Grimoire of Lost Souls,Dagger
+215,Boots of Swiftness,Ring
+128,Earthshaker Hammer,Ring
+23,Gloves of the Sun God,Ring
+24,Gloves of the Sun God,Shield
+125,Necklace of the Mermaid,Potion
+92,Vial of Healing Winds,Staff
+338,Runic Vestments,Ring
+294,Flask of Infinite Courage,Bow
+124,Heartstone Amulet,Sword
+157,Lunar Tear Bracelet,Shield
+322,Scepter of the Forsaken,Shield
+361,Maul of the Frost Giant,Ring
+279,Maul of the Frost Giant,Ring
+99,Gauntlets of the Berserker,Bow
+90,Runic Vestments,Shield
+226,Gloves of the Sun God,Bow
+108,Venomtouch Whip,Shield
+329,Stoneforged Mace,Potion
+258,Plaguebringer Scythe,Shield
+49,Frostfire Staff,Amulet
+95,Ring of the Fallen King,Sword
+304,Helm of the Silver Knight,Shield
+335,Sacred Feather Talisman,Shield
+86,Greaves of the Vanguard,Potion
+26,Quicksilver Bullets,Ring
+267,Plaguebringer Scythe,Ring
+39,Staff of Eldritch Power,Sword
+297,Chronomancer''s Sandglass,Shield
+119,Rod of Wondrous Echoes,Bow
+34,Emerald Saber of Souls,Dagger
+183,Harvest Moon Scepter,Staff
+51,Earthshaker Hammer,Bow
+60,Belt of the Wyrm,Dagger
+204,Staff of Eldritch Power,Dagger
+298,Titanium Gauntlet,Staff
+129,Orb of Chaos,Shield
+229,Sacred Feather Talisman,Dagger
+344,Spectral Chainmail,Amulet
+135,Cloak of Elvenkind,Ring
+160,Ring of Arcane Mastery,Amulet
+114,Lockpick of Fates,Dagger
+37,Shield of the Dwarven Lords,Bow
+184,Chains of the Abyss,Bow
+166,Potion of Mana Regeneration,Shield
+178,Grimoire of Lost Souls,Shield
+89,Dagger of Betrayal,Amulet
+155,Ring of the Fallen King,Sword
+10,Scroll of the Phoenix,Sword
+334,Crown of the Lost King,Amulet
+348,Venomtouch Whip,Amulet
+70,Robe of the Sage,Bow
+251,Robes of the Archmage,Bow
+303,Heartstone Amulet,Shield
+85,Enchanted Waterskin,Bow
+379,Emerald Heart Ring,Potion
+352,Enchanted Waterskin,Amulet
+284,Orb of the Soul Reaver,Bow
+253,Wyrm''s Breath Wand,Bow
+308,Dagger of the Trickster,Amulet
+101,Scepter of the Forsaken,Bow
+211,Enchanted Waterskin,Bow
+356,Rune-etched Crossbow,Amulet
+319,Emerald Heart Ring,Ring
+21,Chains of the Abyss,Staff
+235,Veil of the Tempest,Dagger
+340,Gloves of the Sun God,Amulet
+175,Chains of the Abyss,Amulet
+79,Spectral Chainmail,Shield
+71,Demon''s Blood Elixir,Potion
+331,Staff of Eldritch Power,Bow
+133,Ring of the Fallen King,Amulet
+241,Potion of Mana Regeneration,Ring
+82,Gloves of the Sun God,Sword
+132,Shield of the Dwarven Lords,Bow
+313,Chains of the Abyss,Bow
+44,Scroll of the Phoenix,Ring
+272,Chains of the Abyss,Dagger
+342,Cloak of Elvenkind,Staff
+202,Vial of Healing Winds,Dagger
+187,Harvest Moon Scepter,Dagger
+347,Blood-soaked Bracers,Staff
+180,Runic Vestments,Staff
+6,Scroll of the Phoenix,Potion
+248,Chronomancer''s Sandglass,Staff
+172,Staff of Eldritch Power,Potion
+73,Maul of the Frost Giant,Sword
+163,Amulet of the Stars,Potion
+351,Helm of Insight,Amulet
+252,Bow of the Eternal Forest,Potion
+303,Ring of the Fallen Queen,Shield
+326,Ring of the Sages,Sword
+215,Amulet of the Wind Whisperer,Bow
+121,Essence of the Wild,Potion
+96,Venomtouch Whip,Dagger
+226,Gauntlets of the Titan,Potion
+352,Potion of Eternal Vigor,Ring
+68,Bracers of the Hunter,Shield
+155,Staff of the Archmage,Shield
+7,Windfury Longsword,Ring
+385,Thunderstrike Javelins,Bow
+245,Sunfire Cape,Sword
+48,Chains of the Abyss,Dagger
+233,Sacred Feather Talisman,Bow
+316,Earthshaker Hammer,Shield
+53,Harvest Moon Scepter,Bow
+72,Amulet of the Wind Whisperer,Potion
+238,Sword of the Paladin,Shield
+16,Aegis of the Sun,Sword
+31,Chronomancer''s Sandglass,Sword
+187,Cloak of Elvenkind,Ring
+190,Warhammer of the Earthshaker,Staff
+139,Chronomancer''s Sandglass,Bow
+198,Dragonbone Greataxe,Amulet
+243,Amulet of the Fallen,Potion
+200,Ring of the Fallen Queen,Amulet
+156,Gauntlets of the Berserker,Amulet
+286,Blade of Eternal Night,Ring
+204,Gauntlets of the Titan,Staff
+360,Ring of the Sages,Potion
+314,Quiver of the Wind,Shield
+166,Tome of the Elders,Bow
+282,Armbands of Resilience,Sword
+368,Bracers of the Hunter,Shield
+114,Serpent''s Fang Saber,Staff
+272,Dragonbone Greataxe,Amulet
+321,Pauldrons of the Bear,Potion
+236,Stormbringer Blade,Potion
+373,Amulet of the Fallen King,Potion
+336,Blade of Eternal Night,Ring
+292,Armor of the Sea Spirit,Shield
+312,Runic Vestments,Bow
+117,Boots of Swiftness,Bow
+27,Maul of the Frost Giant,Ring
+141,Goblin-made Flail,Dagger
+182,Goblin-made Flail,Staff
+244,Potion of Dire Strength,Staff
+350,Orb of Chaos,Bow
+268,Gauntlets of the Berserker,Sword
+63,Champion''s Greatsword,Amulet
+178,Staff of Tranquility,Bow
+99,Ring of the Fallen King,Bow
+266,Gloves of the Sun God,Bow
+285,Mystic Lightshield,Dagger
+106,Quicksilver Bullets,Shield
+135,Wand of Time,Dagger
+275,Sacred Feather Talisman,Potion
+162,Girdle of Strength,Ring
+20,Vial of Healing Winds,Amulet
+251,Bow of the Eternal Forest,Ring
+2,Wyrm''s Breath Wand,Bow
+104,Blade of the Fallen,Sword
+88,Quiver of the Wind,Shield
+388,Staff of Eldritch Power,Sword
+248,Potion of Eternal Vigor,Amulet
+211,Ring of the Fallen King,Sword
+110,Harvest Moon Scepter,Sword
+56,Wand of Time,Amulet
+19,Harvest Moon Scepter,Ring
+258,Mystic Lightshield,Staff
+337,Frostfire Staff,Sword
+145,Pauldrons of the Bear,Potion
+349,Mystic Lightshield,Bow
+125,Serpent''s Fang Saber,Shield
+164,Girdle of Strength,Staff
+319,Ring of the Fallen,Potion
+344,Robe of the Sage,Dagger
+365,Scepter of the Forsaken,Potion
+261,Cloak of Elvenkind,Bow
+133,Scroll of the Phoenix,Sword
+169,Sunfire Cape,Amulet
+206,Shield of the Dwarven Lords,Sword
+152,Belt of the Wyrm,Bow
+38,Necklace of the Mermaid,Amulet
+357,Bread of the Wise,Staff
+264,Ring of the Fallen,Dagger
+159,Potion of Mana Regeneration,Potion
+89,Ring of the Fallen Queen,Dagger
+220,Windfury Longsword,Staff
+64,Warrior''s Battleaxe,Shield
+28,Dagger of the Trickster,Shield
+109,Blade of Eternal Night,Ring
+309,Flask of Infinite Courage,Potion
+148,Veil of the Tempest,Potion
+76,Flask of Infinite Courage,Dagger
+298,Bread of the Wise,Bow
+382,Tome of Elemental Secrets,Bow
+123,Ring of the Sages,Amulet
+52,Stoneforged Mace,Potion
+276,Windfury Longsword,Sword
+4,Amulet of the Fallen King,Sword
+289,Earthshaker Hammer,Dagger
+392,Greaves of the Vanguard,Amulet
+333,Thunderstrike Axe,Bow
+25,Gloves of the Sun God,Ring
+339,Belt of the Wyrm,Potion
+79,Warrior''s Battleaxe,Shield
+37,Rod of Wondrous Echoes,Shield
+13,Emerald Saber of Souls,Potion
+347,Blade of the Archmage,Amulet
+209,Chains of the Abyss,Staff
+83,Plaguebringer Scythe,Sword
+239,Crystal of the Ancients,Dagger
+379,Crown of the Lost King,Dagger
+342,Potion of Eternal Vigor,Shield
+80,Amulet of the Moon,Shield
+144,Boots of the Pathfinder,Potion
+119,Frostfire Staff,Bow
+228,Blood-soaked Bracers,Staff
+42,Shield of the Dwarven Lords,Potion
+34,Shield of the Dwarven Lords,Amulet
+329,Robe of the Sage,Ring
+130,Rod of Wondrous Echoes,Potion
+9,Greaves of the Vanguard,Amulet
+359,Amulet of the Fallen King,Bow
+306,Rod of Wondrous Echoes,Shield
+112,Lockpick of Fates,Sword
+383,Bow of the Eternal Forest,Potion
+313,Rod of Wondrous Echoes,Dagger
+332,Bracelet of Divine Fates,Staff
+102,Ring of the Fallen Queen,Dagger
+22,Amulet of the Fallen King,Staff
+39,Scroll of Forgotten Knowledge,Potion
+180,Quicksilver Bullets,Potion
+299,Cloak of Elvenkind,Amulet
+51,Ring of the Fallen King,Sword
+91,Aegis of the Sun,Shield
+185,Cursed Bone Necklace,Potion
+11,Amulet of the Wind Whisperer,Shield
+271,Earthshaker Hammer,Dagger
+377,Ring of the Fallen Queen,Ring
+375,Harvest Moon Scepter,Sword
+50,Demon''s Blood Elixir,Shield
+193,Demon''s Blood Elixir,Dagger
+241,Boots of the Shadow Dancer,Amulet
+60,Armbands of Resilience,Staff
+93,Axe of the Moon Chieftain,Ring
+304,Enchanted Waterskin,Dagger
+202,Shadowflame Dagger,Staff
+386,Scroll of the Phoenix,Shield
+95,Bracelet of Divine Fates,Amulet
+390,Chronomancer''s Sandglass,Staff
+150,Aegis of the Sun,Bow
+45,Bread of the Wise,Staff
+73,Boots of the Pathfinder,Staff
+71,Golden Chalice of Eternity,Dagger
+217,Gauntlets of the Berserker,Amulet
+255,Armbands of Resilience,Amulet
+78,Chains of the Abyss,Sword
+128,Axe of the Moon Chieftain,Staff
+8,Amulet of the Wind Whisperer,Potion
+212,Harvest Moon Scepter,Ring
+231,Sword of the Paladin,Amulet
+278,Venomtouch Whip,Staff
+355,Emerald Heart Ring,Potion
+67,Dagger of Betrayal,Dagger
+195,Potion of Eternal Vigor,Bow
+223,Cloak of Elvenkind,Bow
+176,Enchanted Waterskin,Staff
+171,Golden Chalice of Eternity,Staff
+300,Gauntlets of the Titan,Dagger
+85,Ring of the Moon,Shield
+341,Rod of Wondrous Echoes,Sword
+310,Windfury Longsword,Dagger
+184,Cloak of Elvenkind,Bow
+32,Heartstone Amulet,Dagger
+281,Runic Vestments,Ring
+295,Grimoire of Lost Souls,Staff
+134,Blade of the Fallen,Bow
+250,Enchanted Waterskin,Ring
+371,Armbands of Resilience,Potion
+57,Veil of the Tempest,Ring
+137,Warrior''s Battleaxe,Amulet
+324,Staff of the Archmage,Dagger
+174,Greaves of the Vanguard,Amulet
+362,Amulet of the Fallen Queen,Sword
+59,Venomtouch Whip,Bow
