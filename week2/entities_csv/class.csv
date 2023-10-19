@@ -1,0 +1,518 @@
+class_id,class_type,class_description
+225,Archer,Excels at long-range damage with various types of arrows.
+197,Rogue,Offers both damage and support through a variety of spells.
+293,Warrior,Specializes in tanking damage and close combat.
+196,Archer,Offers both damage and support through a variety of spells.
+182,Healer,"Skilled in stealth and quick, deadly attacks."
+245,Mage,"Skilled in stealth and quick, deadly attacks."
+276,Rogue,"Skilled in stealth and quick, deadly attacks."
+279,Archer,Offers both damage and support through a variety of spells.
+219,Healer,Offers both damage and support through a variety of spells.
+58,Archer,Summons minions to aid in combat.
+307,Healer,"Skilled in stealth and quick, deadly attacks."
+147,Rogue,Summons minions to aid in combat.
+123,Healer,Specializes in tanking damage and close combat.
+38,Summoner,Focuses on healing and buffing teammates.
+23,Rogue,Excels at long-range damage with various types of arrows.
+263,Warrior,Summons minions to aid in combat.
+190,Rogue,"Skilled in stealth and quick, deadly attacks."
+143,Healer,"Skilled in stealth and quick, deadly attacks."
+77,Warrior,"Skilled in stealth and quick, deadly attacks."
+18,Warrior,Offers both damage and support through a variety of spells.
+128,Warrior,Specializes in tanking damage and close combat.
+217,Archer,Specializes in tanking damage and close combat.
+46,Summoner,Focuses on healing and buffing teammates.
+281,Healer,Specializes in tanking damage and close combat.
+187,Rogue,Focuses on healing and buffing teammates.
+108,Mage,"Skilled in stealth and quick, deadly attacks."
+80,Summoner,"Skilled in stealth and quick, deadly attacks."
+74,Archer,Focuses on healing and buffing teammates.
+253,Mage,Summons minions to aid in combat.
+20,Warrior,Specializes in tanking damage and close combat.
+124,Rogue,Summons minions to aid in combat.
+302,Warrior,Offers both damage and support through a variety of spells.
+156,Healer,"Skilled in stealth and quick, deadly attacks."
+296,Healer,Summons minions to aid in combat.
+183,Warrior,Summons minions to aid in combat.
+304,Warrior,Excels at long-range damage with various types of arrows.
+271,Summoner,Specializes in tanking damage and close combat.
+71,Warrior,Offers both damage and support through a variety of spells.
+92,Healer,Summons minions to aid in combat.
+287,Summoner,Offers both damage and support through a variety of spells.
+170,Rogue,"Skilled in stealth and quick, deadly attacks."
+68,Mage,"Skilled in stealth and quick, deadly attacks."
+142,Rogue,Excels at long-range damage with various types of arrows.
+270,Summoner,Focuses on healing and buffing teammates.
+150,Healer,Offers both damage and support through a variety of spells.
+137,Rogue,Specializes in tanking damage and close combat.
+209,Archer,"Skilled in stealth and quick, deadly attacks."
+169,Archer,"Skilled in stealth and quick, deadly attacks."
+103,Rogue,Excels at long-range damage with various types of arrows.
+164,Healer,"Skilled in stealth and quick, deadly attacks."
+260,Archer,Summons minions to aid in combat.
+50,Rogue,Specializes in tanking damage and close combat.
+207,Rogue,Summons minions to aid in combat.
+87,Healer,Focuses on healing and buffing teammates.
+163,Warrior,Summons minions to aid in combat.
+101,Healer,Summons minions to aid in combat.
+273,Rogue,Focuses on healing and buffing teammates.
+172,Rogue,Summons minions to aid in combat.
+291,Healer,"Skilled in stealth and quick, deadly attacks."
+299,Healer,Specializes in tanking damage and close combat.
+125,Rogue,Specializes in tanking damage and close combat.
+6,Rogue,Specializes in tanking damage and close combat.
+30,Warrior,Excels at long-range damage with various types of arrows.
+134,Healer,Offers both damage and support through a variety of spells.
+181,Rogue,Excels at long-range damage with various types of arrows.
+199,Mage,Offers both damage and support through a variety of spells.
+257,Healer,"Skilled in stealth and quick, deadly attacks."
+94,Archer,Focuses on healing and buffing teammates.
+162,Summoner,Focuses on healing and buffing teammates.
+202,Summoner,Offers both damage and support through a variety of spells.
+239,Rogue,"Skilled in stealth and quick, deadly attacks."
+10,Mage,Excels at long-range damage with various types of arrows.
+117,Mage,Specializes in tanking damage and close combat.
+60,Archer,Summons minions to aid in combat.
+236,Warrior,Excels at long-range damage with various types of arrows.
+43,Warrior,Offers both damage and support through a variety of spells.
+179,Archer,"Skilled in stealth and quick, deadly attacks."
+233,Warrior,Summons minions to aid in combat.
+157,Rogue,Excels at long-range damage with various types of arrows.
+7,Healer,Summons minions to aid in combat.
+32,Mage,Focuses on healing and buffing teammates.
+286,Mage,"Skilled in stealth and quick, deadly attacks."
+25,Archer,Offers both damage and support through a variety of spells.
+104,Archer,Specializes in tanking damage and close combat.
+231,Healer,"Skilled in stealth and quick, deadly attacks."
+66,Warrior,Specializes in tanking damage and close combat.
+264,Healer,Offers both damage and support through a variety of spells.
+171,Archer,Summons minions to aid in combat.
+136,Summoner,Summons minions to aid in combat.
+191,Rogue,Offers both damage and support through a variety of spells.
+116,Healer,"Skilled in stealth and quick, deadly attacks."
+222,Summoner,"Skilled in stealth and quick, deadly attacks."
+310,Rogue,Summons minions to aid in combat.
+64,Rogue,Summons minions to aid in combat.
+119,Summoner,Focuses on healing and buffing teammates.
+155,Healer,"Skilled in stealth and quick, deadly attacks."
+247,Archer,Excels at long-range damage with various types of arrows.
+255,Archer,"Skilled in stealth and quick, deadly attacks."
+167,Mage,Excels at long-range damage with various types of arrows.
+16,Summoner,Focuses on healing and buffing teammates.
+159,Warrior,Specializes in tanking damage and close combat.
+228,Archer,Offers both damage and support through a variety of spells.
+78,Healer,Offers both damage and support through a variety of spells.
+242,Warrior,Summons minions to aid in combat.
+288,Rogue,Specializes in tanking damage and close combat.
+96,Rogue,Specializes in tanking damage and close combat.
+70,Archer,Summons minions to aid in combat.
+212,Healer,Offers both damage and support through a variety of spells.
+114,Rogue,Specializes in tanking damage and close combat.
+63,Summoner,Summons minions to aid in combat.
+138,Summoner,Excels at long-range damage with various types of arrows.
+13,Archer,Offers both damage and support through a variety of spells.
+185,Warrior,Offers both damage and support through a variety of spells.
+107,Archer,Summons minions to aid in combat.
+244,Warrior,Excels at long-range damage with various types of arrows.
+205,Warrior,Focuses on healing and buffing teammates.
+40,Archer,Focuses on healing and buffing teammates.
+89,Mage,Offers both damage and support through a variety of spells.
+111,Summoner,Summons minions to aid in combat.
+130,Summoner,Specializes in tanking damage and close combat.
+35,Warrior,"Skilled in stealth and quick, deadly attacks."
+238,Warrior,Summons minions to aid in combat.
+313,Summoner,Summons minions to aid in combat.
+52,Healer,Offers both damage and support through a variety of spells.
+99,Summoner,Excels at long-range damage with various types of arrows.
+267,Warrior,Offers both damage and support through a variety of spells.
+249,Healer,Focuses on healing and buffing teammates.
+178,Warrior,Offers both damage and support through a variety of spells.
+3,Archer,Offers both damage and support through a variety of spells.
+55,Archer,Summons minions to aid in combat.
+213,Warrior,Summons minions to aid in combat.
+151,Rogue,Excels at long-range damage with various types of arrows.
+153,Healer,Excels at long-range damage with various types of arrows.
+120,Archer,"Skilled in stealth and quick, deadly attacks."
+45,Healer,Summons minions to aid in combat.
+308,Archer,"Skilled in stealth and quick, deadly attacks."
+252,Warrior,Summons minions to aid in combat.
+175,Archer,Focuses on healing and buffing teammates.
+145,Rogue,Offers both damage and support through a variety of spells.
+48,Mage,Summons minions to aid in combat.
+177,Archer,Summons minions to aid in combat.
+283,Healer,Focuses on healing and buffing teammates.
+141,Rogue,"Skilled in stealth and quick, deadly attacks."
+133,Rogue,Focuses on healing and buffing teammates.
+28,Summoner,Summons minions to aid in combat.
+83,Mage,Excels at long-range damage with various types of arrows.
+214,Warrior,"Skilled in stealth and quick, deadly attacks."
+86,Rogue,Focuses on healing and buffing teammates.
+193,Warrior,Excels at long-range damage with various types of arrows.
+148,Mage,"Skilled in stealth and quick, deadly attacks."
+92,Mage,Offers both damage and support through a variety of spells.
+98,Warrior,Summons minions to aid in combat.
+26,Summoner,Focuses on healing and buffing teammates.
+23,Summoner,Summons minions to aid in combat.
+133,Mage,Offers both damage and support through a variety of spells.
+145,Mage,Summons minions to aid in combat.
+94,Warrior,Focuses on healing and buffing teammates.
+64,Healer,Offers both damage and support through a variety of spells.
+116,Warrior,Excels at long-range damage with various types of arrows.
+122,Summoner,Offers both damage and support through a variety of spells.
+147,Healer,"Skilled in stealth and quick, deadly attacks."
+51,Summoner,Summons minions to aid in combat.
+99,Rogue,Focuses on healing and buffing teammates.
+22,Mage,Offers both damage and support through a variety of spells.
+127,Archer,Focuses on healing and buffing teammates.
+37,Archer,"Skilled in stealth and quick, deadly attacks."
+102,Mage,"Skilled in stealth and quick, deadly attacks."
+29,Archer,Summons minions to aid in combat.
+1,Summoner,"Skilled in stealth and quick, deadly attacks."
+21,Warrior,Offers both damage and support through a variety of spells.
+91,Healer,Focuses on healing and buffing teammates.
+43,Archer,Specializes in tanking damage and close combat.
+135,Summoner,Focuses on healing and buffing teammates.
+79,Healer,Offers both damage and support through a variety of spells.
+101,Rogue,Summons minions to aid in combat.
+6,Warrior,Summons minions to aid in combat.
+41,Healer,Summons minions to aid in combat.
+52,Mage,Offers both damage and support through a variety of spells.
+113,Warrior,Offers both damage and support through a variety of spells.
+88,Rogue,Specializes in tanking damage and close combat.
+58,Healer,Excels at long-range damage with various types of arrows.
+104,Warrior,Specializes in tanking damage and close combat.
+111,Rogue,Specializes in tanking damage and close combat.
+73,Archer,"Skilled in stealth and quick, deadly attacks."
+40,Summoner,Summons minions to aid in combat.
+85,Warrior,"Skilled in stealth and quick, deadly attacks."
+75,Warrior,"Skilled in stealth and quick, deadly attacks."
+118,Archer,Offers both damage and support through a variety of spells.
+124,Mage,Focuses on healing and buffing teammates.
+121,Healer,Summons minions to aid in combat.
+44,Mage,Excels at long-range damage with various types of arrows.
+13,Archer,Specializes in tanking damage and close combat.
+67,Summoner,Excels at long-range damage with various types of arrows.
+82,Healer,Offers both damage and support through a variety of spells.
+60,Mage,Excels at long-range damage with various types of arrows.
+19,Warrior,Summons minions to aid in combat.
+16,Warrior,Specializes in tanking damage and close combat.
+34,Mage,Specializes in tanking damage and close combat.
+10,Healer,"Skilled in stealth and quick, deadly attacks."
+108,Rogue,Focuses on healing and buffing teammates.
+7,Mage,Summons minions to aid in combat.
+137,Warrior,"Skilled in stealth and quick, deadly attacks."
+59,Warrior,Excels at long-range damage with various types of arrows.
+55,Rogue,"Skilled in stealth and quick, deadly attacks."
+46,Summoner,Focuses on healing and buffing teammates.
+32,Warrior,Summons minions to aid in combat.
+65,Archer,Summons minions to aid in combat.
+100,Rogue,Focuses on healing and buffing teammates.
+61,Archer,Offers both damage and support through a variety of spells.
+106,Mage,"Skilled in stealth and quick, deadly attacks."
+70,Archer,Focuses on healing and buffing teammates.
+25,Warrior,Excels at long-range damage with various types of arrows.
+3,Mage,Summons minions to aid in combat.
+56,Summoner,Focuses on healing and buffing teammates.
+76,Warrior,Excels at long-range damage with various types of arrows.
+148,Archer,"Skilled in stealth and quick, deadly attacks."
+130,Rogue,"Skilled in stealth and quick, deadly attacks."
+45,Mage,Excels at long-range damage with various types of arrows.
+17,Summoner,Specializes in tanking damage and close combat.
+95,Healer,Offers both damage and support through a variety of spells.
+12,Rogue,"Skilled in stealth and quick, deadly attacks."
+144,Rogue,Specializes in tanking damage and close combat.
+142,Archer,Specializes in tanking damage and close combat.
+139,Summoner,Offers both damage and support through a variety of spells.
+136,Rogue,Summons minions to aid in combat.
+48,Summoner,Offers both damage and support through a variety of spells.
+12,Summoner,Summons minions to aid in combat.
+66,Healer,"Skilled in stealth and quick, deadly attacks."
+9,Archer,Offers both damage and support through a variety of spells.
+74,Healer,Focuses on healing and buffing teammates.
+24,Healer,"Skilled in stealth and quick, deadly attacks."
+139,Archer,Summons minions to aid in combat.
+35,Warrior,Focuses on healing and buffing teammates.
+157,Archer,Specializes in tanking damage and close combat.
+148,Healer,Excels at long-range damage with various types of arrows.
+6,Archer,Excels at long-range damage with various types of arrows.
+116,Mage,Summons minions to aid in combat.
+107,Rogue,Excels at long-range damage with various types of arrows.
+36,Warrior,Focuses on healing and buffing teammates.
+21,Rogue,Focuses on healing and buffing teammates.
+22,Archer,"Skilled in stealth and quick, deadly attacks."
+152,Mage,Excels at long-range damage with various types of arrows.
+129,Healer,"Skilled in stealth and quick, deadly attacks."
+4,Archer,Offers both damage and support through a variety of spells.
+88,Archer,"Skilled in stealth and quick, deadly attacks."
+50,Mage,Summons minions to aid in combat.
+80,Warrior,Summons minions to aid in combat.
+84,Summoner,"Skilled in stealth and quick, deadly attacks."
+124,Archer,Excels at long-range damage with various types of arrows.
+113,Rogue,Excels at long-range damage with various types of arrows.
+119,Warrior,Summons minions to aid in combat.
+16,Rogue,Excels at long-range damage with various types of arrows.
+138,Mage,Focuses on healing and buffing teammates.
+44,Mage,Focuses on healing and buffing teammates.
+64,Rogue,"Skilled in stealth and quick, deadly attacks."
+145,Rogue,Summons minions to aid in combat.
+69,Warrior,"Skilled in stealth and quick, deadly attacks."
+131,Warrior,Focuses on healing and buffing teammates.
+28,Archer,Offers both damage and support through a variety of spells.
+97,Summoner,Focuses on healing and buffing teammates.
+155,Summoner,Summons minions to aid in combat.
+39,Mage,Specializes in tanking damage and close combat.
+55,Rogue,Offers both damage and support through a variety of spells.
+95,Summoner,"Skilled in stealth and quick, deadly attacks."
+18,Archer,Offers both damage and support through a variety of spells.
+120,Mage,Summons minions to aid in combat.
+123,Warrior,Offers both damage and support through a variety of spells.
+87,Mage,Summons minions to aid in combat.
+164,Healer,Summons minions to aid in combat.
+93,Healer,Summons minions to aid in combat.
+58,Warrior,Excels at long-range damage with various types of arrows.
+151,Rogue,Excels at long-range damage with various types of arrows.
+142,Healer,Focuses on healing and buffing teammates.
+112,Rogue,"Skilled in stealth and quick, deadly attacks."
+96,Healer,Excels at long-range damage with various types of arrows.
+159,Archer,Specializes in tanking damage and close combat.
+136,Warrior,Excels at long-range damage with various types of arrows.
+158,Summoner,Excels at long-range damage with various types of arrows.
+110,Rogue,"Skilled in stealth and quick, deadly attacks."
+102,Summoner,Offers both damage and support through a variety of spells.
+115,Warrior,"Skilled in stealth and quick, deadly attacks."
+2,Mage,Summons minions to aid in combat.
+89,Archer,"Skilled in stealth and quick, deadly attacks."
+41,Summoner,"Skilled in stealth and quick, deadly attacks."
+53,Warrior,Focuses on healing and buffing teammates.
+72,Warrior,Specializes in tanking damage and close combat.
+61,Summoner,Specializes in tanking damage and close combat.
+163,Healer,Specializes in tanking damage and close combat.
+57,Rogue,Summons minions to aid in combat.
+15,Summoner,Offers both damage and support through a variety of spells.
+162,Healer,Offers both damage and support through a variety of spells.
+32,Rogue,Excels at long-range damage with various types of arrows.
+127,Mage,Summons minions to aid in combat.
+59,Archer,Excels at long-range damage with various types of arrows.
+91,Healer,Focuses on healing and buffing teammates.
+48,Rogue,Offers both damage and support through a variety of spells.
+26,Mage,Excels at long-range damage with various types of arrows.
+47,Archer,Summons minions to aid in combat.
+81,Archer,Specializes in tanking damage and close combat.
+30,Rogue,Excels at long-range damage with various types of arrows.
+104,Healer,Summons minions to aid in combat.
+77,Mage,"Skilled in stealth and quick, deadly attacks."
+99,Healer,"Skilled in stealth and quick, deadly attacks."
+134,Rogue,"Skilled in stealth and quick, deadly attacks."
+54,Summoner,Specializes in tanking damage and close combat.
+128,Summoner,Summons minions to aid in combat.
+69,Mage,Summons minions to aid in combat.
+190,Archer,Excels at long-range damage with various types of arrows.
+155,Warrior,"Skilled in stealth and quick, deadly attacks."
+209,Healer,Offers both damage and support through a variety of spells.
+243,Rogue,Offers both damage and support through a variety of spells.
+237,Warrior,Specializes in tanking damage and close combat.
+286,Healer,Excels at long-range damage with various types of arrows.
+204,Archer,Summons minions to aid in combat.
+70,Summoner,Excels at long-range damage with various types of arrows.
+19,Warrior,Focuses on healing and buffing teammates.
+143,Summoner,Offers both damage and support through a variety of spells.
+40,Mage,"Skilled in stealth and quick, deadly attacks."
+260,Rogue,"Skilled in stealth and quick, deadly attacks."
+92,Rogue,Offers both damage and support through a variety of spells.
+51,Warrior,Focuses on healing and buffing teammates.
+297,Rogue,Focuses on healing and buffing teammates.
+89,Warrior,Focuses on healing and buffing teammates.
+316,Warrior,Focuses on healing and buffing teammates.
+100,Mage,Offers both damage and support through a variety of spells.
+18,Mage,Specializes in tanking damage and close combat.
+333,Healer,Offers both damage and support through a variety of spells.
+240,Summoner,"Skilled in stealth and quick, deadly attacks."
+106,Warrior,Summons minions to aid in combat.
+151,Warrior,Focuses on healing and buffing teammates.
+186,Warrior,Offers both damage and support through a variety of spells.
+5,Mage,Specializes in tanking damage and close combat.
+65,Healer,Summons minions to aid in combat.
+104,Archer,Offers both damage and support through a variety of spells.
+27,Healer,Specializes in tanking damage and close combat.
+66,Rogue,Focuses on healing and buffing teammates.
+79,Healer,Specializes in tanking damage and close combat.
+175,Archer,Specializes in tanking damage and close combat.
+83,Rogue,Summons minions to aid in combat.
+136,Mage,Summons minions to aid in combat.
+42,Archer,Excels at long-range damage with various types of arrows.
+226,Warrior,"Skilled in stealth and quick, deadly attacks."
+329,Healer,Offers both damage and support through a variety of spells.
+153,Summoner,"Skilled in stealth and quick, deadly attacks."
+295,Warrior,"Skilled in stealth and quick, deadly attacks."
+97,Archer,Specializes in tanking damage and close combat.
+160,Warrior,Offers both damage and support through a variety of spells.
+326,Warrior,Summons minions to aid in combat.
+86,Healer,Excels at long-range damage with various types of arrows.
+145,Archer,Offers both damage and support through a variety of spells.
+57,Summoner,Focuses on healing and buffing teammates.
+166,Rogue,Offers both damage and support through a variety of spells.
+157,Healer,Focuses on healing and buffing teammates.
+2,Warrior,Offers both damage and support through a variety of spells.
+280,Mage,"Skilled in stealth and quick, deadly attacks."
+118,Healer,Offers both damage and support through a variety of spells.
+245,Rogue,Specializes in tanking damage and close combat.
+156,Archer,Focuses on healing and buffing teammates.
+262,Summoner,"Skilled in stealth and quick, deadly attacks."
+215,Healer,Excels at long-range damage with various types of arrows.
+133,Rogue,"Skilled in stealth and quick, deadly attacks."
+201,Summoner,Summons minions to aid in combat.
+7,Archer,"Skilled in stealth and quick, deadly attacks."
+256,Archer,Summons minions to aid in combat.
+304,Healer,Offers both damage and support through a variety of spells.
+321,Summoner,"Skilled in stealth and quick, deadly attacks."
+10,Summoner,Specializes in tanking damage and close combat.
+50,Archer,"Skilled in stealth and quick, deadly attacks."
+126,Archer,"Skilled in stealth and quick, deadly attacks."
+322,Rogue,Specializes in tanking damage and close combat.
+258,Healer,Specializes in tanking damage and close combat.
+223,Healer,Offers both damage and support through a variety of spells.
+318,Archer,Excels at long-range damage with various types of arrows.
+229,Warrior,Excels at long-range damage with various types of arrows.
+23,Archer,Offers both damage and support through a variety of spells.
+139,Warrior,Focuses on healing and buffing teammates.
+184,Healer,Offers both damage and support through a variety of spells.
+72,Warrior,Summons minions to aid in combat.
+16,Healer,Excels at long-range damage with various types of arrows.
+148,Healer,Offers both damage and support through a variety of spells.
+107,Mage,Offers both damage and support through a variety of spells.
+290,Healer,Offers both damage and support through a variety of spells.
+283,Archer,Excels at long-range damage with various types of arrows.
+103,Rogue,Specializes in tanking damage and close combat.
+198,Archer,Specializes in tanking damage and close combat.
+274,Warrior,"Skilled in stealth and quick, deadly attacks."
+54,Summoner,Offers both damage and support through a variety of spells.
+38,Archer,"Skilled in stealth and quick, deadly attacks."
+233,Healer,"Skilled in stealth and quick, deadly attacks."
+142,Summoner,Specializes in tanking damage and close combat.
+303,Warrior,Focuses on healing and buffing teammates.
+270,Warrior,Specializes in tanking damage and close combat.
+44,Mage,Excels at long-range damage with various types of arrows.
+119,Healer,Offers both damage and support through a variety of spells.
+60,Summoner,"Skilled in stealth and quick, deadly attacks."
+73,Mage,Specializes in tanking damage and close combat.
+35,Rogue,Offers both damage and support through a variety of spells.
+94,Mage,Focuses on healing and buffing teammates.
+181,Healer,"Skilled in stealth and quick, deadly attacks."
+48,Mage,Excels at long-range damage with various types of arrows.
+62,Warrior,Specializes in tanking damage and close combat.
+299,Healer,Focuses on healing and buffing teammates.
+225,Archer,Summons minions to aid in combat.
+210,Archer,"Skilled in stealth and quick, deadly attacks."
+266,Summoner,Offers both damage and support through a variety of spells.
+254,Warrior,Specializes in tanking damage and close combat.
+293,Healer,Focuses on healing and buffing teammates.
+265,Warrior,Excels at long-range damage with various types of arrows.
+46,Summoner,Excels at long-range damage with various types of arrows.
+80,Warrior,Summons minions to aid in combat.
+313,Rogue,Focuses on healing and buffing teammates.
+21,Summoner,Focuses on healing and buffing teammates.
+331,Archer,"Skilled in stealth and quick, deadly attacks."
+206,Rogue,Offers both damage and support through a variety of spells.
+82,Archer,Specializes in tanking damage and close combat.
+187,Mage,Offers both damage and support through a variety of spells.
+324,Rogue,Focuses on healing and buffing teammates.
+178,Healer,Specializes in tanking damage and close combat.
+207,Healer,Excels at long-range damage with various types of arrows.
+122,Archer,Summons minions to aid in combat.
+310,Healer,Offers both damage and support through a variety of spells.
+129,Warrior,Offers both damage and support through a variety of spells.
+231,Summoner,Summons minions to aid in combat.
+230,Mage,Offers both damage and support through a variety of spells.
+271,Mage,Offers both damage and support through a variety of spells.
+189,Summoner,Excels at long-range damage with various types of arrows.
+132,Warrior,Offers both damage and support through a variety of spells.
+332,Rogue,Offers both damage and support through a variety of spells.
+232,Mage,Summons minions to aid in combat.
+220,Summoner,Summons minions to aid in combat.
+277,Healer,Specializes in tanking damage and close combat.
+99,Warrior,Offers both damage and support through a variety of spells.
+251,Rogue,Specializes in tanking damage and close combat.
+163,Healer,Offers both damage and support through a variety of spells.
+244,Healer,Offers both damage and support through a variety of spells.
+74,Summoner,Specializes in tanking damage and close combat.
+248,Warrior,Specializes in tanking damage and close combat.
+113,Mage,Specializes in tanking damage and close combat.
+288,Warrior,Excels at long-range damage with various types of arrows.
+24,Summoner,Offers both damage and support through a variety of spells.
+137,Rogue,Excels at long-range damage with various types of arrows.
+276,Healer,Specializes in tanking damage and close combat.
+174,Healer,Summons minions to aid in combat.
+193,Summoner,Specializes in tanking damage and close combat.
+110,Warrior,Summons minions to aid in combat.
+32,Archer,"Skilled in stealth and quick, deadly attacks."
+218,Mage,Offers both damage and support through a variety of spells.
+197,Summoner,Excels at long-range damage with various types of arrows.
+302,Rogue,Summons minions to aid in combat.
+315,Mage,Specializes in tanking damage and close combat.
+169,Mage,Summons minions to aid in combat.
+307,Healer,Focuses on healing and buffing teammates.
+125,Warrior,Summons minions to aid in combat.
+194,Archer,Specializes in tanking damage and close combat.
+116,Warrior,Focuses on healing and buffing teammates.
+269,Warrior,"Skilled in stealth and quick, deadly attacks."
+172,Summoner,Summons minions to aid in combat.
+30,Mage,Offers both damage and support through a variety of spells.
+13,Summoner,Focuses on healing and buffing teammates.
+63,Summoner,Specializes in tanking damage and close combat.
+213,Healer,Focuses on healing and buffing teammates.
+249,Summoner,Focuses on healing and buffing teammates.
+76,Rogue,Offers both damage and support through a variety of spells.
+236,Rogue,Offers both damage and support through a variety of spells.
+173,Healer,Specializes in tanking damage and close combat.
+46,Rogue,Specializes in tanking damage and close combat.
+77,Archer,"Skilled in stealth and quick, deadly attacks."
+31,Summoner,"Skilled in stealth and quick, deadly attacks."
+105,Healer,Offers both damage and support through a variety of spells.
+17,Rogue,Specializes in tanking damage and close combat.
+56,Summoner,Excels at long-range damage with various types of arrows.
+99,Warrior,Specializes in tanking damage and close combat.
+9,Archer,Specializes in tanking damage and close combat.
+90,Warrior,Specializes in tanking damage and close combat.
+27,Archer,Summons minions to aid in combat.
+60,Mage,"Skilled in stealth and quick, deadly attacks."
+22,Warrior,Excels at long-range damage with various types of arrows.
+28,Summoner,Focuses on healing and buffing teammates.
+50,Archer,Offers both damage and support through a variety of spells.
+48,Warrior,Summons minions to aid in combat.
+19,Healer,Focuses on healing and buffing teammates.
+106,Mage,Focuses on healing and buffing teammates.
+20,Rogue,Specializes in tanking damage and close combat.
+95,Archer,Specializes in tanking damage and close combat.
+75,Healer,"Skilled in stealth and quick, deadly attacks."
+97,Summoner,Focuses on healing and buffing teammates.
+81,Healer,Specializes in tanking damage and close combat.
+15,Healer,Summons minions to aid in combat.
+6,Healer,Excels at long-range damage with various types of arrows.
+43,Rogue,Focuses on healing and buffing teammates.
+86,Warrior,"Skilled in stealth and quick, deadly attacks."
+53,Rogue,Focuses on healing and buffing teammates.
+92,Warrior,Summons minions to aid in combat.
+36,Rogue,Summons minions to aid in combat.
+57,Healer,Focuses on healing and buffing teammates.
+40,Archer,Offers both damage and support through a variety of spells.
+12,Warrior,Specializes in tanking damage and close combat.
+67,Mage,Specializes in tanking damage and close combat.
+73,Warrior,Offers both damage and support through a variety of spells.
+32,Healer,Focuses on healing and buffing teammates.
+64,Warrior,Summons minions to aid in combat.
+33,Healer,Summons minions to aid in combat.
+88,Mage,Focuses on healing and buffing teammates.
+1,Warrior,"Skilled in stealth and quick, deadly attacks."
+39,Summoner,Summons minions to aid in combat.
+104,Warrior,Focuses on healing and buffing teammates.
+68,Rogue,Specializes in tanking damage and close combat.
+79,Summoner,Summons minions to aid in combat.
+71,Mage,Offers both damage and support through a variety of spells.
+24,Warrior,Focuses on healing and buffing teammates.
+8,Archer,Specializes in tanking damage and close combat.
+54,Rogue,Specializes in tanking damage and close combat.
+74,Healer,"Skilled in stealth and quick, deadly attacks."
+62,Archer,Offers both damage and support through a variety of spells.
+4,Mage,Offers both damage and support through a variety of spells.
+102,Archer,Focuses on healing and buffing teammates.
+84,Healer,Excels at long-range damage with various types of arrows.

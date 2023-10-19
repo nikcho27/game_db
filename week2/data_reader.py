@@ -20,10 +20,23 @@ try:
     def load_table(table_name, data):
         columns = ', '.join(data.keys())
         values = ', '.join(f"'{value}'" for value in data.values())
-        insert_sql = f"INSERT INTO {table_name} ({columns}) VALUES ({values})"
-        
-        cursor.execute(insert_sql)
-        conn.commit()
+        insert_sql = f"INSERT IGNORE INTO {table_name} ({columns}) VALUES ({values})"
+        control = False
+        if table_name == 'character':
+            
+            #check that player exists
+            check_query = f"SELECT player_id FROM player WHERE id = '{data['player_id']}'"
+            cursor.execute(check_query)
+            if cursor.fetchone():
+                control = True
+            #check that kingodm exists
+            check_query = f"SELECT kingdom_id FROM kingdom WHERE id = '{data['kingdom_id']}'"
+            cursor.execute(check_query)
+            if cursor.fetchone():
+                control = True
+        if not control:
+            cursor.execute(insert_sql)
+            conn.commit()
 
     # Read and process the text file
     with open("generated_entities.txt", "r") as file:
@@ -37,7 +50,8 @@ try:
                     current_data = {}
                 current_table = line.split("---")[1].strip()  # Extract table name
             else:
-                parts = line.split("=")
+            
+                parts = line.replace("'", "''").split("=")
                 if len(parts) == 2:
                     key = parts[0].strip().strip('"')
                     value = parts[1].strip().strip('"')

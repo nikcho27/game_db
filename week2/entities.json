@@ -5,7 +5,7 @@
             "type": "dialogue",
             "fields": [
                 {
-                    "name": "id",
+                    "name": "question_id",
                     "datatype": "int",
                     "type": "primary_key"
                 },
@@ -122,6 +122,10 @@
                     "datatype": "string"
                 },
                 {
+                    "name": "experience_points",
+                    "datatype": "int"
+                },
+                {
                     "name": "gold",
                     "datatype": "int"
                 },
@@ -175,8 +179,7 @@
                 },
                 {
                     "name": "kingdom_id",
-                    "datatype": "int",
-                    "value_source": "kingdom_names"
+                    "datatype": "int"
                 },
                 {
                     "name": "n_members",
@@ -194,13 +197,9 @@
                     "type": "primary_key"
                 },
                 {
-                    "name": "name",
+                    "name": "type",
                     "datatype": "string",
                     "value_source": "event_names"
-                },
-                {
-                    "name": "time",
-                    "datatype": "int"
                 },
                 { 
                     "name": "location",
@@ -208,8 +207,7 @@
                 },
                 {
                     "name": "kingdom_id",
-                    "datatype": "int",
-                    "value_source": "kingdom_names"
+                    "datatype": "int"
                 }
             ]
         },
@@ -305,17 +303,17 @@
             "type": "item",
             "fields": [
                 {
-                    "name": "id",
+                    "name": "item_id",
                     "datatype": "int",
                     "type": "primary_key"
                 },
                 {
-                    "name": "item_name",
+                    "name": "name",
                     "datatype": "string",
                     "value_source": "item_names"
                 },
                 {
-                    "name": "item_type",
+                    "name": "type",
                     "datatype": "string",
                     "value_source": "item_types"
                 }
@@ -332,8 +330,7 @@
                 },
                 {
                     "name": "name",
-                    "datatype": "string",
-                    "value_source": "kingdom_names"
+                    "datatype": "string"
                 },
                 {
                     "name": "kingdom_description",
