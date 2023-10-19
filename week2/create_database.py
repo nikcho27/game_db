@@ -107,9 +107,9 @@ CREATE TABLE `character` (
 """
 CREATE TABLE `character_team` (
   `team_id` INT NOT NULL,
-  `character_id` INT UNIQUE NOT NULL,
-  `status` ENUM('Joined', 'Left', 'Captained') NOT NULL,
+  `character_id` INT NOT NULL,
   `timestamp` DATETIME DEFAULT CURRENT_TIMESTAMP,
+  `value` ENUM('Joined', 'Left', 'Captained') NOT NULL,
    PRIMARY KEY (`team_id`, `character_id`),
    FOREIGN KEY (`character_id`) REFERENCES `character`(`character_id`)
    ON DELETE CASCADE 
@@ -123,8 +123,8 @@ CREATE TABLE `character_team` (
 CREATE TABLE `npc_item` (
   `npc_id` INT NOT NULL,
   `item_id` INT NOT NULL,
-  `value` ENUM('Given', 'Taken') NOT NULL,
   `timestamp` DATETIME DEFAULT CURRENT_TIMESTAMP,
+  `value` ENUM('Given', 'Taken') NOT NULL,
   PRIMARY KEY (`npc_id`, `item_id`),  
   FOREIGN KEY (`npc_id`) REFERENCES `NPC`(`npc_id`)
   ON DELETE CASCADE 
@@ -136,10 +136,10 @@ CREATE TABLE `npc_item` (
 """,
 """
 CREATE TABLE `character_guild` (
-  `character_id` INT UNIQUE NOT NULL,
+  `character_id` INT NOT NULL,
   `guild_id` INT NOT NULL,
-  `status` ENUM('Joined', 'Left', 'Promoted') NOT NULL,
   `timestamp` DATETIME DEFAULT CURRENT_TIMESTAMP,
+  `value` ENUM('Joined', 'Left', 'Promoted') NOT NULL,
   PRIMARY KEY (`character_id`, `guild_id`),
   FOREIGN KEY (`character_id`) REFERENCES `character`(`character_id`)
   ON DELETE CASCADE 
@@ -221,11 +221,11 @@ CREATE TABLE `question` (
 );
 """,
 """
-CREATE TABLE `npc_question` (
+CREATE TABLE `npc_dialogue` (
   `npc_id` INT,
   `question_id` INT,
   `timestamp` DATETIME DEFAULT CURRENT_TIMESTAMP,
-  `value` ENUM('Started Conversation', 'Ended Conversation'), 
+  `value` ENUM('Started Conversation', 'Ended Conversation','Talked'), 
   PRIMARY KEY (`npc_id`, `question_id`),
   FOREIGN KEY (`npc_id`) REFERENCES `NPC`(`npc_id`)
   ON DELETE CASCADE 

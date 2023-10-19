@@ -88,6 +88,8 @@ event_names, _ = load_csv_to_list('data/event_names.csv', 'event_name')
 first_names, _ = load_csv_to_list('data/first_names.csv', 'first_name')
 last_names, _ = load_csv_to_list('data/last_names.csv', 'last_name')
 item_names, item_types = load_csv_to_list('data/item_names.csv', 'item_name')
+#I put this list here cuz it makes the chance of having valid character insertion way higher
+id_numbers = list(range(1, 101))
 
 # A dictionary with all value sources
 all_types = {
@@ -134,6 +136,7 @@ all_types = {
     ],
     "strenght_lvl" :["LOW", "MEDIUM", "HIGH"],
     "class_id" :[1, 2, 3, 4, 5, 6],
+    "id_numbers": id_numbers,
     "quest_type_difficulty" :["EASY", "MEDIUM", "HARD"]
 }
 
@@ -269,7 +272,7 @@ def generate_relation(entity1_type, entity2_type):
     value = None
     additional_entity_type = None  # Initialize to None
     
-    if entity1_type == "player" and entity2_type == "npc":
+    if entity1_type == "character" and entity2_type == "npc":
         value = random.choice(["Talked", "Fought", "Ignored", "Bought From", "Sold To"])
         if value == "Talked":
             additional_entity_type = "dialogue"
@@ -279,13 +282,13 @@ def generate_relation(entity1_type, entity2_type):
         value = random.choice(["Started Conversation", "Ended Conversation"])
     elif entity1_type == "npc" and entity2_type == "quest":
         value = random.choice(["Gave Quest", "Completed Quest"])
-    elif entity1_type == "item" and entity2_type == "npc":
+    elif entity1_type == "npc" and entity2_type == "item":
         value = random.choice(["Given", "Taken"])
-    elif entity1_type == "player" and entity2_type == "guild":
+    elif entity1_type == "character" and entity2_type == "guild":
         value = random.choice(["Joined", "Left", "Promoted"])
-    elif entity1_type == "player" and entity2_type == "team":
+    elif entity1_type == "character" and entity2_type == "team":
         value = random.choice(["Joined", "Left", "Captained"])
-    elif entity1_type == "player" and entity2_type == "enemy":
+    elif entity1_type == "character" and entity2_type == "enemy":
         value = random.choice(["Defeated", "Escaped", "Captured"])
     
     return value, additional_entity_type  # This will return the 'value' and 'additional_entity_type', which may be None
@@ -406,20 +409,20 @@ for _ in range(20000):
 
         if additional_sample:
             event = {
-                "type": f"{entity1_type}_with_{entity2_type}",
-                "timestamp": generate_random_timestamp(start_date, end_date).isoformat(),
+                "type": f"{entity1_type}_{entity2_type}",
                 "entity1": entity1_sample,
                 "entity2": entity2_sample,
+                "timestamp": generate_random_timestamp(start_date, end_date).isoformat(),
                 "value": value,
                 "additional_entity_type": additional_entity_type,  # Will be None if not applicable
                 "additional_entity": additional_sample  # If not relevant, this will be None
             }
         else:
             event = {
-                "type": f"{entity1_type}_with_{entity2_type}",
-                "timestamp": generate_random_timestamp(start_date, end_date).isoformat(),
+                "type": f"{entity1_type}_{entity2_type}",
                 "entity1": entity1_sample,
                 "entity2": entity2_sample,
+                "timestamp": generate_random_timestamp(start_date, end_date).isoformat(),
                 "value": value,
             }
         assert not entity1_sample is None, f"entity1_sample is None for entity1_type: {entity1_type}"
@@ -431,9 +434,9 @@ for _ in range(20000):
 with open('generated_events.txt', 'w') as f:
     for event in generated_events:
         f.write(f"[Event Type]: {event.get('type', 'N/A')}\n")
-        f.write(f"[Timestamp]: {event.get('timestamp', 'N/A')}\n")
         f.write(f"[Entity1]: {event.get('entity1', 'N/A')}\n")
         f.write(f"[Entity2]: {event.get('entity2', 'N/A')}\n")
+        f.write(f"[Timestamp]: {event.get('timestamp', 'N/A')}\n")
         f.write(f"[Value]: {event.get('value', 'N/A')}\n")
         additional_entity_type = event.get("additional_entity_type", "N/A")
         if additional_entity_type != "N/A":

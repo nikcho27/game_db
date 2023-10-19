@@ -1,639 +1,366 @@
 event_id,type,location,kingdom_id
-57,The Harvest of Souls,497.23,597
-27,Fireheart''s Revenge,714.87,765
-91,The Golem''s Lament,446.5,329
-69,Fall of the Shadow Titan,693.1,10
-102,The Scarlet Eclipse,708.26,22
-195,Titan''s Demise,841.65,898
-103,Dawn of the Void,840.68,934
-50,Blood Moon Rising,211.64,852
-165,The Cataclysm of Ironspire,995.03,671
-5,War of the Crystal Lake,794.04,480
-216,Dance of the Moonshadow,705.43,78
-179,The Golem''s Lament,408.83,541
-43,Assault on the Abyss,945.12,866
-65,Rage of the Warbeast,868.22,932
-105,The Golem''s Lament,721.48,438
-37,Fall of the Shadow Titan,293.67,726
-59,Darkness in Highfell,793.84,802
-115,Raven''s Eclipse,52.21,406
-149,Escape from Shadow Hold,659.56,45
-137,Wrath of the Earthmother,466.36,269
-192,Corruption of the Sacred Grove,71.22,863
-126,The Fall of Skyspire,343.41,301
-83,Timeless Enigma,683.0,186
-109,Titan''s Demise,810.27,553
-143,The Reckoning of Lighthaven,254.93,904
-77,Quest for the Eternal Flame,525.18,249
-61,Challenge of the Seven Seals,766.83,266
-12,Raven''s Eclipse,987.99,423
-58,Quest for the Lost Relics,973.24,55
-223,Carnival of the Forgotten,904.68,254
-133,The Celestial Convergence,174.05,713
-226,The Dragon''s Awakening,501.77,166
-212,Storm of the Dead,543.27,296
-209,Odyssey of the Stormcaller,681.64,150
-129,Invasion of the Frost Giants,516.81,417
-123,Escape from Shadow Hold,172.47,31
-198,Serpent''s Ascension,386.47,432
-206,The Cataclysm of Ironspire,688.24,716
-147,Darkness Over Whitestone,198.0,230
-208,Raven''s Eclipse,294.11,792
-7,Warsong''s End,944.95,122
-66,Wrath of the Earthmother,91.89,505
-28,Darkness in Highfell,243.11,735
-173,Crusade of the Sun Chalice,680.47,102
-87,Fall of the Shadow Titan,754.88,386
-130,Slaying of the Ice Queen,397.59,913
-182,Darkness Over Whitestone,869.47,855
-148,Festival of the Eternal Spring,956.39,636
-72,Wrath of the Earthmother,571.52,835
-112,Warsong''s End,230.26,249
-3,Darkness in Highfell,726.12,177
-187,Crusade of the Sun Chalice,658.45,436
-224,Feast of the Harvest Moon,321.22,212
-193,Quest for the Lost Relics,652.21,315
-169,Escape from Shadow Hold,207.13,933
-16,Serpent''s Ascension,180.56,704
-51,Dance of the Moonshadow,816.68,942
-97,Timeless Enigma,28.16,146
-218,The Gathering Storm,459.13,778
-134,Darkness in Highfell,555.63,745
-128,Serpent''s Ascension,407.22,263
-157,Storm of the Dead,751.47,683
-203,Storm of the Dead,388.7,833
-45,Cursed Souls'' Nightfall,706.43,242
-60,Vault of the Fallen Stars,289.5,314
-9,The Fall of Skyspire,794.99,154
-95,Odyssey of the Stormcaller,639.23,937
-171,Lost Horizon''s Discovery,606.1,405
-34,Wrath of the Earthmother,116.93,889
-222,Escape from Shadow Hold,852.61,625
-20,Oracle''s Prophetic Challenge,208.37,162
-73,Titan''s Demise,98.1,507
-93,Titan''s Demise,822.36,519
-190,Oracle''s Prophetic Challenge,10.72,142
-23,War of the Crystal Lake,288.77,498
-178,Cursed Souls'' Nightfall,406.49,235
-214,Quest for the Lost Relics,931.93,61
-99,The Celestial Convergence,572.73,253
-48,Haunting of the Crimson Keep,958.63,842
-138,Riddle of the Ancient Sphinx,622.78,40
-121,Haunting of the Crimson Keep,16.53,279
-81,Revolution of the Iron Fist,286.35,94
-229,Crusade of the Sun Chalice,221.07,841
-221,Spectral Masquerade,874.84,649
-24,The Dragon''s Awakening,151.83,766
-180,War of the Crystal Lake,298.33,581
-40,Lost Horizon''s Discovery,827.51,600
-176,Feast of the Harvest Moon,157.72,531
-86,Curse of the Phantom Queen,575.84,814
-15,Fall of the Shadow Titan,322.76,520
-6,Haunting of the Crimson Keep,831.32,558
-125,Wrath of the Earthmother,902.25,41
-140,Fall of the Shadow Titan,101.55,691
-185,Escape from Shadow Hold,741.04,646
-76,The Gatekeeper''s Fury,30.97,586
-166,Chronicle of the Sealed Gods,32.43,822
-118,Dance of the Moonshadow,603.33,391
-80,Trials of the Ghost King,643.52,112
-151,Cursed Souls'' Nightfall,186.86,645
-211,Lost Horizon''s Discovery,550.96,319
-111,Siege of Thunderpeak,895.48,970
-31,Dawn of the Void,116.97,240
-53,Fireheart''s Revenge,95.93,370
-154,Vault of the Fallen Stars,594.42,862
-189,Carnival of the Forgotten,747.47,950
-88,Warsong''s End,99.2,735
-163,Invasion of the Frost Giants,411.0,356
-191,Vault of the Fallen Stars,810.53,876
-84,Invasion of the Frost Giants,306.19,234
-107,Riddle of the Ancient Sphinx,682.24,102
-158,Slaying of the Ice Queen,250.57,212
-63,Trials of the Ghost King,177.97,388
-18,The Gatekeeper''s Fury,783.27,381
-55,Quest for the Lost Relics,712.78,520
-231,Blood Moon Rising,446.52,159
-200,Dance of the Moonshadow,56.12,428
-161,Corruption of the Sacred Grove,48.53,174
-145,Challenge of the Seven Seals,516.41,441
-162,Cursed Souls'' Nightfall,210.96,630
-194,Carnival of the Forgotten,482.77,788
-171,Challenge of the Seven Seals,190.11,494
-133,The Cataclysm of Ironspire,439.62,936
-271,The Reckoning of Lighthaven,207.38,71
-256,Chaos in the Windy Crag,138.02,602
-302,The Gatekeeper''s Fury,993.31,398
-309,Festival of Golden Leaves,603.66,998
-106,Battle of the Whispering Woods,468.14,604
-109,Quest for the Eternal Flame,598.6,324
-30,Lost Horizon''s Discovery,563.31,958
-226,Invasion of the Frost Giants,281.81,421
-242,Revolution of the Iron Fist,662.48,253
-63,Carnival of the Forgotten,59.31,421
-155,Escape from Shadow Hold,896.12,764
-126,Revolution of the Iron Fist,910.32,806
-93,The Reckoning of Lighthaven,614.46,840
-84,Darkness Over Whitestone,474.56,434
-3,Spectral Masquerade,726.39,89
-285,The Gathering Storm,866.66,167
-4,Haunting of the Crimson Keep,169.49,182
-188,Quest for the Eternal Flame,292.34,177
-203,Quest for the Eternal Flame,154.31,133
-157,Festival of the Eternal Spring,972.97,487
-185,Chronicle of the Sealed Gods,146.35,718
-231,Titan''s Demise,956.49,297
-118,Crusade of the Sun Chalice,91.56,591
-122,Dawn of the Void,793.14,356
-56,The Fall of Skyspire,530.88,120
-247,Cursed Souls'' Nightfall,984.38,390
-289,Temple of the Wicked Oracle,27.56,860
-12,Rage of the Warbeast,587.35,289
-131,Titan''s Demise,646.68,839
-160,The Gatekeeper''s Fury,496.63,170
-319,Storm of the Dead,576.76,238
-53,Invasion of the Frost Giants,704.96,272
-8,Timeless Enigma,129.64,942
-166,Quest for the Lost Relics,602.24,166
-124,Siege of Thunderpeak,439.35,642
-25,Chaos in the Windy Crag,974.56,681
-110,Escape from Shadow Hold,917.6,663
-269,Quest for the Lost Relics,893.07,597
-138,Challenge of the Seven Seals,489.97,715
-20,The Dragon''s Awakening,357.81,123
-141,Invasion of the Frost Giants,573.04,342
-88,Slaying of the Ice Queen,675.78,311
-96,Fireheart''s Revenge,225.72,979
-181,Valley of Forgotten Echoes,112.19,679
-113,Storm of the Dead,470.98,140
-254,Storm of the Dead,43.47,511
-174,Wrath of the Earthmother,567.21,771
-168,Temple of the Wicked Oracle,534.7,679
-91,Blood Moon Rising,661.13,526
-100,War of the Crystal Lake,717.02,117
-143,Corruption of the Sacred Grove,940.33,516
-273,Haunting of the Crimson Keep,565.56,18
-292,Slaying of the Ice Queen,49.97,925
-50,Dawn of the Void,83.51,24
-301,The Reckoning of Lighthaven,409.05,958
-41,Rage of the Warbeast,390.55,579
-281,Titan''s Demise,39.76,108
-296,Temple of the Wicked Oracle,106.55,767
-263,Lost Horizon''s Discovery,89.21,888
-311,Plague of the Dark Sands,451.58,842
-68,Invasion of the Frost Giants,9.24,165
-214,Festival of the Eternal Spring,766.44,191
-97,Crusade of the Sun Chalice,968.12,163
-22,Rage of the Warbeast,419.44,443
-304,Quest for the Eternal Flame,757.11,954
-129,Fall of the Shadow Titan,371.66,481
-59,Lost Horizon''s Discovery,42.58,127
-35,Raven''s Eclipse,970.27,946
-258,Lost Horizon''s Discovery,181.43,307
-15,The Cataclysm of Ironspire,657.49,968
-92,Dawn of the Void,621.31,345
-47,Chronicle of the Sealed Gods,39.79,597
-177,Curse of the Phantom Queen,650.54,760
-61,Vault of the Fallen Stars,593.21,1000
-150,Festival of Golden Leaves,605.56,675
-75,Riddle of the Ancient Sphinx,113.57,468
-164,The Gathering Storm,601.74,819
-217,Wrath of the Earthmother,289.18,714
-249,Wrath of the Earthmother,835.57,320
-327,Quest for the Lost Relics,2.16,52
-161,Chaos in the Windy Crag,909.48,589
-245,Odyssey of the Stormcaller,217.26,644
-78,The Golem''s Lament,958.86,632
-76,Invasion of the Frost Giants,742.77,635
-81,Curse of the Phantom Queen,936.22,319
-234,Cursed Souls'' Nightfall,371.64,857
-240,Haunting of the Crimson Keep,821.86,576
-77,Dance of the Moonshadow,309.21,315
-32,Blood Moon Rising,730.94,254
-222,Temple of the Wicked Oracle,86.52,255
-182,Revolution of the Iron Fist,715.74,377
-89,The Scarlet Eclipse,298.57,892
-189,The Scarlet Eclipse,660.24,115
-152,Revolution of the Iron Fist,54.5,599
-321,Blood Moon Rising,456.21,128
-145,Lost Horizon''s Discovery,411.65,192
-229,Titan''s Demise,932.5,371
-202,Revolution of the Iron Fist,829.74,463
-173,Warsong''s End,49.98,705
-192,Riddle of the Ancient Sphinx,133.53,883
-36,Wrath of the Earthmother,326.68,668
-260,Storm of the Dead,209.01,625
-266,Valley of Forgotten Echoes,428.41,839
-325,Rage of the Warbeast,954.21,445
-48,Assault on the Abyss,273.07,497
-198,Warsong''s End,307.87,891
-255,Timeless Enigma,108.36,904
-324,Darkness in Highfell,62.26,594
-45,Chaos in the Windy Crag,219.59,280
-200,The Golem''s Lament,246.3,212
-17,Escape from Shadow Hold,675.44,30
-307,The Reckoning of Lighthaven,468.4,259
-1,Dance of the Moonshadow,920.58,736
-69,Blood Moon Rising,819.29,20
-284,Battle of the Whispering Woods,10.39,188
-251,Quest for the Eternal Flame,967.47,228
-123,Slaying of the Ice Queen,100.66,117
-5,Siege of Thunderpeak,26.46,43
-72,The Scarlet Eclipse,668.79,100
-43,The Gathering Storm,125.17,677
-195,The Gathering Storm,865.15,530
-211,Carnival of the Forgotten,28.11,36
-279,Corruption of the Sacred Grove,621.36,799
-208,The Gatekeeper''s Fury,258.3,968
-235,Escape from Shadow Hold,489.24,149
-275,Invasion of the Frost Giants,746.61,750
-237,Chronicle of the Sealed Gods,742.52,144
-147,Vault of the Fallen Stars,803.78,642
-9,Corruption of the Sacred Grove,566.71,351
-219,Raven''s Eclipse,960.09,668
-317,Dance of the Moonshadow,500.24,691
-287,Riddle of the Ancient Sphinx,223.56,517
-103,Riddle of the Ancient Sphinx,190.75,827
-268,The Fall of Skyspire,961.1,150
-328,The Gathering Storm,928.65,247
-86,Spectral Masquerade,832.49,23
-206,Lost Horizon''s Discovery,469.81,891
-228,Odyssey of the Stormcaller,29.8,337
-136,Challenge of the Seven Seals,71.19,976
-326,Darkness in Highfell,971.4,476
-134,Fall of the Shadow Titan,833.23,627
-128,The Golem''s Lament,146.49,37
-300,The Fall of Skyspire,566.63,684
-31,Quest for the Eternal Flame,67.57,201
-65,War of the Crystal Lake,40.62,456
-320,Darkness in Highfell,115.68,292
-90,Crusade of the Sun Chalice,487.85,405
-276,Raven''s Eclipse,629.19,824
-121,Festival of Golden Leaves,23.06,156
-46,The Golem''s Lament,210.73,366
-224,Temple of the Wicked Oracle,687.59,482
-314,Invasion of the Frost Giants,114.51,901
-130,Spectral Masquerade,354.73,17
-277,The Harvest of Souls,503.32,907
-38,The Harvest of Souls,593.86,117
-259,The Gatekeeper''s Fury,735.53,504
-233,Festival of Golden Leaves,450.47,844
-299,Quest for the Lost Relics,763.79,275
-27,Haunting of the Crimson Keep,598.81,290
-115,Storm of the Dead,242.82,58
-179,Chronicle of the Sealed Gods,103.52,593
-62,Odyssey of the Stormcaller,14.91,420
-294,Odyssey of the Stormcaller,520.89,605
-278,Spectral Masquerade,1.71,552
-84,Vault of the Fallen Stars,802.37,735
-57,Titan''s Demise,710.82,464
-185,Vault of the Fallen Stars,792.13,262
-117,The Fall of Skyspire,687.9,436
-8,Oracle''s Prophetic Challenge,180.48,560
-209,Invasion of the Frost Giants,178.44,796
-91,Wrath of the Earthmother,566.96,969
-161,Blood Moon Rising,379.43,848
-160,Festival of the Eternal Spring,754.04,549
-96,Wrath of the Earthmother,710.23,449
-3,Cursed Souls'' Nightfall,104.66,913
-166,Valley of Forgotten Echoes,273.42,665
-177,Raven''s Eclipse,695.68,210
-47,Chaos in the Windy Crag,219.39,632
-93,Riddle of the Ancient Sphinx,289.25,376
-115,Invasion of the Frost Giants,533.67,239
-102,Blood Moon Rising,760.49,476
-121,Carnival of the Forgotten,931.01,4
-45,The Golem''s Lament,857.34,306
-187,Festival of Golden Leaves,944.44,342
-204,Corruption of the Sacred Grove,309.8,226
-49,The Dragon''s Awakening,268.56,916
-11,Battle of the Whispering Woods,181.88,754
-113,Valley of Forgotten Echoes,838.05,813
-203,Feast of the Harvest Moon,477.74,858
-89,Vault of the Fallen Stars,355.06,2
-110,Plague of the Dark Sands,980.88,258
-171,Escape from Shadow Hold,873.84,588
-54,Darkness Over Whitestone,941.08,171
-40,Darkness in Highfell,246.54,652
-32,Warsong''s End,73.04,530
-60,Carnival of the Forgotten,978.67,807
-70,Oracle''s Prophetic Challenge,119.94,324
-65,Valley of Forgotten Echoes,998.56,228
-144,Serpent''s Ascension,529.0,300
-169,Revolution of the Iron Fist,969.69,726
-164,Dawn of the Void,497.22,898
-146,Odyssey of the Stormcaller,54.8,160
-14,Slaying of the Ice Queen,85.47,628
-149,Cursed Souls'' Nightfall,60.8,272
-72,Assault on the Abyss,499.54,656
-156,Quest for the Eternal Flame,471.0,592
-80,Rage of the Warbeast,683.28,254
-175,Blood Moon Rising,853.15,706
-192,Darkness Over Whitestone,139.23,288
-188,Lost Horizon''s Discovery,32.28,516
-26,The Cataclysm of Ironspire,345.0,992
-7,The Celestial Convergence,84.13,547
-42,The Golem''s Lament,404.93,432
-101,Festival of Golden Leaves,931.31,651
-75,The Fall of Skyspire,861.75,984
-88,Titan''s Demise,785.89,212
-132,Dawn of the Void,230.16,622
-123,Fall of the Shadow Titan,85.67,935
-126,Battle of the Whispering Woods,958.88,998
-134,Invasion of the Frost Giants,47.37,44
-63,Warsong''s End,695.48,970
-28,Chaos in the Windy Crag,224.36,43
-180,Cursed Souls'' Nightfall,412.89,382
-172,Carnival of the Forgotten,202.49,184
-92,Slaying of the Ice Queen,339.5,583
-138,Rage of the Warbeast,356.18,651
-206,The Harvest of Souls,313.44,25
-118,Haunting of the Crimson Keep,943.77,82
-105,The Harvest of Souls,815.19,503
-128,Quest for the Eternal Flame,570.03,303
-135,Blood Moon Rising,53.24,749
-18,Revolution of the Iron Fist,797.58,241
-140,Dance of the Moonshadow,302.12,560
-197,Blood Moon Rising,344.7,456
-52,Titan''s Demise,174.83,912
-78,The Celestial Convergence,608.34,403
-107,Fall of the Shadow Titan,339.29,733
-153,The Gatekeeper''s Fury,281.36,272
-207,The Golem''s Lament,935.65,390
-189,Titan''s Demise,835.96,472
-200,Haunting of the Crimson Keep,167.67,940
-141,The Golem''s Lament,253.67,286
-99,Temple of the Wicked Oracle,916.09,520
-20,Storm of the Dead,379.6,763
-38,Warsong''s End,271.94,260
-23,Dance of the Moonshadow,392.79,542
-35,Invasion of the Frost Giants,639.19,497
-46,Curse of the Phantom Queen,171.43,657
-41,Storm of the Dead,393.41,739
-51,Escape from Shadow Hold,109.69,309
-15,Lost Horizon''s Discovery,972.65,955
-81,Rage of the Warbeast,82.85,846
-190,The Dragon''s Awakening,809.59,938
-142,Serpent''s Ascension,516.09,677
-4,Cursed Souls'' Nightfall,640.22,728
-85,Trials of the Ghost King,137.72,738
-67,Dance of the Moonshadow,811.0,760
-131,Rage of the Warbeast,417.0,842
-162,Valley of Forgotten Echoes,868.67,786
-195,Chaos in the Windy Crag,901.56,62
-182,Haunting of the Crimson Keep,439.56,782
-176,Fall of the Shadow Titan,485.46,673
-151,Trials of the Ghost King,802.36,770
-29,Curse of the Phantom Queen,230.63,914
-5,Haunting of the Crimson Keep,736.98,580
-69,Corruption of the Sacred Grove,830.66,916
-157,Lost Horizon''s Discovery,207.64,539
-194,Invasion of the Frost Giants,895.29,4
-187,Revolution of the Iron Fist,961.95,955
-81,Darkness in Highfell,238.14,977
-143,Odyssey of the Stormcaller,779.63,288
-221,Riddle of the Ancient Sphinx,210.27,260
-218,The Celestial Convergence,581.66,775
-32,Chaos in the Windy Crag,842.22,160
-67,Raven''s Eclipse,906.63,342
-74,Valley of Forgotten Echoes,550.95,792
-84,The Dragon''s Awakening,218.92,777
-169,Riddle of the Ancient Sphinx,963.81,729
-41,Curse of the Phantom Queen,601.06,106
-58,Festival of the Eternal Spring,907.83,631
-189,Riddle of the Ancient Sphinx,995.98,5
-223,Darkness in Highfell,57.62,186
-96,The Celestial Convergence,406.72,791
-60,Haunting of the Crimson Keep,989.19,739
-171,Slaying of the Ice Queen,916.61,55
-46,Spectral Masquerade,96.47,476
-181,The Reckoning of Lighthaven,222.95,747
-88,Haunting of the Crimson Keep,67.96,565
-177,Quest for the Lost Relics,234.89,292
-108,Siege of Thunderpeak,519.34,720
-71,Serpent''s Ascension,979.98,702
-63,Escape from Shadow Hold,959.24,205
-192,The Cataclysm of Ironspire,162.12,83
-135,The Golem''s Lament,605.66,621
-126,Chronicle of the Sealed Gods,638.43,684
-29,Haunting of the Crimson Keep,485.39,244
-167,The Harvest of Souls,500.14,890
-53,Spectral Masquerade,16.77,706
-70,Crusade of the Sun Chalice,624.12,12
-132,Trials of the Ghost King,683.92,541
-185,Quest for the Eternal Flame,704.25,809
-195,Valley of Forgotten Echoes,297.76,941
-140,Timeless Enigma,45.3,71
-33,Temple of the Wicked Oracle,186.48,606
-133,Assault on the Abyss,867.64,268
-119,Siege of Thunderpeak,387.24,708
-78,Carnival of the Forgotten,765.31,973
-44,Lost Horizon''s Discovery,767.88,227
-164,Feast of the Harvest Moon,4.76,469
-103,Serpent''s Ascension,236.59,237
-217,Rage of the Warbeast,981.98,181
-148,Spectral Masquerade,167.18,566
-198,Battle of the Whispering Woods,241.88,98
-11,The Harvest of Souls,622.27,710
-42,The Scarlet Eclipse,118.57,642
-16,The Dragon''s Awakening,323.41,929
-19,The Reckoning of Lighthaven,90.96,653
-208,Titan''s Demise,584.72,882
-8,The Fall of Skyspire,953.86,646
-173,Timeless Enigma,875.49,500
-190,Feast of the Harvest Moon,51.75,356
-214,Feast of the Harvest Moon,812.43,841
-2,Invasion of the Frost Giants,472.07,916
-14,Riddle of the Ancient Sphinx,388.38,264
-196,Valley of Forgotten Echoes,659.97,902
-102,Timeless Enigma,148.93,279
-152,Chronicle of the Sealed Gods,996.57,368
-161,Corruption of the Sacred Grove,518.08,896
-43,Fall of the Shadow Titan,521.7,915
-121,The Gatekeeper''s Fury,2.49,187
-224,Valley of Forgotten Echoes,824.47,541
-144,Serpent''s Ascension,63.13,765
-38,Temple of the Wicked Oracle,448.12,857
-138,Challenge of the Seven Seals,229.53,863
-56,Escape from Shadow Hold,612.49,563
-136,The Gathering Storm,502.52,984
-107,Slaying of the Ice Queen,879.94,284
-50,Battle of the Whispering Woods,333.18,487
-36,Darkness Over Whitestone,641.1,975
-150,The Harvest of Souls,595.78,666
-155,The Dragon''s Awakening,826.55,201
-90,Temple of the Wicked Oracle,346.75,46
-24,Serpent''s Ascension,305.79,234
-180,Quest for the Lost Relics,980.92,265
-21,Battle of the Whispering Woods,832.71,31
-158,The Cataclysm of Ironspire,740.63,2
-114,Battle of the Whispering Woods,847.52,666
-34,Crusade of the Sun Chalice,374.36,811
-110,Fireheart''s Revenge,953.3,674
-201,The Cataclysm of Ironspire,340.91,369
-205,The Fall of Skyspire,435.18,295
-209,Raven''s Eclipse,267.33,177
-193,The Dragon''s Awakening,310.47,680
-146,The Dragon''s Awakening,754.19,544
-165,Vault of the Fallen Stars,815.31,761
-109,Darkness Over Whitestone,664.49,62
-65,Timeless Enigma,303.69,675
-47,Darkness in Highfell,301.75,473
-127,The Golem''s Lament,833.02,622
-212,Vault of the Fallen Stars,683.47,441
-86,Wrath of the Earthmother,573.21,244
-129,Haunting of the Crimson Keep,473.51,900
-123,Curse of the Phantom Queen,996.49,946
-117,Feast of the Harvest Moon,611.52,449
-3,Rage of the Warbeast,396.32,961
-141,Darkness Over Whitestone,83.36,901
-149,Corruption of the Sacred Grove,270.33,414
-97,Odyssey of the Stormcaller,103.64,775
-93,Titan''s Demise,666.11,369
-49,Festival of Golden Leaves,44.4,994
-76,Revolution of the Iron Fist,702.13,231
-153,Quest for the Lost Relics,424.18,715
-5,Timeless Enigma,503.84,200
-26,Challenge of the Seven Seals,657.05,60
-111,Fireheart''s Revenge,671.02,907
-182,Quest for the Lost Relics,594.36,825
-188,Quest for the Eternal Flame,998.41,113
-12,Festival of the Eternal Spring,661.56,513
-13,Wrath of the Earthmother,158.19,403
-99,Festival of the Eternal Spring,96.12,193
-203,Riddle of the Ancient Sphinx,762.0,782
-174,Rage of the Warbeast,847.64,132
-106,Siege of Thunderpeak,173.42,563
-22,War of the Crystal Lake,448.62,339
-92,Quest for the Eternal Flame,685.99,245
-2,Dance of the Moonshadow,240.3,516
-18,Carnival of the Forgotten,362.75,845
-160,Festival of the Eternal Spring,780.48,976
-51,Wrath of the Earthmother,664.74,114
-137,Valley of Forgotten Echoes,155.98,944
-77,The Fall of Skyspire,467.83,290
-246,Raven''s Eclipse,227.92,159
-71,Vault of the Fallen Stars,569.67,778
-183,Darkness Over Whitestone,997.67,520
-86,Assault on the Abyss,713.83,511
-207,Oracle''s Prophetic Challenge,215.73,886
-1,Slaying of the Ice Queen,88.79,935
-56,Carnival of the Forgotten,961.59,301
-143,Riddle of the Ancient Sphinx,993.82,872
-15,Timeless Enigma,91.47,780
-114,Corruption of the Sacred Grove,941.83,730
-145,Riddle of the Ancient Sphinx,448.79,393
-224,Spectral Masquerade,847.16,132
-132,Crusade of the Sun Chalice,710.52,826
-162,Cursed Souls'' Nightfall,927.96,932
-12,Valley of Forgotten Echoes,244.56,403
-47,Quest for the Lost Relics,185.71,934
-102,Quest for the Lost Relics,435.9,561
-210,Titan''s Demise,911.88,841
-107,Riddle of the Ancient Sphinx,459.07,346
-173,The Celestial Convergence,415.03,338
-256,Escape from Shadow Hold,701.67,198
-95,Dance of the Moonshadow,567.23,879
-157,Oracle''s Prophetic Challenge,721.32,461
-52,Battle of the Whispering Woods,574.2,316
-17,Battle of the Whispering Woods,494.8,526
-122,Dance of the Moonshadow,740.38,177
-194,Storm of the Dead,636.16,157
-234,Quest for the Lost Relics,892.26,604
-178,Escape from Shadow Hold,525.48,700
-236,Chronicle of the Sealed Gods,93.97,807
-222,Lost Horizon''s Discovery,652.97,35
-227,Plague of the Dark Sands,84.0,499
-152,The Scarlet Eclipse,356.5,251
-125,Fireheart''s Revenge,839.02,140
-23,Oracle''s Prophetic Challenge,449.61,53
-61,Battle of the Whispering Woods,967.04,542
-31,Temple of the Wicked Oracle,204.82,945
-19,Escape from Shadow Hold,807.78,839
-126,Quest for the Eternal Flame,462.4,239
-37,Rage of the Warbeast,542.7,470
-144,Serpent''s Ascension,38.31,679
-101,Assault on the Abyss,631.9,241
-68,Challenge of the Seven Seals,327.46,496
-204,The Fall of Skyspire,154.37,762
-80,Plague of the Dark Sands,988.54,144
-99,Wrath of the Earthmother,901.44,736
-220,Darkness Over Whitestone,957.94,293
-193,Raven''s Eclipse,23.64,598
-5,Vault of the Fallen Stars,625.16,662
-65,The Celestial Convergence,270.93,865
-38,Spectral Masquerade,471.96,47
-7,Rage of the Warbeast,789.68,391
-191,Dance of the Moonshadow,401.62,803
-139,Festival of the Eternal Spring,475.49,799
-116,The Harvest of Souls,983.53,346
-150,Chaos in the Windy Crag,483.06,30
-140,Cursed Souls'' Nightfall,340.66,130
-242,Cursed Souls'' Nightfall,156.77,220
-149,Cursed Souls'' Nightfall,269.25,508
-53,Oracle''s Prophetic Challenge,461.88,700
-123,Storm of the Dead,583.42,719
-197,Crusade of the Sun Chalice,371.02,912
-75,Rage of the Warbeast,496.64,168
-257,Curse of the Phantom Queen,12.36,712
-185,Quest for the Eternal Flame,642.43,655
-34,Vault of the Fallen Stars,248.93,518
-230,The Scarlet Eclipse,243.13,778
-192,Challenge of the Seven Seals,223.2,782
-21,The Fall of Skyspire,514.3,688
-43,Warsong''s End,593.93,210
-110,The Golem''s Lament,586.36,184
-129,Feast of the Harvest Moon,938.25,438
-206,War of the Crystal Lake,149.63,27
-112,Chronicle of the Sealed Gods,48.15,601
-73,Battle of the Whispering Woods,165.77,298
-63,Lost Horizon''s Discovery,956.04,601
-208,Festival of the Eternal Spring,915.72,528
-46,Chronicle of the Sealed Gods,788.81,717
-136,Dawn of the Void,81.14,689
-25,Darkness in Highfell,563.18,247
-180,Blood Moon Rising,669.11,682
-167,Curse of the Phantom Queen,209.13,716
-249,Storm of the Dead,462.71,145
-175,Siege of Thunderpeak,863.43,35
-138,Curse of the Phantom Queen,97.87,606
-218,The Harvest of Souls,339.71,814
-105,Battle of the Whispering Woods,512.03,216
-135,Vault of the Fallen Stars,785.76,368
-119,Odyssey of the Stormcaller,810.75,82
-40,Quest for the Lost Relics,601.41,240
-10,Darkness in Highfell,603.06,328
-8,Darkness Over Whitestone,364.55,271
-182,Chronicle of the Sealed Gods,708.7,840
-211,Chaos in the Windy Crag,539.16,233
-251,The Harvest of Souls,709.72,818
-188,Raven''s Eclipse,849.34,481
-174,Festival of Golden Leaves,532.0,196
-250,Blood Moon Rising,556.44,422
-49,Crusade of the Sun Chalice,855.11,958
-83,Oracle''s Prophetic Challenge,296.35,290
-96,Cursed Souls'' Nightfall,893.67,678
-59,Riddle of the Ancient Sphinx,164.79,533
-205,Darkness Over Whitestone,186.11,578
-147,Corruption of the Sacred Grove,753.13,276
-245,The Scarlet Eclipse,370.73,344
-186,Crusade of the Sun Chalice,312.15,661
-16,Revolution of the Iron Fist,335.54,371
-203,The Reckoning of Lighthaven,996.04,738
-214,Battle of the Whispering Woods,69.11,366
-158,Raven''s Eclipse,118.98,899
-28,Invasion of the Frost Giants,678.1,623
-253,Quest for the Lost Relics,613.94,252
-94,Rage of the Warbeast,106.34,706
-170,Chaos in the Windy Crag,906.85,14
-58,Curse of the Phantom Queen,230.46,256
-200,The Cataclysm of Ironspire,837.7,328
-233,Dance of the Moonshadow,864.7,248
-244,Fireheart''s Revenge,546.65,279
-165,Revolution of the Iron Fist,259.02,557
-217,The Harvest of Souls,880.9,289
-89,Raven''s Eclipse,37.09,50
-134,Fireheart''s Revenge,539.06,603
-164,The Gathering Storm,791.33,758
-155,Cursed Souls'' Nightfall,330.63,952
-239,Festival of Golden Leaves,731.96,964
+113,Dawn of the Void,840.86,507
+10,Riddle of the Ancient Sphinx,157.87,466
+22,Curse of the Phantom Queen,52.22,121
+86,Quest for the Lost Relics,442.53,44
+6,The Dragon''s Awakening,73.99,688
+66,Darkness Over Whitestone,769.61,929
+7,Revolution of the Iron Fist,469.07,845
+99,Serpent''s Ascension,217.45,190
+28,Festival of the Eternal Spring,145.41,8
+63,The Golem''s Lament,692.42,641
+77,Serpent''s Ascension,560.37,557
+33,Crusade of the Sun Chalice,514.46,464
+35,Siege of Thunderpeak,380.98,583
+107,The Gathering Storm,351.81,110
+80,Escape from Shadow Hold,46.09,796
+2,Oracle''s Prophetic Challenge,206.74,639
+112,Oracle''s Prophetic Challenge,463.31,832
+17,The Cataclysm of Ironspire,377.04,73
+4,The Reckoning of Lighthaven,806.85,129
+96,Warsong''s End,66.82,971
+91,Serpent''s Ascension,309.02,473
+79,Darkness Over Whitestone,859.83,456
+56,Titan''s Demise,825.47,593
+90,Trials of the Ghost King,394.8,766
+61,Invasion of the Frost Giants,672.75,741
+38,Valley of Forgotten Echoes,966.95,50
+72,Revolution of the Iron Fist,700.24,449
+29,Invasion of the Frost Giants,939.85,916
+103,Siege of Thunderpeak,940.45,932
+102,Darkness Over Whitestone,930.39,557
+116,The Gathering Storm,513.02,923
+44,Serpent''s Ascension,645.48,555
+19,The Cataclysm of Ironspire,453.83,559
+49,Darkness in Highfell,839.05,508
+34,The Dragon''s Awakening,779.92,564
+93,Dawn of the Void,743.14,251
+42,Plague of the Dark Sands,92.01,929
+50,Festival of the Eternal Spring,930.08,437
+75,Trials of the Ghost King,582.51,103
+8,Valley of Forgotten Echoes,922.64,577
+83,Titan''s Demise,130.78,879
+58,Carnival of the Forgotten,37.88,694
+109,Oracle''s Prophetic Challenge,607.5,346
+114,Festival of the Eternal Spring,590.38,498
+105,Cursed Souls'' Nightfall,778.97,936
+3,Storm of the Dead,720.37,165
+46,Chaos in the Windy Crag,456.61,557
+71,Titan''s Demise,928.48,310
+100,Vault of the Fallen Stars,545.52,643
+39,Blood Moon Rising,150.74,695
+12,Feast of the Harvest Moon,447.46,627
+1,The Celestial Convergence,526.05,721
+15,Raven''s Eclipse,925.64,192
+25,Quest for the Lost Relics,829.97,117
+117,Fireheart''s Revenge,514.18,708
+30,Dawn of the Void,204.59,554
+69,Oracle''s Prophetic Challenge,46.26,581
+89,Siege of Thunderpeak,900.73,381
+53,Spectral Masquerade,572.53,881
+82,Oracle''s Prophetic Challenge,242.04,854
+58,Festival of the Eternal Spring,875.9,708
+73,The Scarlet Eclipse,731.44,92
+35,Invasion of the Frost Giants,748.82,954
+130,Serpent''s Ascension,64.92,656
+70,Crusade of the Sun Chalice,269.05,305
+141,The Scarlet Eclipse,422.41,562
+133,Cursed Souls'' Nightfall,976.46,72
+184,Chronicle of the Sealed Gods,453.91,98
+214,Haunting of the Crimson Keep,73.43,903
+200,Plague of the Dark Sands,537.14,641
+210,Invasion of the Frost Giants,668.76,67
+178,Challenge of the Seven Seals,378.45,727
+116,The Golem''s Lament,365.88,318
+68,Spectral Masquerade,812.37,683
+94,Darkness in Highfell,583.6,873
+151,Battle of the Whispering Woods,200.38,784
+187,Fireheart''s Revenge,914.2,414
+45,The Cataclysm of Ironspire,313.23,785
+205,The Celestial Convergence,366.61,554
+219,Slaying of the Ice Queen,325.42,880
+54,Fall of the Shadow Titan,61.17,384
+240,Invasion of the Frost Giants,478.64,715
+18,Dance of the Moonshadow,196.72,74
+59,Battle of the Whispering Woods,719.02,300
+53,Quest for the Eternal Flame,703.12,769
+87,Escape from Shadow Hold,194.99,630
+83,Titan''s Demise,175.88,186
+119,The Celestial Convergence,40.71,952
+189,The Celestial Convergence,122.78,473
+46,Darkness Over Whitestone,982.87,622
+152,The Fall of Skyspire,800.37,100
+110,Wrath of the Earthmother,787.11,144
+175,Feast of the Harvest Moon,473.42,409
+188,Rage of the Warbeast,343.1,371
+40,Timeless Enigma,735.67,154
+17,Quest for the Lost Relics,332.78,464
+10,The Fall of Skyspire,555.64,199
+65,Invasion of the Frost Giants,549.35,836
+163,Raven''s Eclipse,833.68,256
+79,Cursed Souls'' Nightfall,955.43,319
+107,Curse of the Phantom Queen,716.43,821
+155,Blood Moon Rising,204.62,902
+25,The Reckoning of Lighthaven,280.17,256
+226,Blood Moon Rising,393.09,767
+103,Challenge of the Seven Seals,161.73,61
+124,The Golem''s Lament,226.09,130
+138,Odyssey of the Stormcaller,967.19,25
+8,Titan''s Demise,760.33,827
+181,The Scarlet Eclipse,343.48,185
+19,Spectral Masquerade,797.49,344
+173,Riddle of the Ancient Sphinx,830.77,322
+165,Rage of the Warbeast,960.33,858
+32,Chaos in the Windy Crag,669.27,497
+239,Quest for the Eternal Flame,92.4,375
+84,Temple of the Wicked Oracle,266.66,465
+27,Warsong''s End,16.75,409
+28,Odyssey of the Stormcaller,344.51,132
+158,Spectral Masquerade,235.14,826
+3,The Scarlet Eclipse,194.76,445
+100,Warsong''s End,107.54,622
+115,Odyssey of the Stormcaller,700.24,800
+15,Spectral Masquerade,326.49,867
+49,The Gathering Storm,975.6,575
+212,Raven''s Eclipse,336.69,163
+237,Dance of the Moonshadow,478.42,374
+47,The Golem''s Lament,704.6,840
+160,Feast of the Harvest Moon,611.28,573
+43,Revolution of the Iron Fist,760.59,229
+145,Crusade of the Sun Chalice,156.4,37
+97,The Fall of Skyspire,656.29,18
+22,Corruption of the Sacred Grove,854.35,538
+104,Wrath of the Earthmother,513.21,712
+148,Challenge of the Seven Seals,298.89,67
+127,Corruption of the Sacred Grove,972.0,610
+63,Wrath of the Earthmother,57.2,802
+221,Storm of the Dead,36.45,33
+137,Titan''s Demise,112.24,662
+208,The Celestial Convergence,202.05,48
+6,Slaying of the Ice Queen,984.28,593
+122,Siege of Thunderpeak,979.65,882
+203,Storm of the Dead,591.82,438
+34,Quest for the Lost Relics,949.15,277
+144,Spectral Masquerade,169.1,718
+170,Festival of Golden Leaves,958.71,975
+167,Festival of the Eternal Spring,809.65,487
+30,Chaos in the Windy Crag,749.36,633
+55,Siege of Thunderpeak,971.96,546
+33,Feast of the Harvest Moon,885.07,547
+231,Lost Horizon''s Discovery,953.15,894
+90,Challenge of the Seven Seals,557.46,155
+191,The Celestial Convergence,286.91,173
+112,Fall of the Shadow Titan,809.14,530
+136,The Reckoning of Lighthaven,700.94,372
+7,Darkness in Highfell,875.49,155
+38,Assault on the Abyss,53.46,391
+217,Valley of Forgotten Echoes,819.61,166
+81,Titan''s Demise,362.85,633
+111,Trials of the Ghost King,847.28,38
+76,The Dragon''s Awakening,33.16,209
+228,Rage of the Warbeast,285.15,661
+61,Festival of Golden Leaves,418.25,603
+236,Rage of the Warbeast,96.35,414
+197,Crusade of the Sun Chalice,264.12,550
+223,Fireheart''s Revenge,466.85,370
+233,Valley of Forgotten Echoes,650.69,953
+13,Riddle of the Ancient Sphinx,544.27,927
+92,Raven''s Eclipse,232.09,850
+50,Plague of the Dark Sands,746.33,468
+194,Rage of the Warbeast,22.73,575
+87,Spectral Masquerade,81.79,434
+210,Fireheart''s Revenge,604.79,288
+88,Lost Horizon''s Discovery,367.97,462
+333,Temple of the Wicked Oracle,940.11,450
+345,Curse of the Phantom Queen,355.78,383
+115,The Reckoning of Lighthaven,129.96,291
+59,Riddle of the Ancient Sphinx,554.32,966
+51,Raven''s Eclipse,791.29,174
+108,Rage of the Warbeast,219.25,147
+177,Timeless Enigma,90.71,187
+5,Assault on the Abyss,663.76,869
+101,Crusade of the Sun Chalice,550.85,532
+254,Storm of the Dead,43.38,384
+357,Carnival of the Forgotten,825.37,975
+91,Fall of the Shadow Titan,573.4,610
+199,Challenge of the Seven Seals,169.43,248
+292,Storm of the Dead,395.9,763
+355,Chronicle of the Sealed Gods,644.99,446
+304,Vault of the Fallen Stars,422.24,903
+10,Assault on the Abyss,128.69,793
+46,Slaying of the Ice Queen,779.87,653
+54,Serpent''s Ascension,165.13,644
+104,Corruption of the Sacred Grove,662.83,781
+82,Siege of Thunderpeak,945.62,617
+60,Temple of the Wicked Oracle,460.44,378
+12,Festival of the Eternal Spring,460.04,224
+315,Invasion of the Frost Giants,22.18,10
+223,The Reckoning of Lighthaven,703.84,40
+72,Lost Horizon''s Discovery,38.07,898
+321,Slaying of the Ice Queen,972.61,616
+326,Serpent''s Ascension,526.07,763
+362,Blood Moon Rising,56.5,573
+302,Odyssey of the Stormcaller,353.33,983
+135,Temple of the Wicked Oracle,952.29,705
+64,Lost Horizon''s Discovery,437.56,899
+312,Siege of Thunderpeak,291.88,389
+49,The Golem''s Lament,579.14,595
+352,Curse of the Phantom Queen,218.05,645
+58,Curse of the Phantom Queen,169.37,922
+185,Cursed Souls'' Nightfall,890.3,445
+103,Chronicle of the Sealed Gods,25.31,537
+129,Timeless Enigma,933.77,126
+63,Fireheart''s Revenge,513.73,619
+152,Titan''s Demise,177.05,744
+240,Invasion of the Frost Giants,567.79,12
+288,Assault on the Abyss,925.54,106
+354,Oracle''s Prophetic Challenge,229.12,570
+343,Chronicle of the Sealed Gods,785.78,878
+149,Blood Moon Rising,402.39,908
+15,Revolution of the Iron Fist,255.84,681
+348,The Celestial Convergence,401.52,811
+335,Fall of the Shadow Titan,764.85,711
+155,Warsong''s End,352.08,352
+306,Invasion of the Frost Giants,340.82,324
+23,Riddle of the Ancient Sphinx,447.3,824
+55,Oracle''s Prophetic Challenge,711.68,812
+278,Valley of Forgotten Echoes,755.4,301
+179,Corruption of the Sacred Grove,51.57,237
+224,Plague of the Dark Sands,871.43,187
+169,Darkness in Highfell,109.37,172
+295,Storm of the Dead,865.02,413
+132,Curse of the Phantom Queen,595.35,20
+349,Timeless Enigma,157.4,587
+163,Temple of the Wicked Oracle,285.56,320
+7,Raven''s Eclipse,479.68,807
+220,Battle of the Whispering Woods,340.02,609
+67,Valley of Forgotten Echoes,243.92,929
+36,Wrath of the Earthmother,29.18,900
+175,Feast of the Harvest Moon,358.59,239
+206,The Gathering Storm,123.73,344
+375,The Harvest of Souls,22.22,860
+145,Plague of the Dark Sands,234.39,975
+24,Escape from Shadow Hold,520.21,333
+234,Festival of the Eternal Spring,44.81,407
+378,Blood Moon Rising,538.81,926
+359,The Reckoning of Lighthaven,611.63,173
+249,The Golem''s Lament,144.58,58
+29,Fireheart''s Revenge,477.15,26
+116,Corruption of the Sacred Grove,793.41,631
+20,Siege of Thunderpeak,155.53,898
+85,Valley of Forgotten Echoes,691.12,251
+331,Escape from Shadow Hold,444.59,535
+271,Feast of the Harvest Moon,774.49,680
+225,The Gatekeeper''s Fury,934.48,944
+184,Vault of the Fallen Stars,482.69,373
+203,Darkness in Highfell,349.37,133
+196,Feast of the Harvest Moon,509.31,735
+66,Dawn of the Void,777.12,640
+380,Carnival of the Forgotten,866.58,631
+143,The Gatekeeper''s Fury,379.32,965
+260,Storm of the Dead,681.44,920
+162,Siege of Thunderpeak,488.54,467
+212,The Scarlet Eclipse,580.42,431
+194,Quest for the Lost Relics,228.77,288
+157,Warsong''s End,796.56,480
+148,Raven''s Eclipse,936.63,761
+190,Battle of the Whispering Woods,375.84,667
+281,War of the Crystal Lake,422.85,762
+342,Challenge of the Seven Seals,776.84,108
+173,Darkness in Highfell,422.23,949
+170,Slaying of the Ice Queen,818.07,733
+18,Dawn of the Void,924.98,420
+356,Feast of the Harvest Moon,115.57,449
+373,Slaying of the Ice Queen,865.5,88
+227,Feast of the Harvest Moon,599.3,628
+248,Crusade of the Sun Chalice,693.92,60
+39,Titan''s Demise,647.5,390
+159,Titan''s Demise,573.59,629
+99,Invasion of the Frost Giants,891.56,876
+208,The Harvest of Souls,836.64,821
+214,Chronicle of the Sealed Gods,829.57,37
+138,Riddle of the Ancient Sphinx,760.27,869
+311,Darkness in Highfell,835.32,223
+358,Corruption of the Sacred Grove,247.31,836
+318,Timeless Enigma,392.24,734
+94,Valley of Forgotten Echoes,6.97,303
+31,Slaying of the Ice Queen,951.71,640
+339,Odyssey of the Stormcaller,274.44,587
+124,Curse of the Phantom Queen,231.55,737
+275,Rage of the Warbeast,91.41,96
+68,Revolution of the Iron Fist,951.56,734
+293,The Harvest of Souls,627.74,824
+189,The Golem''s Lament,424.61,761
+136,Quest for the Eternal Flame,584.64,417
+76,Fireheart''s Revenge,21.33,590
+232,Titan''s Demise,104.55,340
+40,War of the Crystal Lake,434.41,413
+200,Carnival of the Forgotten,786.47,557
+238,Dance of the Moonshadow,290.77,723
+48,Slaying of the Ice Queen,389.69,980
+337,Festival of Golden Leaves,181.42,480
+334,Vault of the Fallen Stars,79.97,760
+230,Challenge of the Seven Seals,869.32,871
+118,Oracle''s Prophetic Challenge,894.4,338
+299,Fireheart''s Revenge,909.38,596
+2,Chronicle of the Sealed Gods,28.28,7
+144,Darkness in Highfell,570.91,729
+81,Trials of the Ghost King,945.14,105
+370,Chaos in the Windy Crag,627.61,695
+43,The Gatekeeper''s Fury,86.5,624
+252,The Dragon''s Awakening,485.91,812
+364,Fireheart''s Revenge,395.38,988
+323,The Gatekeeper''s Fury,922.77,696
+236,The Fall of Skyspire,340.75,888
+279,Valley of Forgotten Echoes,277.17,700
+268,The Reckoning of Lighthaven,48.67,351
+297,The Reckoning of Lighthaven,821.4,206
+261,Darkness Over Whitestone,35.98,9
+309,The Golem''s Lament,185.0,993
+377,Odyssey of the Stormcaller,256.16,918
+113,Festival of Golden Leaves,572.59,118
+134,Chaos in the Windy Crag,563.92,808
+298,The Harvest of Souls,833.39,453
+128,The Gathering Storm,695.97,628
+301,Storm of the Dead,654.55,519
+332,Crusade of the Sun Chalice,145.72,455
+286,Battle of the Whispering Woods,158.72,431
+257,Chronicle of the Sealed Gods,660.72,240
+235,Trials of the Ghost King,672.68,318
+79,The Celestial Convergence,619.39,733
+367,Haunting of the Crimson Keep,14.31,741
+182,Titan''s Demise,320.09,950
+121,Storm of the Dead,945.84,961
+289,Lost Horizon''s Discovery,802.26,813
+245,Chronicle of the Sealed Gods,286.75,121
+73,Carnival of the Forgotten,969.99,479
+193,Odyssey of the Stormcaller,223.86,71
+274,Fall of the Shadow Titan,982.37,520
+166,Festival of the Eternal Spring,619.74,11
+217,Challenge of the Seven Seals,977.57,801
+127,Darkness Over Whitestone,772.97,77
+329,Festival of the Eternal Spring,238.33,366
+65,The Dragon''s Awakening,604.27,396
+284,Crusade of the Sun Chalice,45.0,812
+71,The Celestial Convergence,335.61,111
+53,Titan''s Demise,387.9,912
+336,Cursed Souls'' Nightfall,548.8,69
+273,Dance of the Moonshadow,658.96,766
+237,Curse of the Phantom Queen,715.47,843
+371,Dance of the Moonshadow,354.72,774
+379,The Reckoning of Lighthaven,480.68,861
+90,The Fall of Skyspire,320.15,111
+110,Vault of the Fallen Stars,826.85,94
+263,The Celestial Convergence,827.1,50
+32,The Harvest of Souls,937.51,789
+96,Spectral Masquerade,980.6,479
+372,Titan''s Demise,488.45,236
+219,Darkness in Highfell,95.15,208
+141,Warsong''s End,973.62,903
+34,Wrath of the Earthmother,580.19,404
+19,Timeless Enigma,548.7,906
+186,Invasion of the Frost Giants,812.96,540
+26,Dance of the Moonshadow,73.85,71
+105,Dance of the Moonshadow,631.72,342
+243,Challenge of the Seven Seals,831.27,161
+265,Trials of the Ghost King,801.15,254

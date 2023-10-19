@@ -104,7 +104,8 @@
                 {
                     "name": "player_id",
                     "datatype": "int",
-                    "type": "foreign_key"
+                    "type": "foreign_key",
+                    "value_source" : "id_numbers"
                 },
                 {
                     "name": "class_id",
@@ -136,7 +137,9 @@
                 },
                 {
                     "name": "kingdom_id",
-                    "datatype": "int"
+                    "datatype": "int",
+                    "type": "foreign_key",
+                    "value_source" : "id_numbers"
                 }
             ]
         },
