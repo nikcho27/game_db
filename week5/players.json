@@ -1,142 +1,142 @@
 [
     {
       "_id": { "$oid": "653191d5320faf0e95a9303b" },
-      "playerID": "21",
-      "username": "Ahri",
-      "avatarImage": "Spirit Orb",
-      "friends": [
+      "id": "21",
+      "name": "Ahri",
+      "avatar": "Spirit Orb",
+      "friendships": [
         {
-          "friendPlayerID": "1",
-          "friendshipDate": "2023-06-20T18:53:03",
-          "sharedQuests": ["Q2", "Q5"],
-          "mutualEnemiesDefeated": ["Shadow Beast"]
+          "friend_id": "1",
+          "connected_on": "2023-06-20T18:53:03",
+          "quests_together": ["Q2", "Q5"],
+          "enemies_defeated_together": ["Shadow Beast"]
         }
       ]
     },
     {
       "_id": { "$oid": "653191d6320faf0e95a9303c" },
-      "playerID": "22",
-      "username": "Darius",
-      "avatarImage": "Hand of Noxus",
-      "friends": [
+      "id": "22",
+      "name": "Darius",
+      "avatar": "Hand of Noxus",
+      "friendships": [
         {
-          "friendPlayerID": "1",
-          "friendshipDate": "2023-05-01T15:23:03",
-          "sharedQuests": ["Q3"],
-          "mutualEnemiesDefeated": ["Lich King"]
+          "friend_id": "1",
+          "connected_on": "2023-05-01T15:23:03",
+          "quests_together": ["Q3"],
+          "enemies_defeated_together": ["Lich King"]
         }
       ]
     },
     {
       "_id": { "$oid": "653191d7320faf0e95a9303d" },
-      "playerID": "23",
-      "username": "Ezreal",
-      "avatarImage": "Arcane Shift",
-      "friends": [
+      "id": "23",
+      "name": "Ezreal",
+      "avatar": "Arcane Shift",
+      "friendships": [
         {
-          "friendPlayerID": "1",
-          "friendshipDate": "2023-07-12T16:53:03",
-          "sharedQuests": ["Q1"],
-          "mutualEnemiesDefeated": ["Desert Rogue"]
+          "friend_id": "1",
+          "connected_on": "2023-07-12T16:53:03",
+          "quests_together": ["Q1"],
+          "enemies_defeated_together": ["Desert Rogue"]
         }
       ]
     },
     {
       "_id": { "$oid": "653191d8320faf0e95a9303e" },
-      "playerID": "24",
-      "username": "Lux",
-      "avatarImage": "Illumination",
-      "friends": [
+      "id": "24",
+      "name": "Lux",
+      "avatar": "Illumination",
+      "friendships": [
         {
-          "friendPlayerID": "1",
-          "friendshipDate": "2023-02-10T12:53:03",
-          "sharedQuests": ["Q4"],
-          "mutualEnemiesDefeated": ["Nether Witch"]
+          "friend_id": "1",
+          "connected_on": "2023-02-10T12:53:03",
+          "quests_together": ["Q4"],
+          "enemies_defeated_together": ["Nether Witch"]
         }
       ]
     },
     {
       "_id": { "$oid": "653191d9320faf0e95a9303f" },
-      "playerID": "25",
-      "username": "Yasuo",
-      "avatarImage": "Wind Wall",
-      "friends": [
+      "id": "25",
+      "name": "Yasuo",
+      "avatar": "Wind Wall",
+      "friendships": [
         {
-          "friendPlayerID": "1",
-          "friendshipDate": "2023-08-30T19:33:03",
-          "sharedQuests": ["Q6", "Q7"],
-          "mutualEnemiesDefeated": ["Cursed Samurai"]
+          "friend_id": "1",
+          "connected_on": "2023-08-30T19:33:03",
+          "quests_together": ["Q6", "Q7"],
+          "enemies_defeated_together": ["Cursed Samurai"]
         }
       ]
     },
     {
       "_id": { "$oid": "653191da320faf0e95a93040" },
-      "playerID": "26",
-      "username": "Miss Fortune",
-      "avatarImage": "Bullet Time",
-      "friends": [
+      "id": "26",
+      "name": "Miss Fortune",
+      "avatar": "Bullet Time",
+      "friendships": [
         {
-          "friendPlayerID": "1",
-          "friendshipDate": "2023-01-17T11:23:03",
-          "sharedQuests": ["Q8"],
-          "mutualEnemiesDefeated": ["Pirate Ghost"]
+          "friend_id": "1",
+          "connected_on": "2023-01-17T11:23:03",
+          "quests_together": ["Q8"],
+          "enemies_defeated_together": ["Pirate Ghost"]
         }
       ]
     },
     {
       "_id": { "$oid": "653191db320faf0e95a93041" },
-      "playerID": "27",
-      "username": "Garen",
-      "avatarImage": "Demacian Justice",
-      "friends": [
+      "id": "27",
+      "name": "Garen",
+      "avatar": "Demacian Justice",
+      "friendships": [
         {
-          "friendPlayerID": "1",
-          "friendshipDate": "2023-09-02T09:13:03",
-          "sharedQuests": ["Q9"],
-          "mutualEnemiesDefeated": ["Noxian General"]
+          "friend_id": "1",
+          "connected_on": "2023-09-02T09:13:03",
+          "quests_together": ["Q9"],
+          "enemies_defeated_together": ["Noxian General"]
         }
       ]
     },
     {
       "_id": { "$oid": "653191dc320faf0e95a93042" },
-      "playerID": "28",
-      "username": "Sona",
-      "avatarImage": "Crescendo",
-      "friends": [
+      "id": "28",
+      "name": "Sona",
+      "avatar": "Crescendo",
+      "friendships": [
         {
-          "friendPlayerID": "1",
-          "friendshipDate": "2023-03-28T14:53:03",
-          "sharedQuests": ["Q10"],
-          "mutualEnemiesDefeated": ["Silent Assassin"]
+          "friend_id": "1",
+          "connected_on": "2023-03-28T14:53:03",
+          "quests_together": ["Q10"],
+          "enemies_defeated_together": ["Silent Assassin"]
         }
       ]
     },
     {
       "_id": { "$oid": "653191dd320faf0e95a93043" },
-      "playerID": "29",
-      "username": "Zed",
-      "avatarImage": "Death Mark",
-      "friends": [
+      "id": "29",
+      "name": "Zed",
+      "avatar": "Death Mark",
+      "friendships": [
         {
-          "friendPlayerID": "1",
-          "friendshipDate": "2023-10-01T10:43:03",
-          "sharedQuests": ["Q11"],
-          "mutualEnemiesDefeated": ["Shadow Monk"]
+          "friend_id": "1",
+          "connected_on": "2023-10-01T10:43:03",
+          "quests_together": ["Q11"],
+          "enemies_defeated_together": ["Shadow Monk"]
         }
       ]
     },
     {
       "_id": { "$oid": "653191de320faf0e95a93044" },
-      "playerID": "30",
-      "username": "Leona",
-      "avatarImage": "Solar Flare",
-      "friends": [
+      "id": "30",
+      "name": "Leona",
+      "avatar": "Solar Flare",
+      "friendships": [
         {
-          "friendPlayerID": "1",
-          "friendshipDate": "2023-11-12T13:03:03",
-          "sharedQuests": ["Q12"],
-          "mutualEnemiesDefeated": ["Eclipse Knight"]
+          "friend_id": "1",
+          "connected_on": "2023-11-12T13:03:03",
+          "quests_together": ["Q12"],
+          "enemies_defeated_together": ["Eclipse Knight"]
         }
       ]
     }
-  ]
+]
