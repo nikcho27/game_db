@@ -5,7 +5,7 @@ class Database:
         self.config = {
             'host': 'localhost',
             'user': 'root',
-            'password': 'eutu2003',
+            'password': '2942123',
             'database': 'game_db' 
         }
 
@@ -23,6 +23,21 @@ class Database:
         connection.close()
         return count > 0
 
+    def player_exists_username(self, username):
+        connection = self._connect()
+        cursor = connection.cursor(buffered=True)
+        sql = "SELECT player_id FROM player WHERE username = %s"
+        cursor.execute(sql, (username,))
+        
+        player_id = None
+        
+        if cursor.rowcount > 0:
+            player_id = cursor.fetchone()[0]
+        
+        cursor.close()
+        connection.close()
+        return player_id
+    
     def chat_exists(self, chat_id):
         connection = self._connect()
         cursor = connection.cursor(buffered=True)  # Step 2: Use a buffered cursor
@@ -89,11 +104,18 @@ class Database:
             sql = "INSERT INTO message (chat_id, player_id, content) VALUES (%s, %s, %s)"
             cursor.execute(sql, (chat_id, player_id, content))
             connection.commit()
+            
+            # Get the last inserted message_id
+            message_id = cursor.lastrowid
+            
+            return message_id
         except Exception as e:
             print(e)
+            return None
         finally:
             cursor.close()
             connection.close()
+
 
     def insert_mention(self, message_id, player_id):
         try:

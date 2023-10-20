@@ -81,19 +81,23 @@ class ChatWindow:
         self.chatArea.insert(tk.END, f"{player_name}: {text}\n")  # Using the player's name here
         self.chatArea.configure(state=tk.DISABLED)
 
+
+        # Insert the chat message
+        message_id = self.database.insert_message(chat_id, player_id, text)
+        
+        #Handle mentions
         mentionPattern = re.compile(r"@(\w+)")
         mentions = mentionPattern.findall(text)
         for mention in mentions:
             try:
-                mentionedPlayer = int(mention)
-                self.database.insert_mention(self.message_id, mentionedPlayer)
+                mentionedPlayer = self.database.player_exists_username(mention)
+                if(mentionedPlayer):
+                    self.database.insert_mention(message_id, mentionedPlayer)
             except Exception as e:
                 print(e)
 
         self.chatInput.delete(0, tk.END)
     
-        # Insert the chat message
-        self.database.insert_message(chat_id, player_id, text)
 
 if __name__ == "__main__":
     root = tk.Tk()

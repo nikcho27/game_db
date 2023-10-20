@@ -1,335 +1,425 @@
 guild_id,name,guild_type,members,leader,founded_year
-102,Spirit Guardians,Mage Training,922,Lythra,637
-246,Circle of Druids,Questing,722,Elanor,924
-21,Frostbite Clan,Knowledge,768,Grundor,215
-110,Mercenaries of Fortune,Spying,676,Quorlinn,347
-2,Mercenaries of Fortune,Trading,644,Caelthor,936
-230,Starborn Seekers,Knowledge,407,Oberion,350
-238,Guardians of Light,Questing,878,Aralyn,832
-47,Circle of Druids,Knowledge,960,Faelthorn,1000
-219,The Wanderers,Trading,553,Aryndis,220
-226,Spirit Guardians,Trading,38,Runorin,780
-179,Wizards of the Coast,Questing,450,Lunarion,694
-20,Emerald Enchanters,PvP,995,Raelan,734
-196,Heralds of Hope,Mage Training,66,Delgath,795
-125,Heavenly Healers,Questing,165,Tyrndar,14
-160,Sun Warriors,Questing,880,Orifel,817
-167,Wisdom Weavers,Knowledge,953,Veyla,14
-40,Council of Elders,Spying,423,Caelthor,219
-137,Moonlit Mystics,Healing,616,Morwyn,611
-139,Heavenly Healers,Healing,385,Thorgath,271
-106,Moonlit Mystics,PvP,192,Xyphera,616
-227,Sun Warriors,Exploration,408,Elidora,220
-22,Hands of Fate,Crafting,326,Orik,362
-146,Moonlit Mystics,Spying,669,Thorgath,94
-161,Gold Brokers,PvP,370,Toraell,553
-205,Storm Riders,Crafting,774,Zyraziel,477
-71,Spirit Guardians,Exploration,854,Thaelen,377
-234,Crypt Crawlers,Exploration,61,Xyphera,827
-164,Frostbite Clan,Crafting,71,Aryndis,515
-156,Silver Lances,Mage Training,202,Illinor,296
-76,Starborn Seekers,Mage Training,299,Azalor,58
-6,Dusk to Dawn,Healing,172,Sarthon,321
-243,Desert Nomads,PvP,390,Delgath,960
-236,Heavenly Healers,Questing,548,Thera,957
-181,The Forsaken,PvP,867,Elandria,674
-88,Ocean''s Children,Knowledge,676,Caelthor,505
-209,Guardians of Light,Trading,647,Sarthon,974
-59,The Wanderers,PvP,898,Endora,284
-120,Artisans of Alchemy,Healing,2,Faenar,264
-14,Mind Over Matter,Crafting,636,Aethor,555
-186,Council of Elders,PvP,964,Raelis,621
-33,The Silent Footsteps,Exploration,263,Goromir,403
-45,Circle of Druids,Healing,615,Elanor,422
-16,Dragon Slayers,Questing,520,Ulfrik,38
-195,Wisdom Weavers,PvP,500,Saphyra,456
-132,Frostbite Clan,Spying,954,Elanor,613
-130,Ocean''s Children,Exploration,846,Aralyn,490
-211,Heart of Courage,Questing,860,Veylan,608
-116,The Silent Footsteps,Questing,377,Belthorn,806
-143,Sun Warriors,Crafting,646,Laelor,762
-115,Circle of Druids,Healing,615,Shaelis,110
-104,Moonlit Mystics,Spying,757,Daelis,918
-30,Spirit Guardians,Questing,778,Goromir,283
-65,Moonlit Mystics,Crafting,119,Thaelis,276
-74,Elixir Masters,Knowledge,330,Ashara,60
-29,Seekers of Truth,Questing,825,Thaelis,126
-114,Moonlit Mystics,Spying,772,Daelis,289
-17,Council of Elders,Mage Training,916,Xirelle,911
-189,Heralds of Hope,PvP,801,Zephyra,692
-50,The Righteous,Questing,744,Morwyn,280
-176,Ocean''s Children,Mage Training,823,Laelor,550
-199,Dusk to Dawn,Questing,276,Xyphera,450
-233,Mercenaries of Fortune,Crafting,790,Keldra,155
-215,The Righteous,Mage Training,234,Tyrndar,708
-201,Nature''s Whisper,Trading,818,Lunarion,497
-24,Dusk to Dawn,Exploration,429,Raelis,440
-235,Archmage Assembly,Knowledge,721,Gorgrim,462
-141,Desert Nomads,Questing,721,Faelthorn,260
-216,Nature''s Whisper,PvP,363,Endora,261
-203,Mind Over Matter,Questing,397,Zyralor,267
-64,Dragon Slayers,Spying,252,Zyralor,300
-123,Heart of Courage,Questing,126,Valthor,909
-62,Guardians of Light,Crafting,775,Zandalar,801
-84,Silver Lances,PvP,246,Naelor,244
-32,Gold Brokers,Exploration,448,Lythra,629
-107,Shadow Society,Spying,929,Thaelen,285
-96,Ocean''s Children,Questing,308,Faelthorn,698
-39,Wisdom Weavers,Exploration,752,Shaelis,866
-157,Thieves of Time,Healing,685,Isolde,907
-240,Council of Elders,Crafting,361,Gilean,930
-138,Defenders of Destiny,Questing,327,Aethor,717
-9,Knights of Valor,Mage Training,126,Orin,941
-46,The Forsaken,PvP,390,Goromir,210
-225,Heroes of Harmony,Exploration,488,Toraell,329
-112,Abyss Watchers,Questing,767,Zaela,596
-42,Elixir Masters,Knowledge,788,Isolde,718
-60,Desert Nomads,Questing,454,Delgath,396
-54,Council of Elders,PvP,494,Veylan,116
-212,Defenders of Destiny,Knowledge,533,Keldra,104
-56,Crypt Crawlers,Crafting,952,Lythra,389
-140,Heavenly Healers,Questing,958,Orin,463
-134,Elemental Lords,Crafting,608,Isolde,736
-36,Artisans of Alchemy,Knowledge,744,Sarthon,305
-173,Circle of Druids,Knowledge,6,Thorgrim,787
-4,Circle of Druids,Healing,212,Lythra,255
-61,Heart of Courage,Knowledge,31,Aryndis,269
-79,The Forsaken,Questing,471,Aethor,102
-12,Dragon Slayers,PvP,143,Delgath,751
-67,The Undying,PvP,837,Gwynara,483
-127,Nature''s Whisper,Crafting,862,Gilean,104
-44,Heralds of Hope,PvP,745,Morwyn,661
-170,Heart of Courage,Questing,536,Caelthor,581
-99,Desert Nomads,Questing,767,Valdrick,129
-101,Seekers of Truth,Questing,285,Sarthon,29
-150,Heart of Courage,Mage Training,945,Raelan,352
-148,Crypt Crawlers,Trading,779,Endora,589
-93,Defenders of Destiny,PvP,96,Zephyrix,600
-69,Circle of Druids,PvP,356,Toraell,807
-53,Mercenaries of Fortune,Trading,334,Aethor,401
-239,Desert Nomads,Exploration,947,Grundor,756
-188,Wizards of the Coast,Knowledge,930,Zandalar,598
-207,Ocean''s Children,Spying,498,Endora,42
-222,Heralds of Hope,Healing,588,Zaela,859
-153,The Wanderers,Mage Training,824,Zephyrix,410
-192,Council of Elders,PvP,506,Gwynara,867
-119,The Wanderers,PvP,153,Faenar,189
-86,Hands of Fate,Knowledge,598,Thorgrim,616
-183,Artisans of Alchemy,Questing,950,Aerendir,648
-81,Starborn Seekers,Exploration,563,Aryndis,395
-27,Spirit Guardians,PvP,645,Solandria,810
-91,Merchant Princes,Trading,564,Gilean,789
-76,Shadow Society,Exploration,817,Veyla,308
-9,Desert Nomads,Questing,363,Thorgrim,267
-133,Wizards of the Coast,Knowledge,586,Valeria,434
-184,Knights of Valor,PvP,406,Shaelis,2
-179,Elixir Masters,Mage Training,421,Veylan,584
-194,Defenders of Destiny,Knowledge,70,Daelis,667
-192,Council of Elders,Questing,62,Toraell,843
-108,Heavenly Healers,Trading,368,Thorgath,307
-171,Storm Riders,Trading,308,Delgath,861
-127,Elixir Masters,Knowledge,611,Vyktor,578
-158,Elemental Lords,Trading,289,Seraphix,162
-25,Nature''s Whisper,Exploration,274,Valeria,26
-120,Desert Nomads,Crafting,452,Valdrick,511
-15,Elemental Lords,PvP,865,Thera,916
-51,Shadow Society,Mage Training,521,Orin,206
-173,Guardians of Light,Questing,783,Ulfrik,247
-223,Elemental Lords,Knowledge,148,Faenar,600
-22,Mind Over Matter,Healing,930,Veylan,822
-161,Storm Riders,PvP,868,Xyralis,164
-201,Silver Lances,Trading,630,Zyraziel,2
-176,Heavenly Healers,Exploration,487,Aeriana,806
-197,Archmage Assembly,Knowledge,77,Thaldor,687
-119,Gold Brokers,Exploration,145,Grundor,235
-8,Frostbite Clan,Healing,109,Goromir,642
-150,The Wanderers,PvP,510,Zandalar,372
-111,Merchant Princes,Questing,442,Kyrion,766
-102,Hands of Fate,Mage Training,557,Keldra,349
-63,Archmage Assembly,PvP,416,Morwyn,838
-84,Elemental Lords,Trading,961,Quorlinn,875
-107,Moonlit Mystics,Exploration,577,Laelor,629
-60,The Righteous,Healing,713,Lythor,878
-123,Sun Warriors,Questing,494,Faenar,29
-116,Storm Riders,Trading,220,Thorgal,360
-221,The Undying,Exploration,898,Endora,713
-142,The Wanderers,Crafting,259,Elira,69
-190,Prophets of Doom,Trading,294,Runorin,9
-92,Thieves of Time,Healing,161,Saphyra,455
-113,Artisans of Alchemy,PvP,749,Ashara,492
-103,Elemental Lords,Questing,934,Vyktor,404
-172,Starborn Seekers,Mage Training,773,Azalor,663
-195,The Forsaken,Mage Training,858,Loralei,770
-55,Desert Nomads,Healing,494,Oromis,958
-41,Emerald Enchanters,Questing,13,Loralei,113
-54,Spirit Guardians,PvP,147,Valyndra,684
-104,Starborn Seekers,Crafting,913,Oromis,280
-38,Starborn Seekers,Knowledge,511,Aethor,368
-27,Circle of Druids,Trading,945,Thorgrim,543
-125,Council of Elders,PvP,847,Ulfrik,387
-32,Moonlit Mystics,Questing,703,Aryndis,170
-219,Merchant Princes,PvP,357,Keldra,810
-48,Heavenly Healers,Crafting,696,Gwynara,53
-110,Heavenly Healers,Trading,251,Laelor,659
-143,Heroes of Harmony,Questing,196,Keldra,867
-209,Mercenaries of Fortune,Trading,730,Raelis,351
-78,Heart of Courage,PvP,669,Zaela,124
-135,The Wanderers,Mage Training,393,Gwynara,315
-1,Silver Lances,Healing,182,Serafelle,364
-67,Circle of Druids,Questing,87,Illinor,687
-182,Gold Brokers,PvP,239,Morwyn,196
-70,Merchant Princes,Questing,764,Aerendir,627
-138,Merchant Princes,Mage Training,392,Daelis,310
-204,Desert Nomads,Crafting,581,Aethor,610
-225,Defenders of Destiny,Questing,427,Xaradra,839
-153,Knights of Valor,Healing,783,Aeriana,579
-215,Wizards of the Coast,Knowledge,270,Elidora,576
-73,Archmage Assembly,Mage Training,76,Elanor,192
-19,Merchant Princes,Questing,485,Raelthorn,356
-53,Circle of Druids,Mage Training,988,Elanor,792
-175,Ocean''s Children,PvP,96,Lythor,96
-130,Shadow Society,PvP,326,Orifel,326
-77,The Undying,Mage Training,986,Orifel,858
-212,The Forsaken,Questing,166,Thera,615
-187,Defenders of Destiny,Mage Training,680,Xaradra,497
-214,Dragon Slayers,Questing,563,Lunarion,349
-114,The Wanderers,Crafting,406,Isolde,994
-36,Gold Brokers,Mage Training,747,Lythra,551
-200,Thieves of Time,Crafting,760,Aerendir,360
-95,Heart of Courage,Mage Training,242,Laelor,448
-145,Silver Lances,Questing,788,Raelis,945
-106,Heavenly Healers,Knowledge,48,Drakan,652
-207,The Forsaken,Questing,361,Zephyra,440
-42,Emerald Enchanters,Exploration,422,Loralei,472
-12,Wizards of the Coast,Mage Training,502,Thaldor,477
-98,Spirit Guardians,Exploration,865,Azalor,736
-81,Wisdom Weavers,Healing,565,Naelor,506
-39,Prophets of Doom,Trading,322,Qelthar,154
-17,Gold Brokers,PvP,343,Saphyra,829
-99,Heart of Courage,Knowledge,167,Thundara,192
-163,Prophets of Doom,Spying,257,Valeria,775
-168,Frostbite Clan,PvP,699,Veyla,71
-189,Mercenaries of Fortune,Questing,699,Zaela,587
-148,The Undying,Trading,400,Orik,630
-69,Heralds of Hope,Trading,42,Orifel,390
-89,Hands of Fate,PvP,508,Valyndra,457
-64,Mercenaries of Fortune,Trading,360,Xaradra,84
-45,Shadow Society,Knowledge,729,Qelthar,349
-34,Silver Lances,Trading,218,Saphyra,266
-91,Silver Lances,PvP,404,Elira,657
-5,The Undying,Spying,512,Zandalar,706
-30,Elemental Lords,Exploration,279,Orik,859
-139,Crypt Crawlers,Knowledge,693,Aeriana,575
-23,The Wanderers,Exploration,146,Thera,735
-58,Emerald Enchanters,PvP,891,Veyla,934
-166,The Wanderers,Questing,821,Valyndra,506
-216,Desert Nomads,Healing,270,Elanor,199
-86,The Wanderers,Questing,398,Xirelle,549
-2,Heavenly Healers,Knowledge,40,Gwynara,915
-156,Seekers of Truth,Questing,953,Zandalar,548
-201,Merchant Princes,Mage Training,164,Kyrion,46
-108,The Wanderers,Trading,635,Tyrndar,882
-28,Thieves of Time,Crafting,967,Xyphera,412
-173,Elixir Masters,Healing,386,Jadefang,838
-138,Storm Riders,Spying,591,Thera,568
-175,Merchant Princes,Questing,653,Elanor,658
-107,Prophets of Doom,Healing,545,Orin,491
-93,Dusk to Dawn,Questing,100,Lythra,271
-119,Sun Warriors,Knowledge,444,Thundara,61
-55,Nature''s Whisper,Mage Training,868,Thorgrim,798
-110,Gold Brokers,Crafting,136,Thorgath,257
-135,Elemental Lords,Knowledge,885,Serafelle,277
-208,Gold Brokers,Spying,762,Ashara,623
-165,The Righteous,Exploration,5,Aryndis,185
-150,Thieves of Time,Mage Training,977,Thorgrim,113
-170,Frostbite Clan,Spying,586,Thaelis,911
-182,Desert Nomads,Spying,875,Ashara,157
-206,Circle of Druids,Mage Training,345,Vyktor,72
-92,Prophets of Doom,Crafting,438,Thera,134
-83,Knights of Valor,Exploration,286,Lyrielle,752
-25,Artisans of Alchemy,Crafting,314,Raelthorn,51
-51,Wizards of the Coast,Questing,402,Azalor,153
-14,Elixir Masters,PvP,172,Tyrndar,786
-211,Silver Lances,Spying,686,Zephyrix,539
-33,The Silent Footsteps,Trading,660,Valdrick,116
-38,Artisans of Alchemy,PvP,378,Tyrndar,593
-70,Gold Brokers,PvP,731,Morwyn,541
-36,Wizards of the Coast,Questing,719,Veylan,26
-121,The Undying,Healing,109,Xirelle,589
-24,Council of Elders,PvP,209,Endora,411
-77,Defenders of Destiny,Questing,569,Xaradra,905
-209,Desert Nomads,Crafting,821,Thundara,350
-72,The Righteous,Healing,458,Morwyn,22
-22,Emerald Enchanters,Mage Training,241,Naelor,779
-57,Heart of Courage,Knowledge,798,Grundor,56
-158,Thieves of Time,Exploration,172,Solandria,749
-203,Ocean''s Children,Crafting,109,Veylan,520
-89,Council of Elders,Mage Training,964,Thaldor,930
-49,Elixir Masters,PvP,853,Solandria,155
-66,Storm Riders,Exploration,930,Grundor,188
-198,The Silent Footsteps,Knowledge,305,Selendis,632
-127,Silver Lances,Healing,866,Laelor,615
-102,Shadow Society,Trading,295,Vyktor,507
-31,The Wanderers,Trading,493,Caelthor,868
-44,Emerald Enchanters,Mage Training,727,Gorgrim,161
-166,Merchant Princes,Trading,596,Elanor,89
-5,Hands of Fate,Healing,513,Saphyra,907
-30,Merchant Princes,Exploration,917,Elanor,714
-8,Defenders of Destiny,Mage Training,727,Aerendir,298
-12,Dusk to Dawn,Mage Training,11,Gwynara,686
-84,The Forsaken,Trading,293,Caelthor,478
-20,Guardians of Light,Mage Training,808,Zephyra,682
-115,Elixir Masters,Crafting,186,Raelan,332
-67,Spirit Guardians,Exploration,48,Thera,303
-7,Storm Riders,Trading,654,Faelthorn,537
-132,Mind Over Matter,Questing,618,Laelor,294
-87,Archmage Assembly,Questing,574,Selendis,890
-65,Moonlit Mystics,Trading,662,Qelthar,518
-190,The Forsaken,Trading,442,Nymriel,709
-179,Hands of Fate,Questing,519,Elandria,684
-193,The Righteous,Exploration,726,Oberion,341
-167,Heroes of Harmony,Exploration,634,Veylan,903
-122,Emerald Enchanters,Mage Training,910,Xirelle,932
-125,Desert Nomads,Questing,832,Keldra,104
-103,Mind Over Matter,Exploration,103,Raelan,756
-109,Elemental Lords,Exploration,70,Thorgath,357
-117,Guardians of Light,Spying,532,Valthor,203
-78,Seekers of Truth,Trading,521,Zandalar,748
-61,Elixir Masters,Questing,721,Selendis,713
-58,Archmage Assembly,Knowledge,652,Qelthar,414
-101,Frostbite Clan,Healing,70,Raelis,183
-177,Council of Elders,Healing,863,Xirelle,543
-9,Silver Lances,Crafting,653,Aryndis,987
-143,The Forsaken,Crafting,171,Faelthorn,655
-149,Council of Elders,Questing,575,Xyra,638
-195,Moonlit Mystics,Crafting,81,Loralei,313
-112,Thieves of Time,Crafting,654,Orifel,46
-130,Hands of Fate,PvP,953,Orifel,849
-76,Wisdom Weavers,Trading,876,Aralyn,675
-81,Starborn Seekers,Trading,437,Nymriel,524
-2,Seekers of Truth,Trading,457,Qelthar,497
-99,Merchant Princes,Mage Training,259,Goromir,338
-106,Wizards of the Coast,Exploration,333,Qelthar,803
-104,Starborn Seekers,Trading,735,Selendis,620
-141,Elixir Masters,Knowledge,631,Zaela,517
-181,Heroes of Harmony,Mage Training,195,Lunarion,931
-15,Guardians of Light,Mage Training,588,Zephyrix,411
-185,Ocean''s Children,Exploration,438,Aralyn,384
-54,Artisans of Alchemy,Knowledge,20,Belthorn,445
-41,Spirit Guardians,Mage Training,138,Loralei,454
-100,Dusk to Dawn,Crafting,979,Loralei,13
-146,Abyss Watchers,Questing,126,Lunarion,920
-62,Prophets of Doom,Exploration,316,Azalor,480
-187,Artisans of Alchemy,Questing,616,Aralyn,563
-153,Knights of Valor,Crafting,203,Zyralor,584
-159,Crypt Crawlers,Questing,361,Xyra,151
-162,Abyss Watchers,Mage Training,954,Raelthorn,8
-18,Spirit Guardians,Healing,398,Isolde,306
-96,Wizards of the Coast,Trading,863,Aerendir,124
-156,Archmage Assembly,Questing,115,Quorlinn,124
-88,The Undying,PvP,254,Valeria,406
-73,Dragon Slayers,Spying,465,Aerendir,438
-21,Circle of Druids,Exploration,469,Ulfrik,938
-46,Seekers of Truth,Trading,600,Elandria,586
-205,Merchant Princes,Questing,795,Thaelis,57
-27,Crypt Crawlers,PvP,908,Aryndis,11
+209,Abyss Watchers,Knowledge,32,Vyktor,125
+323,Nature''s Whisper,Questing,354,Morwyn,826
+27,Heroes of Harmony,Crafting,522,Isolde,508
+156,Heart of Courage,Healing,706,Veylan,323
+167,Elixir Masters,Mage Training,849,Thundara,42
+250,Sun Warriors,PvP,547,Valthor,540
+218,Starborn Seekers,Questing,224,Azalor,994
+69,Desert Nomads,Questing,296,Thorgrim,679
+313,Archmage Assembly,Exploration,570,Raelthorn,132
+87,Archmage Assembly,Healing,726,Naelor,652
+262,Mind Over Matter,Spying,592,Kyrion,451
+18,Heavenly Healers,Spying,486,Oromis,700
+289,Artisans of Alchemy,Questing,242,Endora,350
+315,Prophets of Doom,Mage Training,390,Vyktor,847
+340,Defenders of Destiny,Questing,538,Elira,517
+183,Thieves of Time,Questing,731,Jadefang,822
+75,The Righteous,Exploration,513,Toraell,435
+213,The Righteous,Crafting,701,Aethor,509
+320,Archmage Assembly,Mage Training,458,Zephyra,567
+68,Desert Nomads,Trading,615,Thaelis,230
+285,Storm Riders,PvP,243,Ulfrik,125
+344,Sun Warriors,PvP,998,Elira,710
+29,Guardians of Light,Questing,785,Azalor,425
+31,Spirit Guardians,Mage Training,953,Thorgrim,74
+268,Archmage Assembly,Crafting,183,Laelor,24
+178,Merchant Princes,Crafting,995,Goromir,179
+124,Dusk to Dawn,Mage Training,674,Nymriel,252
+182,Wisdom Weavers,Healing,217,Jadefang,816
+148,Nature''s Whisper,Questing,535,Morwyn,762
+231,Abyss Watchers,Crafting,107,Valyndra,290
+118,Ocean''s Children,Trading,559,Gwynara,659
+190,The Undying,Exploration,34,Orifel,696
+211,Defenders of Destiny,Healing,375,Orik,693
+208,Dusk to Dawn,Spying,278,Thera,777
+194,Spirit Guardians,Healing,945,Belthorn,452
+180,The Righteous,Questing,299,Belthorn,804
+37,Mercenaries of Fortune,Healing,573,Lyrielle,175
+6,Silver Lances,Questing,693,Raelan,566
+293,Silver Lances,Knowledge,399,Seraphix,888
+32,Mind Over Matter,Trading,332,Thundara,253
+79,Frostbite Clan,Questing,581,Shaelis,268
+38,The Undying,Questing,372,Lyrielle,181
+341,The Wanderers,Questing,781,Azalor,436
+104,Council of Elders,Knowledge,508,Valthor,962
+225,Ocean''s Children,Crafting,749,Morwyn,370
+253,Crypt Crawlers,Questing,2,Elidora,204
+61,Heavenly Healers,Trading,789,Xyphera,335
+20,Heart of Courage,Mage Training,268,Seraphix,672
+241,Starborn Seekers,PvP,563,Xyphera,601
+202,Wisdom Weavers,Questing,548,Caelthor,138
+287,Elixir Masters,Spying,59,Ashara,948
+337,Dusk to Dawn,Healing,650,Thaelis,179
+50,Mercenaries of Fortune,Crafting,176,Aethor,448
+93,Nature''s Whisper,Exploration,218,Xirelle,492
+170,Guardians of Light,Exploration,718,Thorgrim,73
+203,Prophets of Doom,PvP,191,Isolde,145
+67,Wisdom Weavers,Exploration,226,Grundor,634
+259,Storm Riders,Questing,85,Faelthorn,70
+82,Moonlit Mystics,Questing,241,Thorgal,665
+282,Spirit Guardians,Exploration,247,Azalor,794
+72,Heralds of Hope,Knowledge,872,Nymriel,160
+265,Emerald Enchanters,Crafting,217,Illinor,360
+307,Moonlit Mystics,PvP,768,Thorgath,96
+256,Guardians of Light,Knowledge,463,Lythor,199
+215,The Forsaken,Questing,866,Thaelis,691
+240,Knights of Valor,Knowledge,32,Saphyra,773
+73,Gold Brokers,Questing,98,Serafelle,982
+175,Wisdom Weavers,Spying,955,Valeria,649
+14,Heavenly Healers,Exploration,285,Zephyrix,38
+145,Hands of Fate,Exploration,911,Serafelle,656
+115,Guardians of Light,Mage Training,79,Aeriana,992
+223,Thieves of Time,Questing,996,Aeriana,301
+13,Artisans of Alchemy,Trading,168,Keldra,113
+291,Heroes of Harmony,Exploration,446,Serafelle,560
+165,Elemental Lords,Questing,835,Serafelle,106
+51,Silver Lances,Knowledge,899,Gwynara,91
+99,Heavenly Healers,Mage Training,626,Lythra,99
+65,Heart of Courage,Questing,847,Faenar,387
+234,Shadow Society,Exploration,65,Oberion,621
+245,The Forsaken,Knowledge,494,Raelan,1000
+331,Storm Riders,Exploration,848,Faelthorn,985
+116,Emerald Enchanters,Healing,710,Veylan,850
+195,Wisdom Weavers,Spying,630,Valyndra,601
+290,Wizards of the Coast,Questing,603,Faenar,701
+161,Emerald Enchanters,Questing,176,Seraphix,205
+152,The Undying,Trading,652,Endora,473
+39,The Forsaken,Exploration,296,Thaelen,490
+295,Artisans of Alchemy,Knowledge,582,Kyrion,306
+8,Elemental Lords,Questing,225,Elidora,14
+164,Dusk to Dawn,Questing,391,Laelor,459
+23,Defenders of Destiny,Crafting,811,Morwyn,494
+47,Wizards of the Coast,Mage Training,744,Thorgal,766
+96,Seekers of Truth,PvP,701,Azalor,352
+172,Defenders of Destiny,Exploration,236,Vyktor,950
+260,Spirit Guardians,PvP,652,Oromis,70
+122,Guardians of Light,Questing,794,Valeria,517
+304,Abyss Watchers,Questing,343,Oromis,801
+360,Wisdom Weavers,Spying,233,Zyralor,420
+110,Gold Brokers,Trading,684,Elandria,929
+48,Crypt Crawlers,Mage Training,422,Faelthorn,162
+63,Heavenly Healers,Questing,832,Ashara,42
+78,Defenders of Destiny,Crafting,681,Valyndra,818
+143,Nature''s Whisper,Exploration,791,Thorgrim,807
+120,Desert Nomads,Trading,966,Faenar,487
+188,Mind Over Matter,Knowledge,122,Lythor,853
+221,Spirit Guardians,Knowledge,936,Tyrndar,681
+158,Defenders of Destiny,Questing,426,Runorin,667
+112,Thieves of Time,Exploration,147,Oberion,771
+273,Dragon Slayers,Knowledge,777,Elira,719
+85,Elixir Masters,Healing,962,Thorgal,709
+201,Dragon Slayers,Exploration,443,Aryndis,885
+326,Knights of Valor,Mage Training,532,Xyra,18
+42,Mind Over Matter,PvP,821,Jadefang,186
+26,Elixir Masters,Healing,990,Thaldor,331
+3,Knights of Valor,Questing,915,Aethor,350
+207,The Forsaken,Mage Training,104,Orifel,50
+278,Archmage Assembly,PvP,72,Thorgath,479
+318,Abyss Watchers,Questing,567,Qelthar,233
+102,Desert Nomads,Spying,962,Belthorn,263
+135,Dragon Slayers,Crafting,713,Thorgal,621
+220,Dragon Slayers,Trading,492,Ulfrik,292
+91,Elemental Lords,Mage Training,812,Lyrielle,950
+107,Silver Lances,Spying,236,Valdrick,657
+348,The Forsaken,Trading,520,Raelis,434
+43,Silver Lances,Mage Training,635,Orin,480
+44,Seekers of Truth,Crafting,408,Thundara,467
+228,The Undying,Questing,26,Gwynara,24
+280,Merchant Princes,Exploration,922,Gorgrim,857
+249,Shadow Society,Exploration,139,Thaldor,38
+281,Abyss Watchers,Crafting,30,Quorlinn,652
+334,The Righteous,Questing,717,Azalor,195
+352,Wizards of the Coast,Crafting,939,Naelor,964
+141,Ocean''s Children,Mage Training,683,Aralyn,916
+359,Circle of Druids,Crafting,780,Runorin,356
+130,Sun Warriors,Knowledge,712,Valdrick,926
+138,Heart of Courage,Mage Training,641,Xaradra,885
+325,Ocean''s Children,Questing,98,Aethor,930
+151,The Forsaken,Questing,123,Aryndis,952
+247,Guardians of Light,PvP,92,Thundara,86
+298,Abyss Watchers,PvP,716,Aerendir,933
+92,Elemental Lords,Spying,408,Veyla,802
+254,Nature''s Whisper,Healing,968,Lyrielle,538
+242,Seekers of Truth,Questing,843,Valdrick,488
+310,Heavenly Healers,Questing,938,Raelis,123
+357,Heavenly Healers,Mage Training,504,Endora,46
+184,Knights of Valor,Crafting,576,Caelthor,704
+127,Heart of Courage,Exploration,417,Aethor,106
+53,Merchant Princes,Mage Training,286,Lythor,743
+205,Heavenly Healers,PvP,125,Gwynara,951
+350,Heart of Courage,Crafting,980,Nymriel,51
+185,Mercenaries of Fortune,Healing,669,Aerendir,108
+34,Mind Over Matter,Crafting,709,Laelor,82
+270,Heart of Courage,Spying,271,Aryndis,741
+35,Gold Brokers,Questing,211,Aethor,118
+276,Wizards of the Coast,Trading,578,Faelthorn,286
+125,Heroes of Harmony,Trading,33,Oberion,266
+60,Shadow Society,Crafting,405,Raelis,97
+21,Wizards of the Coast,Exploration,735,Saphyra,137
+25,Frostbite Clan,Exploration,295,Shaelis,896
+159,The Forsaken,Questing,765,Xyralis,536
+361,Thieves of Time,Questing,876,Thorgal,202
+154,Frostbite Clan,Healing,928,Aryndis,735
+345,Silver Lances,Spying,346,Delgath,167
+354,The Undying,Healing,713,Xyphera,611
+15,Heart of Courage,PvP,869,Belthorn,843
+57,Shadow Society,Questing,395,Aralyn,386
+321,Wisdom Weavers,Questing,889,Oromis,400
+117,Council of Elders,Exploration,799,Vyktor,349
+299,Archmage Assembly,Trading,982,Xirelle,331
+233,The Undying,Questing,759,Zyraziel,843
+89,Mercenaries of Fortune,Questing,721,Xirelle,266
+236,Frostbite Clan,Healing,230,Thera,93
+306,Elixir Masters,Healing,189,Isolde,417
+212,The Wanderers,Mage Training,244,Aethor,277
+55,Merchant Princes,Trading,364,Thaelis,220
+191,The Silent Footsteps,Exploration,899,Oromis,974
+11,Council of Elders,Mage Training,979,Aethor,468
+198,Hands of Fate,Knowledge,384,Saphyra,355
+90,Crypt Crawlers,Questing,601,Lythra,341
+243,Defenders of Destiny,Exploration,292,Xyphera,42
+132,Emerald Enchanters,Exploration,837,Thaldor,718
+214,Starborn Seekers,Crafting,145,Elidora,736
+328,Wisdom Weavers,Knowledge,603,Valdrick,485
+94,Council of Elders,Knowledge,456,Lythra,335
+301,Mind Over Matter,Exploration,716,Xirelle,900
+62,Ocean''s Children,Crafting,197,Elira,407
+119,Seekers of Truth,Healing,542,Saphyra,134
+239,Prophets of Doom,Crafting,803,Thera,172
+324,The Silent Footsteps,Trading,245,Raelthorn,126
+314,Council of Elders,Trading,419,Orik,278
+42,Elemental Lords,Trading,98,Lythra,612
+20,Storm Riders,Knowledge,711,Elanor,557
+114,The Wanderers,Crafting,138,Aralyn,188
+23,Gold Brokers,Exploration,438,Nymriel,569
+106,Crypt Crawlers,Knowledge,726,Xyra,831
+58,Council of Elders,Questing,393,Zephyra,970
+17,The Undying,Crafting,495,Thaelis,547
+26,The Wanderers,Trading,662,Valeria,150
+18,Thieves of Time,Questing,233,Valeria,897
+131,The Righteous,Mage Training,816,Gorgrim,386
+122,Crypt Crawlers,Exploration,65,Raelthorn,545
+157,Ocean''s Children,PvP,476,Keldra,568
+148,Storm Riders,Exploration,578,Serafelle,919
+182,The Forsaken,Mage Training,66,Naelor,712
+8,Heralds of Hope,Questing,305,Qelthar,266
+11,Spirit Guardians,Questing,672,Xirelle,981
+135,Moonlit Mystics,Knowledge,882,Valeria,949
+80,Sun Warriors,Exploration,194,Saphyra,168
+61,Shadow Society,Exploration,592,Isolde,271
+21,Elemental Lords,PvP,154,Aeriana,846
+39,The Righteous,Spying,986,Oromis,935
+36,Heroes of Harmony,Trading,299,Veyla,954
+29,Nature''s Whisper,PvP,311,Quorlinn,571
+77,Gold Brokers,Crafting,275,Azalor,832
+98,The Righteous,Mage Training,601,Saphyra,379
+144,Council of Elders,Healing,98,Gwynara,860
+2,Mind Over Matter,Knowledge,968,Zandalar,693
+125,Spirit Guardians,Healing,499,Quorlinn,638
+55,Wizards of the Coast,Questing,252,Loralei,53
+94,Desert Nomads,Spying,888,Oromis,999
+120,Heralds of Hope,Knowledge,178,Aralyn,181
+179,The Silent Footsteps,Crafting,413,Qelthar,951
+49,Frostbite Clan,Trading,522,Lythra,137
+159,Nature''s Whisper,Crafting,712,Grundor,498
+110,Mind Over Matter,Trading,510,Naelor,475
+167,Elixir Masters,Exploration,896,Qelthar,728
+145,Hands of Fate,PvP,595,Qelthar,567
+54,The Forsaken,Questing,498,Endora,846
+53,Frostbite Clan,Questing,199,Thera,653
+96,Desert Nomads,Knowledge,850,Aethor,636
+174,Ocean''s Children,Crafting,38,Nymriel,471
+87,Elemental Lords,PvP,38,Elidora,544
+105,Heart of Courage,Crafting,498,Seraphix,715
+71,Ocean''s Children,PvP,529,Drakan,657
+124,Moonlit Mystics,Crafting,296,Oromis,6
+44,Wisdom Weavers,Spying,639,Aryndis,266
+57,Seekers of Truth,Crafting,375,Thaelen,421
+134,The Forsaken,Mage Training,492,Ashara,663
+14,The Righteous,Questing,134,Goromir,531
+172,Circle of Druids,Questing,986,Saphyra,673
+92,Elixir Masters,Crafting,305,Elira,94
+108,Council of Elders,Exploration,90,Illinor,518
+113,Prophets of Doom,Crafting,294,Thorgrim,434
+109,Prophets of Doom,Spying,993,Veyla,514
+150,Seekers of Truth,Exploration,113,Raelis,613
+76,Nature''s Whisper,Exploration,760,Lyrielle,571
+84,Moonlit Mystics,Questing,160,Xaradra,673
+175,Archmage Assembly,Mage Training,167,Endora,612
+47,Ocean''s Children,Healing,248,Valdrick,983
+103,Shadow Society,Exploration,373,Jadefang,577
+111,Heart of Courage,Questing,125,Azalor,980
+79,Wizards of the Coast,Knowledge,444,Xyra,810
+132,Thieves of Time,Healing,248,Jadefang,270
+169,Heart of Courage,Trading,19,Valyndra,594
+128,Dragon Slayers,Healing,653,Thera,277
+139,Elixir Masters,Crafting,124,Grundor,764
+141,Abyss Watchers,Trading,288,Oberion,787
+64,Heralds of Hope,Trading,132,Thorgrim,24
+34,Heavenly Healers,Trading,963,Ulfrik,839
+86,Knights of Valor,Healing,82,Toraell,325
+100,The Wanderers,Questing,622,Xyralis,467
+115,Prophets of Doom,Trading,506,Xyra,163
+51,Silver Lances,PvP,695,Azalor,863
+5,Elixir Masters,Healing,795,Thorgath,581
+136,The Forsaken,Trading,887,Quorlinn,308
+151,Archmage Assembly,Exploration,57,Aryndis,523
+82,Wizards of the Coast,Exploration,633,Sarthon,737
+117,Heavenly Healers,Knowledge,861,Thorgath,490
+178,Hands of Fate,Knowledge,341,Thundara,313
+91,Moonlit Mystics,Spying,873,Kyrion,158
+74,Sun Warriors,Knowledge,808,Lunarion,887
+164,Heralds of Hope,Healing,230,Thaldor,486
+66,Mind Over Matter,Healing,10,Valyndra,660
+85,Thieves of Time,Exploration,512,Valdrick,120
+88,Elixir Masters,Spying,399,Runorin,427
+31,Storm Riders,Spying,716,Loralei,451
+158,Mind Over Matter,Questing,843,Aryndis,654
+171,Heart of Courage,Exploration,621,Valyndra,972
+3,Abyss Watchers,Mage Training,296,Solandria,436
+69,Heart of Courage,PvP,613,Elira,701
+162,Silver Lances,Healing,923,Oromis,717
+154,The Forsaken,Mage Training,757,Aethor,390
+179,Desert Nomads,PvP,753,Xaradra,846
+252,Sun Warriors,Crafting,500,Aeriana,760
+180,The Undying,Spying,690,Aryndis,421
+255,Emerald Enchanters,Trading,825,Qelthar,838
+93,Merchant Princes,Questing,853,Saphyra,775
+284,The Forsaken,Mage Training,458,Xyphera,176
+213,Abyss Watchers,PvP,821,Raelis,931
+175,Mind Over Matter,Spying,39,Faelthorn,158
+218,Mind Over Matter,Trading,759,Faenar,548
+32,Heart of Courage,PvP,963,Drakan,598
+196,Prophets of Doom,Knowledge,936,Tyrndar,780
+59,Council of Elders,Trading,117,Vyktor,162
+22,Spirit Guardians,Knowledge,926,Nymriel,954
+86,Shadow Society,Healing,620,Zephyrix,673
+219,Elemental Lords,Crafting,352,Saphyra,767
+85,Silver Lances,Questing,545,Xirelle,93
+128,Dragon Slayers,Trading,418,Lythra,558
+17,Heroes of Harmony,Questing,733,Morwyn,330
+269,Mind Over Matter,Healing,883,Lyrielle,25
+211,The Righteous,Exploration,462,Isolde,191
+57,Merchant Princes,Questing,403,Saphyra,402
+268,Emerald Enchanters,Knowledge,526,Drakan,175
+273,Council of Elders,Healing,794,Orik,19
+159,Sun Warriors,Exploration,905,Saphyra,47
+190,Heavenly Healers,Exploration,940,Quorlinn,66
+207,Guardians of Light,Questing,553,Xyralis,673
+172,Abyss Watchers,Mage Training,257,Quorlinn,207
+247,Archmage Assembly,PvP,594,Gilean,634
+157,Nature''s Whisper,Healing,12,Zephyrix,285
+206,Guardians of Light,Questing,921,Illinor,220
+61,Merchant Princes,Knowledge,117,Zaela,416
+79,Heralds of Hope,Exploration,789,Zaela,538
+246,The Wanderers,Knowledge,686,Loralei,601
+248,Emerald Enchanters,Exploration,99,Aralyn,641
+76,The Silent Footsteps,Spying,461,Elira,77
+75,Heart of Courage,Knowledge,562,Belthorn,139
+146,Archmage Assembly,Trading,491,Serafelle,688
+72,Emerald Enchanters,Healing,581,Xaradra,205
+165,Ocean''s Children,Exploration,887,Nymriel,979
+183,Frostbite Clan,Crafting,940,Runorin,806
+89,Desert Nomads,Exploration,292,Valyndra,761
+256,The Silent Footsteps,Trading,104,Gorgrim,712
+224,Ocean''s Children,PvP,338,Serafelle,657
+265,Silver Lances,Exploration,259,Qelthar,464
+153,Silver Lances,Knowledge,997,Saphyra,781
+51,Crypt Crawlers,PvP,386,Xyralis,637
+20,Wisdom Weavers,PvP,986,Valyndra,624
+14,Mercenaries of Fortune,Spying,517,Grundor,114
+3,The Righteous,Questing,839,Veylan,971
+134,Ocean''s Children,Healing,30,Goromir,64
+6,Desert Nomads,Trading,235,Drakan,67
+239,Seekers of Truth,Healing,793,Jadefang,769
+198,Moonlit Mystics,Healing,70,Endora,258
+88,Hands of Fate,Mage Training,525,Xirelle,616
+131,Abyss Watchers,Exploration,588,Azalor,358
+41,Ocean''s Children,Crafting,611,Morwyn,414
+138,Sun Warriors,Exploration,377,Vyktor,651
+283,Prophets of Doom,PvP,852,Endora,142
+244,Circle of Druids,Exploration,345,Thaelen,356
+228,Artisans of Alchemy,Questing,61,Orin,983
+80,Elixir Masters,PvP,992,Tyrndar,680
+64,Mind Over Matter,Knowledge,402,Gorgrim,974
+253,Storm Riders,Healing,244,Zandalar,584
+145,Guardians of Light,Mage Training,997,Elanor,108
+142,Starborn Seekers,PvP,22,Thera,67
+161,Frostbite Clan,PvP,238,Valyndra,692
+84,Abyss Watchers,Questing,245,Belthorn,420
+193,Heavenly Healers,Questing,562,Veyla,454
+65,Frostbite Clan,PvP,554,Aethor,866
+135,Heroes of Harmony,Exploration,204,Veyla,723
+202,Elixir Masters,Mage Training,514,Seraphix,552
+140,Emerald Enchanters,Knowledge,156,Thorgal,680
+44,Heroes of Harmony,Healing,41,Zyraziel,561
+46,Crypt Crawlers,Exploration,737,Faenar,441
+199,Seekers of Truth,Knowledge,695,Elandria,569
+96,Knights of Valor,Crafting,476,Grundor,387
+82,Heart of Courage,Spying,823,Loralei,704
+169,Storm Riders,PvP,97,Zyraziel,890
+151,Emerald Enchanters,Questing,478,Toraell,567
+164,Crypt Crawlers,Crafting,866,Aralyn,584
+38,Spirit Guardians,Trading,762,Thorgal,518
+188,Dragon Slayers,PvP,912,Grundor,728
+227,The Wanderers,PvP,497,Orifel,917
+18,Heart of Courage,Spying,640,Aralyn,522
+69,The Righteous,Exploration,726,Illinor,586
+110,Prophets of Doom,Spying,541,Faenar,687
+90,Elixir Masters,Trading,981,Valthor,529
+115,Ocean''s Children,Spying,168,Lythor,733
+152,Wisdom Weavers,Spying,635,Oromis,199
+67,Gold Brokers,Healing,908,Azalor,910
+49,Dusk to Dawn,Questing,840,Thaelis,756
+12,The Righteous,PvP,89,Thaelis,801
+260,Heart of Courage,PvP,440,Elandria,816
+205,Moonlit Mystics,PvP,677,Valeria,456
+78,Defenders of Destiny,Knowledge,967,Orin,682
+280,The Wanderers,Spying,299,Nymriel,348
+163,Spirit Guardians,Healing,85,Orin,752
+29,Moonlit Mystics,Questing,306,Faelthorn,806
+274,Dragon Slayers,Healing,604,Elira,728
+23,Starborn Seekers,Spying,912,Morwyn,965
+117,Wizards of the Coast,Exploration,634,Veylan,91
+127,Dusk to Dawn,Knowledge,429,Zephyrix,752
+185,Council of Elders,Trading,363,Veyla,492
+167,Sun Warriors,Questing,108,Lythor,432
+124,Spirit Guardians,Crafting,690,Zaela,457
+279,Dragon Slayers,Questing,918,Jadefang,257
+154,Storm Riders,Healing,430,Vyktor,764
+26,The Wanderers,Mage Training,989,Thaldor,452
+263,Archmage Assembly,Questing,271,Isolde,543
+45,Archmage Assembly,PvP,404,Xaradra,771
+231,Artisans of Alchemy,Mage Training,822,Ashara,690
+242,Mind Over Matter,Crafting,801,Faelthorn,816
+148,The Silent Footsteps,Crafting,648,Laelor,738
+272,Heavenly Healers,PvP,931,Lythor,750
+102,Dragon Slayers,PvP,664,Drakan,234
+143,Knights of Valor,Questing,732,Xyra,500
+54,Shadow Society,Mage Training,231,Nymriel,824
+113,Moonlit Mystics,Crafting,676,Nymriel,42
+100,Guardians of Light,Healing,242,Belthorn,290
+107,Spirit Guardians,Questing,402,Morwyn,948
+53,The Righteous,Exploration,992,Selendis,960
+58,Circle of Druids,Questing,532,Elira,939
+98,The Silent Footsteps,Exploration,178,Thera,183
+7,The Righteous,Questing,107,Valyndra,165
+221,Council of Elders,Mage Training,766,Valeria,461
+240,Elixir Masters,Trading,506,Lunarion,180
+276,Heavenly Healers,Questing,628,Daelis,691
+177,Elixir Masters,Mage Training,982,Endora,420
+35,Spirit Guardians,Questing,293,Thorgrim,361
+10,Abyss Watchers,Trading,37,Valdrick,277
+2,Seekers of Truth,Trading,567,Lyrielle,548
+119,Hands of Fate,Trading,195,Gilean,584
+237,Artisans of Alchemy,Trading,35,Isolde,696
+234,Merchant Princes,PvP,575,Valyndra,114
+105,Wisdom Weavers,Spying,372,Zephyrix,959
+251,Seekers of Truth,Questing,600,Loralei,639
+215,Moonlit Mystics,Spying,654,Laelor,254
+210,Mercenaries of Fortune,Crafting,451,Valthor,254
+121,Elemental Lords,Crafting,396,Tyrndar,714
+108,The Forsaken,Trading,364,Thaelen,85
+19,Heroes of Harmony,Mage Training,689,Keldra,469
+257,Elixir Masters,Questing,1000,Tyrndar,549
