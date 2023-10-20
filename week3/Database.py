@@ -14,23 +14,73 @@ class Database:
     
     def player_exists(self, player_id):
         connection = self._connect()
-        cursor = connection.cursor()
+        cursor = connection.cursor(buffered=True) # Step 2: Use a buffered cursor
         sql = "SELECT COUNT(*) FROM player WHERE player_id = %s"
         cursor.execute(sql, (player_id,))
         count = cursor.fetchone()[0]
+        cursor.fetchall()  # Step 1: Explicitly fetch all results
         cursor.close()
         connection.close()
         return count > 0
 
     def chat_exists(self, chat_id):
         connection = self._connect()
-        cursor = connection.cursor()
+        cursor = connection.cursor(buffered=True)  # Step 2: Use a buffered cursor
         sql = "SELECT COUNT(*) FROM chat WHERE chat_id = %s"
         cursor.execute(sql, (chat_id,))
         count = cursor.fetchone()[0]
+        cursor.fetchall()  # Step 1: Explicitly fetch all results
         cursor.close()
         connection.close()
         return count > 0
+    
+    def get_player_name(self, player_id):
+        connection = None
+        cursor = None
+        try:
+            connection = self._connect()
+            cursor = connection.cursor(buffered=True)  # Step 2: Use a buffered cursor
+            sql = "SELECT username FROM player WHERE player_id = %s"
+            cursor.execute(sql, (player_id,))
+            result = cursor.fetchone()
+            cursor.fetchall()  # Step 1: Explicitly fetch all results
+            if result:
+                return result[0]
+            else:
+                return None
+        except Exception as e:
+            print(e)
+            return None
+        finally:
+            if cursor:
+                cursor.close()
+            if connection:
+                connection.close()
+
+    def get_chat_history(self, chat_id):
+        connection = None
+        cursor = None
+        try:
+            connection = self._connect()
+            cursor = connection.cursor(buffered=True)  # Step 2: Use a buffered cursor
+            sql = """
+            SELECT player.username, message.content 
+            FROM message 
+            JOIN player ON message.player_id = player.player_id 
+            WHERE message.chat_id = %s 
+            ORDER BY message.timestamp ASC;
+            """
+            cursor.execute(sql, (chat_id,))
+            results = cursor.fetchall()  # Fetch all results directly
+            return results
+        except Exception as e:
+            print(e)
+            return []
+        finally:
+            if cursor:
+                cursor.close()
+            if connection:
+                connection.close()
     
     def insert_message(self, chat_id, player_id, content):
         try:

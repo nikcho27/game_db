@@ -21,7 +21,10 @@ class ChatWindow:
         self.chat_id_frame = ttk.Frame(self.root)
         self.chat_id_frame.pack(padx=10, pady=5, fill=tk.X)
         ttk.Label(self.chat_id_frame, text="Chat ID: ").pack(side=tk.LEFT)
-        self.chat_id_entry = ttk.Entry(self.chat_id_frame)
+
+        self.chat_id_var = tk.StringVar()  # Create the StringVar variable
+        self.chat_id_var.trace_add("write", self.load_chat_history)  # Bind the load_chat_history method
+        self.chat_id_entry = ttk.Entry(self.chat_id_frame, textvariable=self.chat_id_var)
         self.chat_id_entry.pack(side=tk.LEFT, fill=tk.X, expand=True)
 
         self.chatArea = scrolledtext.ScrolledText(self.root, wrap=tk.WORD)
@@ -37,6 +40,23 @@ class ChatWindow:
         self.sendButton = ttk.Button(self.send_frame, text="Send", command=self.send_message)
         self.sendButton.pack(side=tk.RIGHT)
 
+    def load_chat_history(self, *args):  # *args is used because trace_add will pass additional arguments
+        try:
+            chat_id = int(self.chat_id_var.get())
+            chat_history = self.database.get_chat_history(chat_id)
+
+            self.chatArea.configure(state=tk.NORMAL)
+            self.chatArea.delete(1.0, tk.END)  # Clear existing messages
+
+            for name, message in chat_history:
+                self.chatArea.insert(tk.END, f"{name}: {message}\n")
+
+            self.chatArea.configure(state=tk.DISABLED)
+        except ValueError:
+            pass  # Do nothing if the chat ID is not an integer
+        except Exception as e:
+            print(e)
+
     def send_message(self):
         player_id = int(self.player_id_entry.get())
         chat_id = int(self.chat_id_entry.get())
@@ -50,10 +70,15 @@ class ChatWindow:
             messagebox.showerror("Error", "Chat ID does not exist.")
             return
 
+        player_name = self.database.get_player_name(player_id)
+        if not player_name:
+            messagebox.showerror("Error", f"No name found for Player ID {player_id}.")
+            return
+
         self.database.insert_player_chat(player_id, chat_id)
 
         self.chatArea.configure(state=tk.NORMAL)
-        self.chatArea.insert(tk.END, "Me: " + text + "\n")
+        self.chatArea.insert(tk.END, f"{player_name}: {text}\n")  # Using the player's name here
         self.chatArea.configure(state=tk.DISABLED)
 
         mentionPattern = re.compile(r"@(\w+)")
@@ -61,13 +86,12 @@ class ChatWindow:
         for mention in mentions:
             try:
                 mentionedPlayer = int(mention)
-              
                 self.database.insert_mention(self.message_id, mentionedPlayer)
             except Exception as e:
                 print(e)
 
         self.chatInput.delete(0, tk.END)
-        
+    
         # Insert the chat message
         self.database.insert_message(chat_id, player_id, text)
 
