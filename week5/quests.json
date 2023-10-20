@@ -1,0 +1,200 @@
+{
+    "_id": {
+        "$oid": "65318c9c320faf0e95a9301a"
+    },
+    "questID": "301",
+    "questName": "Rescue the Villagers",
+    "description": "Save the kidnapped villagers from goblins.",
+    "minPlayerLevel": 10,
+    "maxPlayerLevel": 20,
+    "questLocation": {
+        "coordinates": {
+            "latitude": 45.1234,
+            "longitude": -123.4567
+        },
+        "zone": "Goblin Territory"
+    },
+    "participatingPlayers": [
+        {
+            "playerId": "p101",
+            "itemsCollected": [
+                {
+                    "itemId": "sword01",
+                    "quantity": 1
+                }
+            ],
+            "pointsScored": 250,
+            "timeTaken": 30
+        }
+    ],
+    "npcsInvolved": [
+        {
+            "dialogue": [
+                "The goblins are restless.",
+                "Be on your guard."
+            ],
+            "name": "Village Chief",
+            "location": "Village Center"
+        },
+        {
+            "_id": {
+                "$oid": "65318cec320faf0e95a9301c"
+            },
+            "questID": "302",
+            "questName": "Herb Gathering",
+            "description": "Collect rare herbs from the enchanted forest.",
+            "minPlayerLevel": 5,
+            "maxPlayerLevel": 15,
+            "questLocation": {
+                "coordinates": {
+                    "latitude": 46.789,
+                    "longitude": -124.6789
+                },
+                "zone": "Enchanted Forest"
+            },
+            "participatingPlayers": [
+                {
+                    "playerId": "p102",
+                    "itemsCollected": [
+                        {
+                            "itemId": "herb01",
+                            "quantity": 5
+                        }
+                    ],
+                    "pointsScored": 50,
+                    "timeTaken": 15
+                }
+            ],
+            "npcsInvolved": [
+                {
+                    "dialogue": [
+                        "These herbs are rare.",
+                        "Take care when picking them."
+                    ],
+                    "name": "Forest Druid",
+                    "location": "Forest Clearing"
+                }
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "65318de5320faf0e95a9301e"
+            },
+            "questID": "303",
+            "questName": "Elemental Trials",
+            "description": "Defeat elemental guardians in the trial.",
+            "minPlayerLevel": 15,
+            "maxPlayerLevel": 25,
+            "questLocation": {
+                "coordinates": {
+                    "latitude": 47.8901,
+                    "longitude": -125.789
+                },
+                "zone": "Elemental Arena"
+            },
+            "participatingPlayers": [
+                {
+                    "playerId": "p103",
+                    "itemsCollected": [
+                        {
+                            "itemId": "elementalStone",
+                            "quantity": 3
+                        }
+                    ],
+                    "pointsScored": 500,
+                    "timeTaken": 45
+                }
+            ],
+            "npcsInvolved": [
+                {
+                    "dialogue": [
+                        "The elements are powerful.",
+                        "Prepare for a challenge."
+                    ],
+                    "name": "Elemental Sage",
+                    "location": "Arena Entrance"
+                }
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "65318e11320faf0e95a93020"
+            },
+            "questID": "304",
+            "questName": "Uncover the Shadow",
+            "description": "Investigate the rise of The Shadow.",
+            "minPlayerLevel": 20,
+            "maxPlayerLevel": 30,
+            "questLocation": {
+                "coordinates": {
+                    "latitude": 48.9012,
+                    "longitude": -126.8901
+                },
+                "zone": "Mysterious Caves"
+            },
+            "participatingPlayers": [
+                {
+                    "playerId": "p104",
+                    "itemsCollected": [
+                        {
+                            "itemId": "shadowCrystal",
+                            "quantity": 1
+                        }
+                    ],
+                    "pointsScored": 800,
+                    "timeTaken": 50
+                }
+            ],
+            "npcsInvolved": [
+                {
+                    "dialogue": [
+                        "The shadows grow deeper.",
+                        "You must uncover the truth."
+                    ],
+                    "name": "Cave Mystic",
+                    "location": "Cave Entrance"
+                }
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "65318e70320faf0e95a93023"
+            },
+            "questID": "305",
+            "questName": "Shadow Infiltration",
+            "description": "Infiltrate The Shadow's secret base.",
+            "minPlayerLevel": 25,
+            "maxPlayerLevel": 35,
+            "questLocation": {
+                "coordinates": {
+                    "latitude": 49.0123,
+                    "longitude": -127.9012
+                },
+                "zone": "Shadow Fortress"
+            },
+            "participatingPlayers": [
+                {
+                    "playerId": "p105",
+                    "itemsCollected": [
+                        {
+                            "itemId": "invisibilityCloak",
+                            "quantity": 1
+                        }
+                    ],
+                    "pointsScored": 1000,
+                    "timeTaken": 60
+                }
+            ],
+            "npcsInvolved": [
+                {
+                    "dialogue": [
+                        "The base is heavily guarded.",
+                        "Use stealth to navigate."
+                    ],
+                    "name": "Spy Agent",
+                    "location": "Fortress Outskirts"
+                }
+            ]
+        }
+    ]
+}
