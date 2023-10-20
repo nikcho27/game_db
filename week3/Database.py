@@ -5,7 +5,7 @@ class Database:
         self.config = {
             'host': 'localhost',
             'user': 'root',
-            'password': '2942123',
+            'password': 'eutu2003',
             'database': 'game_db' 
         }
 
